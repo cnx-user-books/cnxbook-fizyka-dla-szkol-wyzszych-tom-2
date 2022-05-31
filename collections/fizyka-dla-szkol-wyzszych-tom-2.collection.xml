@@ -1,0 +1,221 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="pl">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col25244</md:content-id>
+    <md:title>Fizyka dla szkół wyższych. Tom 2</md:title>
+    <md:language>pl</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>16ab5b96-4598-45f9-993c-b8d78d82b0c6</md:uuid>
+<md:slug>fizyka-dla-szkol-wyzszych-tom-2</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m65850"/>
+    <col:subcollection>
+      <md:title>Termodynamika</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Temperatura i ciepło</md:title>
+          <col:content>
+            <col:module document="m67140"/>
+            <col:module document="m67141"/>
+            <col:module document="m67142"/>
+            <col:module document="m67143"/>
+            <col:module document="m67144"/>
+            <col:module document="m67145"/>
+            <col:module document="m67146"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Kinetyczna teoria gazów</md:title>
+          <col:content>
+            <col:module document="m65890"/>
+            <col:module document="m67147"/>
+            <col:module document="m67148"/>
+            <col:module document="m67149"/>
+            <col:module document="m67150"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Pierwsza zasada termodynamiki</md:title>
+          <col:content>
+            <col:module document="m65898"/>
+            <col:module document="m67244"/>
+            <col:module document="m67248"/>
+            <col:module document="m67246"/>
+            <col:module document="m67243"/>
+            <col:module document="m67245"/>
+            <col:module document="m67242"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Druga zasada termodynamiki</md:title>
+          <col:content>
+            <col:module document="m67151"/>
+            <col:module document="m67152"/>
+            <col:module document="m67153"/>
+            <col:module document="m67154"/>
+            <col:module document="m67155"/>
+            <col:module document="m67156"/>
+            <col:module document="m67157"/>
+            <col:module document="m67158"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Elektryczność i magnetyzm</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Ładunki i pola elektryczne</md:title>
+          <col:content>
+            <col:module document="m67159"/>
+            <col:module document="m67160"/>
+            <col:module document="m67161"/>
+            <col:module document="m67162"/>
+            <col:module document="m67163"/>
+            <col:module document="m67164"/>
+            <col:module document="m67165"/>
+            <col:module document="m67166"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Prawo Gaussa</md:title>
+          <col:content>
+            <col:module document="m67167"/>
+            <col:module document="m67168"/>
+            <col:module document="m67169"/>
+            <col:module document="m67170"/>
+            <col:module document="m67171"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Potencjał elektryczny</md:title>
+          <col:content>
+            <col:module document="m67172"/>
+            <col:module document="m67173"/>
+            <col:module document="m67174"/>
+            <col:module document="m67175"/>
+            <col:module document="m67176"/>
+            <col:module document="m67177"/>
+            <col:module document="m67178"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Pojemność elektryczna</md:title>
+          <col:content>
+            <col:module document="m67179"/>
+            <col:module document="m67180"/>
+            <col:module document="m67181"/>
+            <col:module document="m67182"/>
+            <col:module document="m67183"/>
+            <col:module document="m67184"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Prąd i rezystancja</md:title>
+          <col:content>
+            <col:module document="m67185"/>
+            <col:module document="m67186"/>
+            <col:module document="m67187"/>
+            <col:module document="m67188"/>
+            <col:module document="m67189"/>
+            <col:module document="m67190"/>
+            <col:module document="m67191"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Obwody prądu stałego</md:title>
+          <col:content>
+            <col:module document="m67192"/>
+            <col:module document="m67193"/>
+            <col:module document="m67194"/>
+            <col:module document="m67195"/>
+            <col:module document="m67196"/>
+            <col:module document="m67197"/>
+            <col:module document="m67198"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Siła i pole magnetyczne</md:title>
+          <col:content>
+            <col:module document="m67199"/>
+            <col:module document="m67200"/>
+            <col:module document="m67201"/>
+            <col:module document="m67202"/>
+            <col:module document="m67203"/>
+            <col:module document="m67204"/>
+            <col:module document="m67205"/>
+            <col:module document="m67206"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Źródła pola magnetycznego</md:title>
+          <col:content>
+            <col:module document="m67207"/>
+            <col:module document="m67208"/>
+            <col:module document="m67209"/>
+            <col:module document="m67210"/>
+            <col:module document="m67211"/>
+            <col:module document="m67212"/>
+            <col:module document="m67213"/>
+            <col:module document="m67214"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Indukcja elektromagnetyczna</md:title>
+          <col:content>
+            <col:module document="m67215"/>
+            <col:module document="m67216"/>
+            <col:module document="m67217"/>
+            <col:module document="m67218"/>
+            <col:module document="m67219"/>
+            <col:module document="m67220"/>
+            <col:module document="m67221"/>
+            <col:module document="m67222"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Indukcyjność</md:title>
+          <col:content>
+            <col:module document="m67223"/>
+            <col:module document="m67224"/>
+            <col:module document="m67225"/>
+            <col:module document="m67226"/>
+            <col:module document="m67227"/>
+            <col:module document="m67228"/>
+            <col:module document="m67229"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Obwody prądu zmiennego</md:title>
+          <col:content>
+            <col:module document="m67230"/>
+            <col:module document="m67231"/>
+            <col:module document="m67232"/>
+            <col:module document="m67233"/>
+            <col:module document="m67234"/>
+            <col:module document="m67235"/>
+            <col:module document="m67236"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Fale elektromagnetyczne</md:title>
+          <col:content>
+            <col:module document="m65888"/>
+            <col:module document="m67237"/>
+            <col:module document="m67238"/>
+            <col:module document="m67239"/>
+            <col:module document="m67240"/>
+            <col:module document="m67241"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m65851"/>
+    <col:module document="m65852"/>
+    <col:module document="m65853"/>
+    <col:module document="m65854"/>
+    <col:module document="m65855"/>
+    <col:module document="m65856"/>
+    <col:module document="m65857"/>
+  </col:content>
+</col:collection>
