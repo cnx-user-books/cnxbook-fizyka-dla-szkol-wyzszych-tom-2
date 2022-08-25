@@ -1,19 +1,20 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="pl">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="pl" authors="OpenStax Poland">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col25244</md:content-id>
-    <md:title>Fizyka dla szkół wyższych. Tom 2</md:title>
+    <md:title>Fizyka dla szk&#xF3;&#x142; wy&#x17C;szych. Tom 2</md:title>
     <md:language>pl</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>16ab5b96-4598-45f9-993c-b8d78d82b0c6</md:uuid>
-<md:slug>fizyka-dla-szkol-wyzszych-tom-2</md:slug>
-</metadata>
+    <md:slug>fizyka-dla-szkol-wyzszych-tom-2</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m65850"/>
     <col:subcollection>
       <md:title>Termodynamika</md:title>
       <col:content>
         <col:subcollection>
-          <md:title>Temperatura i ciepło</md:title>
+          <md:title>Temperatura i ciep&#x142;o</md:title>
           <col:content>
             <col:module document="m67140"/>
             <col:module document="m67141"/>
@@ -25,7 +26,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Kinetyczna teoria gazów</md:title>
+          <md:title>Kinetyczna teoria gaz&#xF3;w</md:title>
           <col:content>
             <col:module document="m65890"/>
             <col:module document="m67147"/>
@@ -62,10 +63,10 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Elektryczność i magnetyzm</md:title>
+      <md:title>Elektryczno&#x15B;&#x107; i magnetyzm</md:title>
       <col:content>
         <col:subcollection>
-          <md:title>Ładunki i pola elektryczne</md:title>
+          <md:title>&#x141;adunki i pola elektryczne</md:title>
           <col:content>
             <col:module document="m67159"/>
             <col:module document="m67160"/>
@@ -88,7 +89,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Potencjał elektryczny</md:title>
+          <md:title>Potencja&#x142; elektryczny</md:title>
           <col:content>
             <col:module document="m67172"/>
             <col:module document="m67173"/>
@@ -100,7 +101,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Pojemność elektryczna</md:title>
+          <md:title>Pojemno&#x15B;&#x107; elektryczna</md:title>
           <col:content>
             <col:module document="m67179"/>
             <col:module document="m67180"/>
@@ -111,7 +112,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Prąd i rezystancja</md:title>
+          <md:title>Pr&#x105;d i rezystancja</md:title>
           <col:content>
             <col:module document="m67185"/>
             <col:module document="m67186"/>
@@ -123,7 +124,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Obwody prądu stałego</md:title>
+          <md:title>Obwody pr&#x105;du sta&#x142;ego</md:title>
           <col:content>
             <col:module document="m67192"/>
             <col:module document="m67193"/>
@@ -135,7 +136,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Siła i pole magnetyczne</md:title>
+          <md:title>Si&#x142;a i pole magnetyczne</md:title>
           <col:content>
             <col:module document="m67199"/>
             <col:module document="m67200"/>
@@ -148,7 +149,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Źródła pola magnetycznego</md:title>
+          <md:title>&#x179;r&#xF3;d&#x142;a pola magnetycznego</md:title>
           <col:content>
             <col:module document="m67207"/>
             <col:module document="m67208"/>
@@ -174,7 +175,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Indukcyjność</md:title>
+          <md:title>Indukcyjno&#x15B;&#x107;</md:title>
           <col:content>
             <col:module document="m67223"/>
             <col:module document="m67224"/>
@@ -186,7 +187,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Obwody prądu zmiennego</md:title>
+          <md:title>Obwody pr&#x105;du zmiennego</md:title>
           <col:content>
             <col:module document="m67230"/>
             <col:module document="m67231"/>
