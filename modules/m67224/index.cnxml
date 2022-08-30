@@ -128,17 +128,17 @@
 </m:math> jest <term xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cmlnle:reference="henr">henr</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">henry</term></foreign>) oznaczany dużą literą <m:math display="inline"><m:semantics><m:mi mathvariant="normal">H</m:mi><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \si{\henry}</m:annotation></m:semantics></m:math>. Nazwa ta pochodzi od nazwiska <term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cxlxt:index="name" cxlxt:name="Henry, Joseph" cxlxt:born="1799" cxlxt:died="1878" cmlnle:reference="Henry, Joseph (1799–1878)">Josepha Henry’ego (1799–1878)</term>, amerykańskiego fizyka, który niezależnie od Faradaya dokonał odkrycia indukcji elektromagnetycznej. Między jednostkami zachodzi równość <m:math display="inline">
 <m:mrow>
   <m:mn>1</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">H</m:mi>
 </m:mrow>
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>1</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mrow>
     <m:mrow>
       <m:mi mathvariant="normal">V</m:mi>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">s</m:mi>
     </m:mrow>
     <m:mo>∕</m:mo>
@@ -409,7 +409,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>3,1</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">cm</m:mi>
 </m:mrow>
 </m:math>, <m:math display="inline">
@@ -420,12 +420,12 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>75</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">cm</m:mi>
 </m:mrow>
 </m:math>, a prąd w solenoidzie zmienia się w tempie <m:math display="inline">
 <m:mn>200</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mrow>
   <m:mi mathvariant="normal">A</m:mi>
   <m:mo>∕</m:mo>
@@ -640,7 +640,7 @@
       <m:mtext>.</m:mtext>
     </m:mrow>
   </m:math></equation></item>
-  <item>Wstawiając dane z treści zadania do powyższego równania, otrzymujemy<equation id="fs-id1167131457079" class="unnumbered"><m:math display="block"><m:mi>M</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi></m:mrow><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mrow><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow><m:mo>∕</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mn>500</m:mn><m:mo>⋅</m:mo><m:mn>10</m:mn></m:mrow><m:mo>⁢</m:mo><m:mi>π</m:mi></m:mrow><m:mo>⋅</m:mo><m:msup><m:mfenced><m:mrow><m:mn>0,031</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mfenced><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>0,75</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mn>2,53</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">H</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:math></equation> Zatem, korzystając z <link xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" target-id="fs-id1167131582770" cmlnle:case="genitive"/>, stwierdzamy, że SEM indukowana w zewnętrznej cewce wynosi<equation id="fs-id1167131427316" class="unnumbered"><m:math display="block"><m:msub><m:mi>ε</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mrow><m:mo>−</m:mo><m:mrow><m:mi>M</m:mi><m:mo>⁢</m:mo><m:mfrac><m:mrow><m:mo rspace="veryverythinmathspace" lspace="verythinmathspace">d</m:mo><m:msub><m:mi>i</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mrow><m:mo rspace="veryverythinmathspace" lspace="verythinmathspace">d</m:mo><m:mi>t</m:mi></m:mrow></m:mfrac></m:mrow></m:mrow><m:mo>=</m:mo><m:mrow><m:mo>−</m:mo><m:mrow><m:mrow><m:mrow><m:mn>2,53</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">H</m:mi></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mn>200</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mrow><m:mi mathvariant="normal">A</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mrow></m:mrow></m:mrow><m:mo>=</m:mo><m:mrow><m:mo>−</m:mo><m:mrow><m:mrow><m:mrow><m:mn>5,06</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">V</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow></m:math></equation></item>
+  <item>Wstawiając dane z treści zadania do powyższego równania, otrzymujemy<equation id="fs-id1167131457079" class="unnumbered"><m:math display="block"><m:mi>M</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi></m:mrow><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow><m:mo>∕</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mn>500</m:mn><m:mo>⋅</m:mo><m:mn>10</m:mn></m:mrow><m:mo>⁢</m:mo><m:mi>π</m:mi></m:mrow><m:mo>⋅</m:mo><m:msup><m:mfenced><m:mrow><m:mn>0,031</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mfenced><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>0,75</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mn>2,53</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">H</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:math></equation> Zatem, korzystając z <link xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" target-id="fs-id1167131582770" cmlnle:case="genitive"/>, stwierdzamy, że SEM indukowana w zewnętrznej cewce wynosi<equation id="fs-id1167131427316" class="unnumbered"><m:math display="block"><m:msub><m:mi>ε</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mrow><m:mo>−</m:mo><m:mrow><m:mi>M</m:mi><m:mo>⁢</m:mo><m:mfrac><m:mrow><m:mo rspace="veryverythinmathspace" lspace="verythinmathspace">d</m:mo><m:msub><m:mi>i</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mrow><m:mo rspace="veryverythinmathspace" lspace="verythinmathspace">d</m:mo><m:mi>t</m:mi></m:mrow></m:mfrac></m:mrow></m:mrow><m:mo>=</m:mo><m:mrow><m:mo>−</m:mo><m:mrow><m:mrow><m:mrow><m:mn>2,53</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">H</m:mi></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mn>200</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">A</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mrow></m:mrow></m:mrow><m:mo>=</m:mo><m:mrow><m:mo>−</m:mo><m:mrow><m:mrow><m:mrow><m:mn>5,06</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">V</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow></m:math></equation></item>
 </list>
 <para id="fs-id1167134943842"><title>Znaczenie</title>Zauważmy, że indukcyjność wzajemna <m:math display="inline">
     <m:mi>M</m:mi>
@@ -681,7 +681,7 @@
     <m:mrow>
       <m:mrow>
         <m:mn>5</m:mn>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:mrow>
       <m:mo>⋅</m:mo>
@@ -693,7 +693,7 @@
               <m:mn>120</m:mn>
               <m:mo>⁢</m:mo>
               <m:mi>π</m:mi>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mrow>
                 <m:mi mathvariant="normal">rad</m:mi>
                 <m:mo>∕</m:mo>
@@ -718,7 +718,7 @@
                   <m:mrow><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow>
                 </m:msup>
               </m:mrow>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">V</m:mi>
               </m:math>.</para>
             </solution>
@@ -875,7 +875,7 @@
     <m:mrow>
       <m:mrow>
         <m:mi mathvariant="normal">T</m:mi>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:msup>
           <m:mi mathvariant="normal">m</m:mi>
           <m:mn>2</m:mn>
@@ -888,7 +888,7 @@
     <m:mrow>
       <m:mrow>
         <m:mi mathvariant="normal">V</m:mi>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">s</m:mi>
       </m:mrow>
       <m:mo>∕</m:mo>
@@ -916,29 +916,29 @@
         <problem id="fs-id1167131199871">
           <para id="fs-id1167131516088">W induktorze o indukcyjności <m:math display="inline">
             <m:mn>10</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">H</m:mi>
           </m:math> płynie prąd o natężeniu <m:math display="inline">
           <m:mn>20</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">A</m:mi>
         </m:math>. Opisz, w jaki sposób można na nim zaindukować SEM o wartości <m:math display="inline">
         <m:mn>50</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
         </m:math>.</para></problem>
     </exercise>
     <exercise id="fs-id1167131459938"><problem id="fs-id1167134684663">
         <para id="fs-id1167131080091">Układ zapłonowy w samochodzie zasilany jest baterią <m:math display="inline">
           <m:mn>12</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">V</m:mi>
           </m:math>. Jak za pomocą takiego źródła prądu możemy generować wysokie napięcia?</para>
         </problem>
         <solution id="fs-id1167131459891">
           <para id="fs-id1167134879512">Prąd indukowany przez baterię <m:math display="inline">
             <m:mn>12</m:mn>
-           <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+           <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">V</m:mi>
             </m:math> płynie przez induktor, co generuje wysokie napięcie.</para>
           </solution>
@@ -954,7 +954,7 @@
           <problem id="fs-id1167131263545">
             <para id="fs-id1167131267288">Kiedy prąd w jednej cewce zmienia się w tempie <m:math display="inline">
               <m:mn>5,6</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mrow>
                 <m:mi mathvariant="normal">A</m:mi>
                 <m:mo>∕</m:mo>
@@ -969,7 +969,7 @@
                 <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
               </m:msup>
             </m:mrow>
-           <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+           <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">V</m:mi>
             </m:math>. Jaka jest indukcyjność wzajemna tych cewek?</para></problem>
         </exercise>
@@ -984,11 +984,11 @@
                   <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
                 </m:msup>
               </m:mrow>
-             <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+             <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">V</m:mi>
             </m:math>, natężenie prądu płynącego przez drugą zmienia się w tempie <m:math display="inline">
             <m:mn>2,7</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mrow>
               <m:mi mathvariant="normal">A</m:mi>
               <m:mo>∕</m:mo>
@@ -1008,7 +1008,7 @@
                       <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
                     </m:msup>
                   </m:mrow>
-               <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+               <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">H</m:mi>
                 </m:mrow>
                 </m:math>.</para></solution>
@@ -1017,7 +1017,7 @@
               <problem id="fs-id1167131126766">
                 <para id="fs-id1167131362275">Indukcyjność wzajemna dwóch położonych w pobliżu siebie cewek wynosi <m:math display="inline">
                   <m:mn>32</m:mn>
-                 <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                 <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">mH</m:mi>
                 </m:math>. Jeśli natężenie prądu płynącego w jednej zanika zgodnie z równaniem <m:math>
                 <m:mrow>
@@ -1044,7 +1044,7 @@
               <m:mo>=</m:mo>
               <m:mrow>
                 <m:mn>5</m:mn>
-               <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+               <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">A</m:mi>
               </m:mrow>
             </m:math> a <m:math display="inline">
@@ -1060,7 +1060,7 @@
                     <m:mn>3</m:mn>
                   </m:msup>
                 </m:mrow>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">s</m:mi>
               </m:mrow>
               <m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow>
@@ -1077,14 +1077,14 @@
               <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
             </m:msup>
           </m:mrow>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:msup>
             <m:mi mathvariant="normal">m</m:mi>
             <m:mn>2</m:mn>
           </m:msup>
         </m:math>. Solenoid ma <m:math display="inline">
         <m:mn>0,5</m:mn>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">m</m:mi>
       </m:math> długości i ma 500 zwojów.<list id="eip-idm657607568" list-type="enumerated" number-style="lower-alpha"><item>Ile wynosi indukcyjność wzajemna tego układu?</item>
     <item>Zewnętrzna cewka zastąpiona jest cewką o 40 zwojach i promieniu trzy razy większym niż promień wewnętrznego solenoidu. Ile wynosi indukcyjność wzajemna w tym przypadku?</item>
@@ -1099,7 +1099,7 @@
         <m:mrow><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow>
       </m:msup>
     </m:mrow>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">H</m:mi>
   </m:math>; b. <m:math display="inline">
   <m:mrow>
@@ -1110,29 +1110,29 @@
       <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
     </m:msup>
   </m:mrow>
- <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+ <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">H</m:mi>
   </m:math>.</para></solution>
 </exercise><exercise id="fs-id1167131606004">
   <problem id="fs-id1167131606006">
     <para id="fs-id1167131590750">Solenoid o 600 zwojach ma <m:math display="inline">
     <m:mn>0,55</m:mn>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">m</m:mi>
   </m:math> długości i <m:math display="inline">
   <m:mn>4,2</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">cm</m:mi>
 </m:math> średnicy. Wewnątrz umieszczono na stałe niewielką prostokątną pętlę o wymiarach <m:math display="inline">
 <m:mrow>
   <m:mn>1,1</m:mn>
- <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+ <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">cm</m:mi>
 </m:mrow>
 <m:mo>×</m:mo>
 <m:mrow>
   <m:mn>1,4</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">cm</m:mi>
 </m:mrow>
 </m:math>, tak że długa oś solenoidu jest prostopadła do powierzchni pętli. Jaka jest indukcyjność wzajemna tego układu?</para></problem>
@@ -1140,11 +1140,11 @@
 <exercise id="fs-id1167131168748"><problem id="fs-id1167134873530">
     <para id="fs-id1167131365430">Jednorodnie nawinięta cewka o 1000 zwojach w kształcie torusa ma średni promień wynoszący <m:math display="inline">
     <m:mn>16</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">cm</m:mi>
   </m:math> i pole przekroju poprzecznego <m:math display="inline">
   <m:mn>0,25</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:msup>
     <m:mi mathvariant="normal">cm</m:mi>
     <m:mn>2</m:mn>
@@ -1167,7 +1167,7 @@
             <m:mrow><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow>
           </m:msup>
         </m:mrow>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">H</m:mi>
       </m:mrow>
       </m:math>.</para>
@@ -1215,16 +1215,16 @@
       <meaning id="fs-id1167134991822">jednostka indukcyjności, <m:math display="inline">
         <m:mrow>
           <m:mn>1</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">H</m:mi>
         </m:mrow>
         <m:mo>=</m:mo>
         <m:mrow>
           <m:mn>1</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mrow>
             <m:mi mathvariant="normal">Ω</m:mi>
-           <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+           <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">s</m:mi>
           </m:mrow>
         </m:mrow>

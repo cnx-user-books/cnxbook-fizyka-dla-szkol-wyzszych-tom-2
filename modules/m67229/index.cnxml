@@ -365,7 +365,7 @@
             <m:mo>=</m:mo>
             <m:mrow>
               <m:mn>5</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">mH</m:mi>
             </m:mrow>
           </m:math>, <m:math display="inline">
@@ -373,7 +373,7 @@
           <m:mo>=</m:mo>
           <m:mrow>
             <m:mn>6</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">µF</m:mi>
           </m:mrow>
         </m:math> i <m:math display="inline">
@@ -381,7 +381,7 @@
         <m:mo>=</m:mo>
         <m:mrow>
           <m:mn>200</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">Ω</m:mi>
         </m:mrow>
       </m:math>.
@@ -396,7 +396,7 @@
             <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
           </m:msup>
         </m:mrow>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">C</m:mi>
         </m:math>, jak dużo energii rozproszy się na oporniku do momentu wygaśnięcia oscylacji?</item>
       </list>
@@ -404,7 +404,7 @@
   <solution id="fs-id1167131459285">
     <para id="fs-id1167131201247">a. Silnie; b. <m:math display="inline">
       <m:mn>0,75</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">J</m:mi>
       </m:math>.</para></solution>
   </exercise>
@@ -1026,7 +1026,7 @@
     <problem id="fs-id1167131563570">
       <para id="fs-id1167131631269">Załóżmy, że chciałbyś zaprojektować obwód LC o częstotliwości <m:math display="inline">
         <m:mn>0,01</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">Hz</m:mi>
         </m:math>. Z jakimi trudnościami mógłbyś się spotkać?</para></problem>
     </exercise>
@@ -1048,7 +1048,7 @@
           <m:mo>=</m:mo>
           <m:mrow>
             <m:mn>5</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
         </m:math>, <m:math display="inline">
@@ -1056,7 +1056,7 @@
         <m:mo>=</m:mo>
         <m:mrow>
           <m:mn>5</m:mn>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">mH</m:mi>
         </m:mrow>
       </m:math> oraz <m:math display="inline">
@@ -1064,7 +1064,7 @@
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>500</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">µF</m:mi>
       </m:mrow>
       </m:math>. Ile wynosi częstość kątowa oscylacji?</para></problem>
@@ -1075,7 +1075,7 @@
         <m:mo>=</m:mo>
         <m:mrow>
           <m:mn>10</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">mH</m:mi>
         </m:mrow>
       </m:math>, <m:math display="inline">
@@ -1083,7 +1083,7 @@
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>1,5</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">µF</m:mi>
       </m:mrow>
     </m:math> i <m:math display="inline">
@@ -1091,7 +1091,7 @@
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>2</m:mn>
- <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+ <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
     </m:math>. Ile czasu upłynie, zanim amplituda oscylacji spadnie do połowy swojej początkowej wartości?</para>
@@ -1100,7 +1100,7 @@
     <para id="fs-id1167131341458">
       <m:math display="inline">
         <m:mn>6,9</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">ms</m:mi>
         </m:math>.</para>
       </solution>
@@ -1108,17 +1108,17 @@
       <problem id="fs-id1167134582582">
         <para id="fs-id1167134582584">Opornik o jakim oporze musi zostać połączony z cewką o indukcyjności <m:math display="inline">
           <m:mn>200</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">mH</m:mi>
         </m:math>, by oscylacje zanikły do <m:math display="inline">
         <m:mn>50</m:mn>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">%</m:mi>
       </m:math> swojej początkowej wartości po <m:math display="inline">
       <m:mn>50</m:mn>
     </m:math> cyklach? A o jakim, by zanikły do <m:math display="inline">
     <m:mn>0,1</m:mn>
- <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+ <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">%</m:mi>
   </m:math> początkowej wartości po <m:math display="inline">
   <m:mn>50</m:mn>
@@ -1190,7 +1190,7 @@
       </m:msup>
     </m:math>.<list id="eip-idm185976320" list-type="enumerated" number-style="lower-alpha"><item>Ile wynosi indukcja pola magnetycznego wewnątrz rdzenia, jeśli przez solenoid płynie prąd o natężeniu <m:math display="inline">
       <m:mn>2</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
       </m:math>?</item>
       <item>Ile wynosi efektywne natężenie prądu powierzchniowego, którego źródłem są występujące w żelaznym rdzeniu pętle o rozmiarach atomu, w których płynie prąd?</item>
@@ -1200,15 +1200,15 @@
 <solution id="fs-id1167134565655">
   <para id="fs-id1167134565657">a. <m:math display="inline">
     <m:mn>100</m:mn>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">T</m:mi>
   </m:math>; b. <m:math display="inline">
   <m:mn>2</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">A</m:mi>
 </m:math>; c. <m:math display="inline">
 <m:mn>0,5</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">H</m:mi>
 </m:math>.</para></solution>
 </exercise>
@@ -1226,7 +1226,7 @@
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>7</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">cm</m:mi>
     </m:mrow>
   </m:math>, zewnętrznym <m:math display="inline">
@@ -1237,7 +1237,7 @@
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>9</m:mn>
- <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+ <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">cm</m:mi>
   </m:mrow>
 </m:math>, wysokości <m:math display="inline">
@@ -1245,7 +1245,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>3</m:mn>
- <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+ <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">cm</m:mi>
 </m:mrow>
 </m:math> i podatności magnetycznej <m:math display="inline">
@@ -1259,7 +1259,7 @@
 <item>Ile wynosi indukcyjność własna cewki?</item>
 <item>Ile wynosi pole magnetyczne w środku rdzenia, jeśli przez cewkę płynie prąd o natężeniu <m:math display="inline">
   <m:mn>2</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">A</m:mi>
   </m:math>?</item>
   <item>Ile wynosi efektywne natężenie prądu powierzchniowego?</item>
@@ -1268,7 +1268,7 @@
 </exercise>
 <exercise id="fs-id1167131399352">
   <problem id="fs-id1167131399354">
-    <para id="fs-id1167131205180">W czasie <m:math display="inline"><m:mi>t</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:math> poniższy obwód został zamknięty przełącznikiem <m:math display="inline">
+    <para id="fs-id1167131205180">W czasie <m:math display="inline"><m:mi>t</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:math> poniższy obwód został zamknięty przełącznikiem <m:math display="inline">
     <m:mi>S</m:mi>
   </m:math>. Wyznacz natężenie prądu płynącego przez baterię<list id="eip-idm1045871376" list-type="enumerated" number-style="lower-alpha">
   <item>w chwili zamknięcia obwodu;</item>
@@ -1281,11 +1281,11 @@
 <solution id="fs-id1167134932628">
   <para id="fs-id1167131256402">a. <m:math display="inline">
     <m:mn>0</m:mn>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">A</m:mi>
   </m:math>; b. <m:math display="inline">
   <m:mn>2,4</m:mn>
- <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+ <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">A</m:mi>
   </m:math>.</para></solution>
 </exercise>
@@ -1296,7 +1296,7 @@
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>7</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
     </m:math>, <m:math display="inline">
@@ -1304,7 +1304,7 @@
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>10</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">mH</m:mi>
     </m:mrow>
   </m:math> i <m:math display="inline">
@@ -1312,12 +1312,12 @@
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>3</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">µF</m:mi>
   </m:mrow>
 </m:math>. Początkowy ładunek na kondensatorze wynosi <m:math display="inline">
 <m:mn>8</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">µC</m:mi>
 </m:math> przy zerowym prądzie. Oblicz ładunek na kondensatorze<list id="eip-idm209050192" list-type="enumerated" number-style="lower-alpha">
 <item>po pięciu cyklach oscylacji;</item>
@@ -1329,15 +1329,15 @@
   <problem id="fs-id1167131422582">
     <para id="fs-id1167131255835">Prąd o natężeniu <m:math display="inline">
       <m:mn>100</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
     </m:math> płynący przez cewkę o indukcyjności własnej <m:math display="inline">
     <m:mn>25</m:mn>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">H</m:mi>
   </m:math> wyłączony jest w czasie <m:math display="inline">
   <m:mn>1</m:mn>
- <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+ <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">ms</m:mi>
 </m:math>.<list id="eip-idm281348976" list-type="enumerated" number-style="lower-alpha">
 <item>Ile wynosi napięcie przeciwdziałające wyłączeniu prądu?</item>
@@ -1355,7 +1355,7 @@
         <m:mn>6</m:mn>
       </m:msup>
     </m:mrow>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
     </m:math>; b. Napięcie jest tak ogromne, że między końcami przełącznika wytworzyłby się łuk elektryczny, a prąd nie zostałby zredukowany tak szybko; c. Nierealne jest użycie takiej cewki indukcyjnej w celu wyłączenia prądu o tak wysokim natężeniu w tak krótkim czasie.</para></solution>
 </exercise>
@@ -1400,7 +1400,7 @@
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>0</m:mn>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">s</m:mi>
   </m:mrow>
   </m:math>.
@@ -1413,15 +1413,15 @@
   <problem id="fs-id1167134717200">
     <para id="fs-id1167129962405">Kwadratowa ramka o boku <m:math display="inline">
       <m:mn>2</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">cm</m:mi>
     </m:math> umieszczona jest w odległości <m:math display="inline">
     <m:mn>1</m:mn>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">cm</m:mi>
   </m:math> od długiego przewodu, w którym płynie prąd, którego natężenie zmienia się jednostajnie z szybkością <m:math display="inline">
   <m:mn>3</m:mn>
- <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+ <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mrow>
     <m:mi mathvariant="normal">A</m:mi>
     <m:mo>∕</m:mo>
@@ -1432,15 +1432,15 @@
 <item>Wyznacz strumień pola magnetycznego przez ramkę;</item>
 <item>Ile wynosi natężenie wyindukowanego w ramce prądu, jeśli jej opór równy jest <m:math display="inline">
   <m:mn>3</m:mn>
- <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+ <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
   </m:math>?</item>
 </list>
 </para></problem>
 <solution id="fs-id1167131225968">
-  <para id="fs-id1167131282092">a. <m:math display="inline"><m:mrow><m:mo rspace="veryverythinmathspace" lspace="verythinmathspace">d</m:mo><m:mrow><m:mi>B</m:mi><m:mo>∕</m:mo><m:mrow><m:mo rspace="veryverythinmathspace" lspace="verythinmathspace">d</m:mo><m:mi>t</m:mi></m:mrow></m:mrow></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>6</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mrow></m:math>; b. <m:math display="inline"><m:msub><m:mi mathvariant="normal">Φ</m:mi><m:mi>B</m:mi></m:msub><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub><m:mo>⁢</m:mo><m:mi>a</m:mi><m:mo>⁢</m:mo><m:mi>I</m:mi></m:mrow><m:mo>∕</m:mo><m:mfenced><m:mrow><m:mn>2</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi></m:mrow></m:mfenced></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mo>ln</m:mo><m:mfenced close="]" open="["><m:mrow><m:mfenced><m:mrow><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi></m:mrow></m:mfenced><m:mo>∕</m:mo><m:mi>b</m:mi></m:mrow></m:mfenced></m:mrow></m:mrow></m:math>; c. <m:math display="inline">
+  <para id="fs-id1167131282092">a. <m:math display="inline"><m:mrow><m:mo rspace="veryverythinmathspace" lspace="verythinmathspace">d</m:mo><m:mrow><m:mi>B</m:mi><m:mo>∕</m:mo><m:mrow><m:mo rspace="veryverythinmathspace" lspace="verythinmathspace">d</m:mo><m:mi>t</m:mi></m:mrow></m:mrow></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>6</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mrow></m:math>; b. <m:math display="inline"><m:msub><m:mi mathvariant="normal">Φ</m:mi><m:mi>B</m:mi></m:msub><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub><m:mo>⁢</m:mo><m:mi>a</m:mi><m:mo>⁢</m:mo><m:mi>I</m:mi></m:mrow><m:mo>∕</m:mo><m:mfenced><m:mrow><m:mn>2</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi></m:mrow></m:mfenced></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mo>ln</m:mo><m:mfenced close="]" open="["><m:mrow><m:mfenced><m:mrow><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi></m:mrow></m:mfenced><m:mo>∕</m:mo><m:mi>b</m:mi></m:mrow></m:mfenced></m:mrow></m:mrow></m:math>; c. <m:math display="inline">
 <m:mn>4</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">nA</m:mi>
 </m:math>.</para></solution>
 </exercise>
@@ -1448,20 +1448,20 @@
   <problem id="fs-id1167129968167">
     <para id="fs-id1167131084448">Prostokątna ramka z miedzi ma masę <m:math display="inline">
       <m:mn>100</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">g</m:mi>
     </m:math> i opór <m:math display="inline">
     <m:mn>0,2</m:mn>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:math>. Umieszczono ją w jednorodnym polu magnetycznym, którego linie przechodzą prostopadle przez ramkę i są równoległe do powierzchni Ziemi, tak że dolna krawędź ramki pokrywa się z dolną krawędzią obszaru, w którym pole magnetyczne jest niezerowe. W pewnym momencie ramka jest puszczona swobodnie i zaczyna spadać w kierunku Ziemi, tak jak przedstawiono to na rysunku poniżej.<list id="eip-idm1314516352" list-type="enumerated" number-style="lower-alpha"><item>Znajdź szybkość poruszania się ramki w momencie, gdy jej cała powierzchnia znajdzie się poza obszarem, w którym działa pole magnetyczne;</item>
-  <item>Po jakim czasie od chwili czasu <m:math display="inline"><m:mi>t</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:math>, gdy została puszczona, opuści ona obszar działania pola magnetycznego?</item>
+  <item>Po jakim czasie od chwili czasu <m:math display="inline"><m:mi>t</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:math>, gdy została puszczona, opuści ona obszar działania pola magnetycznego?</item>
   </list>Załóż, że <m:math display="inline">
   <m:mi>a</m:mi>
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>25</m:mn>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">cm</m:mi>
   </m:mrow>
 </m:math>, <m:math display="inline">
@@ -1469,7 +1469,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>50</m:mn>
- <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+ <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">cm</m:mi>
 </m:mrow>
 </m:math>, <m:math display="inline">
@@ -1477,7 +1477,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>3</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">T</m:mi>
 </m:mrow>
 </m:math> i <m:math display="inline">
@@ -1485,7 +1485,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>9,8</m:mn>
- <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+ <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mrow>
     <m:mi mathvariant="normal">m</m:mi>
     <m:mo>∕</m:mo>

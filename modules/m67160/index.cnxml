@@ -62,7 +62,7 @@
                         <m:mn>-19</m:mn>
                       </m:msup>
                     </m:mrow>
-                    <m:mo rspace="verythinmathspace" lspace="">⁢⁢⁢</m:mo>
+                    <m:mo rspace="verythinmathspace">⁢⁢⁢</m:mo>
                     <m:mi mathvariant="normal">C</m:mi>
                   </m:mrow>
                   </m:math>. Żadna swobodna cząstka nie może mieć ładunku mniejszego niż ten i dlatego ładunek dowolnego ciała musi być całkowitą wielokrotnością tej porcji.</item>
@@ -78,7 +78,7 @@
                             <m:mn>-19</m:mn>
                           </m:msup>
                         </m:mrow>
-                        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                         <m:mi mathvariant="normal">C</m:mi>
                       </m:mrow>
                     </m:math>, a najmniejszy możliwy ładunek ujemny <m:math display="inline">
@@ -92,7 +92,7 @@
                           <m:mn>-19</m:mn>
                         </m:msup>
                       </m:mrow>
-                      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                       <m:mi mathvariant="normal">C</m:mi>
                     </m:mrow>
                     </m:math>; ich wartości są identyczne. Takie po prostu są prawa fizyki w świecie.</item>
@@ -121,11 +121,11 @@
                             <title>Uwaga dotycząca terminologii</title>
                             <para id="fs-id1172099523321">Jak zauważyliśmy, ciała mogą posiadać ładunki elektryczne. To właściwość podobna do innych, które mogą ciała posiadać, jak masa, gęstość, temperatura itd. Formalnie, powinniśmy zawsze mówić: „Załóżmy, że mamy cząsteczkę obdarzoną ładunkiem <m:math display="inline">
                               <m:mn>3</m:mn>
-                              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                               <m:mi mathvariant="normal">µC</m:mi>
                             </m:math>”. Jednak zazwyczaj zamiast tego mówimy: „Załóżmy, że mamy ładunek <m:math display="inline">
                             <m:mn>3</m:mn>
-                            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                             <m:mi mathvariant="normal">µC</m:mi>
                             </m:math>”. Podobnie jak często mówimy „Sześć ładunków jest umieszczonych w narożach sześcioboku foremnego”. Ładunek to nie cząsteczka; to raczej właściwość, cecha cząsteczki. Niemniej jednak to nazewnictwo jest bardzo rozpowszechnione i często używane w tym podręczniku. Zapamiętaj więc, co mamy na myśli, mówiąc „ładunek”.</para></section>
                           <section id="fs-id1172101765962" class="key-concepts">
@@ -147,7 +147,7 @@
                                     <m:mn>-19</m:mn>
                                   </m:msup>
                                 </m:mrow>
-                                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                                 <m:mi mathvariant="normal">C</m:mi>
                               </m:mrow>
                               </m:math>. </item>
@@ -198,18 +198,18 @@
                             <problem id="fs-id1172101974804">
                               <para id="fs-id1172101752489">Przy typowej statycznej elektryczności mamy do czynienia z ładunkami z zakresu od nanokulombów do mikrokoulombów. <list id="fs-idm1125305744" list-type="enumerated" number-style="lower-alpha"><item>Ile elektronów potrzeba, żeby uzyskać ładunek <m:math display="inline">
                                   <m:mn>-2</m:mn>
-                                  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                                  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                                   <m:mi mathvariant="normal">nC</m:mi>
                                   </m:math>?</item>
                                   <item>Ile elektronów trzeba zabrać z obojętnego elektrycznie ciała, aby pozostawić wypadkowy ładunek <m:math display="inline">
                                     <m:mn>0,5</m:mn>
-                                    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                                    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                                     <m:mi mathvariant="normal">µC</m:mi>
                                     </m:math>?</item>
                                   </list></para>
                               </problem>
                               <solution id="fs-id1172099490150">
-                                <para id="fs-id1172099568939">a. <m:math display="inline"><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-9</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo><m:mi mathvariant="normal">C</m:mi></m:mrow><m:mo>∕</m:mo><m:mfenced><m:mrow><m:mrow><m:mn>1,602</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-19</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo><m:mrow><m:mi mathvariant="normal">elektron</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">C</m:mi></m:mrow></m:mrow></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>1,248</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>10</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo><m:mi mathvariant="normal">elektronów</m:mi></m:mrow></m:math>; b. <m:math display="inline"><m:mrow><m:mrow><m:mrow><m:mn>0,5</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-6</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo><m:mi mathvariant="normal">C</m:mi></m:mrow><m:mo>∕</m:mo><m:mfenced><m:mrow><m:mrow><m:mn>1,602</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-19</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo><m:mrow><m:mi mathvariant="normal">elektron</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">C</m:mi></m:mrow></m:mrow></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>3,121</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo><m:mi mathvariant="normal">elektronów</m:mi></m:mrow></m:math>.                            </para></solution>
+                                <para id="fs-id1172099568939">a. <m:math display="inline"><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-9</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢⁢</m:mo><m:mi mathvariant="normal">C</m:mi></m:mrow><m:mo>∕</m:mo><m:mfenced><m:mrow><m:mrow><m:mn>1,602</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-19</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢⁢</m:mo><m:mrow><m:mi mathvariant="normal">elektron</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">C</m:mi></m:mrow></m:mrow></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>1,248</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>10</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢⁢</m:mo><m:mi mathvariant="normal">elektronów</m:mi></m:mrow></m:math>; b. <m:math display="inline"><m:mrow><m:mrow><m:mrow><m:mn>0,5</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-6</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢⁢</m:mo><m:mi mathvariant="normal">C</m:mi></m:mrow><m:mo>∕</m:mo><m:mfenced><m:mrow><m:mrow><m:mn>1,602</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-19</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢⁢</m:mo><m:mrow><m:mi mathvariant="normal">elektron</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">C</m:mi></m:mrow></m:mrow></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>3,121</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢⁢</m:mo><m:mi mathvariant="normal">elektronów</m:mi></m:mrow></m:math>.                            </para></solution>
                         </exercise>
                         <exercise id="fs-id1172101838219">
                           <problem id="fs-id1172102129125">
@@ -244,7 +244,7 @@
               <m:mn>21</m:mn>
             </m:msup>
           </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mtext>elektronów</m:mtext>
         </m:mrow>
         <m:mo>∕</m:mo>
@@ -259,7 +259,7 @@
                   <m:mn>18</m:mn>
                 </m:msup>
               </m:mrow>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mtext>elektron</m:mtext>
             </m:mrow>
             <m:mo>∕</m:mo>
@@ -270,7 +270,7 @@
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>600,8</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">C</m:mi>
       </m:mrow>
     </m:math>.
@@ -279,7 +279,7 @@
                               <problem id="fs-id1172102121182">
                                 <para id="fs-id1172099497151">Podczas wyładowania atmosferycznego przepływa <m:math display="inline">
                                   <m:mn>40</m:mn>
-                                  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                                  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                                   <m:mi mathvariant="normal">µC</m:mi>
                                   </m:math> ładunku. Ile to ładunków elementarnych? </para></problem>
                               </exercise>
@@ -287,7 +287,7 @@
                                 <problem id="fs-id1172099739302">
                                   <para id="fs-id1172097227999">Monetę o masie <m:math display="inline">
                                     <m:mn>2,5</m:mn>
-                                    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                                    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                                     <m:mi mathvariant="normal">g</m:mi>
                                   </m:math> naładowano ładunkiem <m:math display="inline">
                                   <m:mrow>
@@ -298,7 +298,7 @@
                                       <m:mn>-9</m:mn>
                                     </m:msup>
                                   </m:mrow>
-                                  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                                  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                                   <m:mi mathvariant="normal">C</m:mi>
                                 </m:math>. <list id="fs-idm1342238992" list-type="enumerated" number-style="lower-alpha">
                                 <item>Ile dodatkowych elektronów znalazło się na monecie?</item>
@@ -316,7 +316,7 @@
                                     <m:mn>-9</m:mn>
                                   </m:msup>
                                 </m:mrow>
-                                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                                 <m:mi mathvariant="normal">C</m:mi>
                                 <m:mo>⁢</m:mo>
                                       <m:mo>⋅</m:mo>
@@ -330,7 +330,7 @@
                                           <m:mn>18</m:mn>
                                         </m:msup>
                                       </m:mrow>
-                                      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                                      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                                       <m:mtext>elektron</m:mtext>
                                     </m:mrow>
                                     <m:mo>∕</m:mo>
@@ -347,7 +347,7 @@
                                     <m:mn>10</m:mn>
                                   </m:msup>
                                 </m:mrow>
-                                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                                 <m:mtext>elektronów</m:mtext>
                               </m:mrow>
                             </m:math>; b. <m:math display="inline">
@@ -361,7 +361,7 @@
                                     <m:mn>-31</m:mn>
                                   </m:msup>
                                 </m:mrow>
-                                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                                 <m:mi mathvariant="normal">kg</m:mi>
                               </m:mrow>
                               <m:mo>⁢</m:mo>
@@ -375,7 +375,7 @@
                                       <m:mn>10</m:mn>
                                     </m:msup>
                                   </m:mrow>
-                                  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                                  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                                   <m:mtext>elektronów</m:mtext>
                                 </m:mrow>
                             </m:mrow>
@@ -389,7 +389,7 @@
                                   <m:mn>-20</m:mn>
                                 </m:msup>
                               </m:mrow>
-                              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                               <m:mi mathvariant="normal">kg</m:mi>
                             </m:mrow>
                           </m:math>, 
@@ -404,7 +404,7 @@
               <m:mn>-20</m:mn>
             </m:msup>
           </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">kg</m:mi>
         </m:mrow>
         <m:mo>∕</m:mo>
@@ -418,7 +418,7 @@
                 <m:mn>-3</m:mn>
               </m:msup>
             </m:mrow>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">kg</m:mi>
           </m:mrow>
         </m:mfenced>
@@ -442,7 +442,7 @@
             <m:mn>-16</m:mn>
           </m:msup>
         </m:mrow>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">%</m:mi>
       </m:mrow>
     </m:math>.</para></solution>
@@ -451,7 +451,7 @@
                         <problem id="fs-id1172099474072">
                           <para id="fs-id1172099413101">Monetę o masie <m:math display="inline">
                             <m:mn>2,5</m:mn>
-                            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                             <m:mi mathvariant="normal">g</m:mi>
                           </m:math> naładowano ładunkiem <m:math display="inline">
                           <m:mrow>
@@ -462,7 +462,7 @@
                               <m:mn>-9</m:mn>
                             </m:msup>
                           </m:mrow>
-                          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                           <m:mi mathvariant="normal">C</m:mi>
                         </m:math>. <list id="fs-idm1302993584" list-type="enumerated" number-style="lower-alpha">
                         <item>Ile elektronów ubyło z monety?</item>

@@ -147,7 +147,7 @@
           <m:mo>=</m:mo>
           <m:mrow>
             <m:mn>0</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">J</m:mi>
             <m:mo>⁢</m:mo>
             <m:mtext>.</m:mtext>
@@ -202,7 +202,7 @@
               <m:mo>=</m:mo>
               <m:mrow>
                 <m:mn>0</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">J</m:mi>
               </m:mrow>
             </m:math>, <m:math display="inline">
@@ -215,7 +215,7 @@
               <m:mo>=</m:mo>
               <m:mrow>
                 <m:mn>0</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">J</m:mi>
               </m:mrow>
             </m:math>, <m:math display="inline">
@@ -248,7 +248,7 @@
                 <m:mo>=</m:mo>
                 <m:mrow>
                   <m:mn>0</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">J</m:mi>
                 </m:mrow>
               </m:math>, <m:math display="inline"><m:semantics><m:mrow><m:mrow><m:mo>Δ</m:mo><m:mi>U</m:mi></m:mrow><m:mo>=</m:mo><m:mi>Q</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \prefop{\Delta} U = Q</m:annotation></m:semantics></m:math>.</item>
@@ -286,7 +286,7 @@
               <m:mi mathvariant="normal">MPa</m:mi>
             </m:math> i objętości <m:math display="inline">
             <m:mn>5</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">l</m:mi>
           </m:math> rozprężono izotermicznie do podwójnej objętości (krok 1). Później ochłodzono izochorycznie do ciśnienia <m:math display="inline">
           <m:mn>1</m:mn>
@@ -294,7 +294,7 @@
           <m:mi mathvariant="normal">MPa</m:mi>
         </m:math> (krok 2). Temperatura w tym procesie spadła. Następnie gaz został sprężony izotermicznie z powrotem do objętości <m:math display="inline">
         <m:mn>5</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">l</m:mi>
       </m:math>, jednak jego ciśnienie osiągnęło wartość <m:math display="inline">
       <m:mn>2</m:mn>
@@ -328,13 +328,13 @@
 <m:mi mathvariant="normal">MPa</m:mi>
 </m:math>, przy utrzymaniu stałej objętości <m:math display="inline">
 <m:mn>2</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">l</m:mi>
 </m:math>, poprzez ochłodzenie układu. Osiągnięty stan pośredni oznaczmy jako <m:math display="inline">
 <m:mi>C</m:mi>
 </m:math>. Następnie układ jest ogrzewany pod stałym ciśnieniem, aż uzyska objętość równą <m:math display="inline">
 <m:mn>6</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">l</m:mi>
 </m:math>, osiągając tym samym stan <m:math display="inline">
 <m:mi>B</m:mi>
@@ -377,11 +377,11 @@
 <solution id="fs-id1172099484356">
   <para id="fs-id1172102107806">a. <m:math display="inline">
     <m:mn>1660</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">J</m:mi>
   </m:math>; b. <m:math display="inline">
   <m:mrow><m:mo>−</m:mo><m:mn>2730</m:mn></m:mrow>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">J</m:mi>
   </m:math>; c. Zmiana energii wewnętrznej nie zależy od procesu.</para></solution>
 </exercise>
@@ -429,7 +429,7 @@
       <m:mi>B</m:mi>
     </m:math> i wykonuje przy tym pracę <m:math display="inline">
     <m:mn>700</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">J</m:mi>
   </m:math>, co przedstawiono poniżej na wykresie. Następnie gaz rozpręża się adiabatycznie wzdłuż drogi <m:math display="inline">
   <m:mi>B</m:mi>
@@ -437,7 +437,7 @@
   <m:mi>C</m:mi>
 </m:math> i wykonuje pracę <m:math display="inline">
 <m:mn>400</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">J</m:mi>
 </m:math>. Podczas powrotu do stanu <m:math display="inline">
 <m:mi>A</m:mi>
@@ -447,7 +447,7 @@
 <m:mi>A</m:mi>
 </m:math> gaz oddaje do otoczenia <m:math display="inline">
 <m:mn>100</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">J</m:mi>
 </m:math> ciepła.<list id="fs-idm476791168" list-type="enumerated" number-style="lower-alpha">
 <item>Ile ciepła wymienia gaz wzdłuż drogi <m:math display="inline">
@@ -468,11 +468,11 @@
 <solution id="fs-id1172101802503">
   <para id="fs-id1172101986390">a. <m:math display="inline">
     <m:mn>700</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">J</m:mi>
   </m:math>; b. <m:math display="inline">
   <m:mn>500</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">J</m:mi>
   </m:math>.</para></solution>
 </exercise>
@@ -488,11 +488,11 @@
     <m:mi>C</m:mi>
   </m:math> z wykresu poniżej, w których dostarczamy do układu odpowiednio <m:math display="inline">
   <m:mn>3600</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">J</m:mi>
 </m:math> i <m:math display="inline">
 <m:mn>2400</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">J</m:mi>
 </m:math> ciepła.<list id="fs-idm1086346160" list-type="enumerated" number-style="lower-alpha">
 <item>Oblicz pracę w każdym z procesów: <m:math display="inline">
@@ -568,11 +568,11 @@
 <solution id="fs-id1172099382254">
   <para id="fs-id1172099619834">a. <m:math display="inline">
     <m:mrow><m:mo>−</m:mo><m:mn>3400</m:mn></m:mrow>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">J</m:mi>
   </m:math>; b. Gaz pobiera <m:math display="inline">
   <m:mn>3400</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">J</m:mi>
   </m:math>.</para></solution>
 </exercise>

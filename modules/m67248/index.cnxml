@@ -529,7 +529,7 @@
       <m:mo>+</m:mo>
       <m:mrow>
         <m:mn>0</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">J</m:mi>
       </m:mrow>
     </m:mrow>
@@ -843,7 +843,7 @@
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>0</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:msup>
       <m:mi mathvariant="normal">m</m:mi>
       <m:mn>3</m:mn>
@@ -1273,11 +1273,11 @@
         <m:mi mathvariant="normal">atm</m:mi>
       </m:math> ulega kwazistatycznemu izobarycznemu rozszerzaniu z <m:math display="inline">
       <m:mn>3</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">l</m:mi>
     </m:math> do <m:math display="inline">
     <m:mn>5</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">l</m:mi>
     </m:math>. Jaka praca jest wykonywana przez gaz?</para></problem>
 </exercise>
@@ -1289,13 +1289,13 @@
       <m:mi mathvariant="normal">mol</m:mi>
     </m:math> gazu doskonałego do jednej piątej jego początkowej objętości, potrzebna jest praca <m:math display="inline">
     <m:mn>500</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">J</m:mi>
     </m:math>. Oblicz temperaturę gazu, zakładając, że pozostaje ona stała podczas sprężania.</para></problem>
   <solution id="fs-id1172102149079">
     <para id="fs-id1172101779352"><m:math display="inline">
         <m:mn>74</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">K</m:mi>
       </m:math>.
     </para></solution>
@@ -1304,19 +1304,19 @@
   <problem id="fs-id1172099692899">
     <para id="fs-id1172099493633">Wiadomo, że kiedy rozrzedzony gaz rozpręża się kwazistatycznie z <m:math display="inline">
       <m:mn>0,5</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">l</m:mi>
     </m:math> do <m:math display="inline">
     <m:mn>4</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">l</m:mi>
   </m:math>, to wykonuje pracę <m:math display="inline">
   <m:mn>250</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">J</m:mi>
 </m:math>. Zakładając, że temperatura gazu pozostaje stała i równa <m:math display="inline">
 <m:mn>300</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">K</m:mi>
 </m:math>, ile jest moli tego gazu?</para></problem>
 </exercise>
@@ -1324,7 +1324,7 @@
   <problem id="fs-id1172101734082">
     <para id="fs-id1172099413035">Podczas kwazistatycznego izobarycznego rozszerzania praca <m:math display="inline">
       <m:mn>500</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">J</m:mi>
     </m:math> jest wykonywana przez gaz. Jeśli ciśnienie gazu wynosi <m:math display="inline">
     <m:mn>0,8</m:mn>
@@ -1332,7 +1332,7 @@
     <m:mi mathvariant="normal">atm</m:mi>
   </m:math>, to jaki jest ułamkowy wzrost objętości gazu, zakładając, że początkowo objętość była równa <m:math display="inline">
   <m:mn>20</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">l</m:mi>
   </m:math>?</para></problem>
 <solution id="fs-id1172101737068">
@@ -1346,15 +1346,15 @@
     <problem id="fs-id1172099386873">
       <para id="fs-id1172099457764">Kiedy gaz ulega kwazistatycznej izobarycznej zmianie objętości z <m:math display="inline">
         <m:mn>10</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">l</m:mi>
       </m:math> do <m:math display="inline">
       <m:mn>2</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">l</m:mi>
     </m:math>, potrzebna jest zewnętrzna praca <m:math display="inline">
     <m:mn>15</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">J</m:mi>
     </m:math>. Jakie jest ciśnienie gazu?</para></problem>
 </exercise>
@@ -1440,11 +1440,11 @@
               <solution id="fs-id1172101779801">
                 <para id="fs-id1172097233079">a. <m:math display="inline">
                   <m:mn>160</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">J</m:mi>
                 </m:math>; b. <m:math display="inline">
                 <m:mrow><m:mo>−</m:mo><m:mn>160</m:mn></m:mrow>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">J</m:mi>
                 </m:math>.</para></solution>
             </exercise>
@@ -1460,11 +1460,11 @@
                   <m:mi mathvariant="normal">atm</m:mi>
                 </m:math> i objętości <m:math display="inline">
                 <m:mn>4</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">l</m:mi>
               </m:math> ulega następującym kwazistatycznym procesom:<list id="fs-idm1681404144" list-type="enumerated" number-style="lower-alpha"><item>izobarycznemu rozszerzaniu do objętości <m:math display="inline">
                 <m:mn>10</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">l</m:mi>
                 </m:math>;</item>
                 <item>izochorycznej zmianie ciśnienia do <m:math display="inline">
@@ -1474,7 +1474,7 @@
                   </m:math>;</item>
                   <item>izobarycznemu sprężeniu do objętości <m:math display="inline">
                 <m:mn>4</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">l</m:mi>
               </m:math>;
                 </item>
@@ -1494,7 +1494,7 @@
                 <m:mo>=</m:mo>
                 <m:mrow>
                   <m:mn>900</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">J</m:mi>
                 </m:mrow>
               </m:math>.<newline/>
@@ -1505,7 +1505,7 @@
           <problem id="fs-id1172101663575">
             <para id="fs-id1172102006318">Jaka jest średnia energia mechaniczna atomu jednoatomowego gazu doskonałego o temperaturze <m:math display="inline">
               <m:mn>300</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">K</m:mi>
               </m:math>?</para></problem>
           </exercise>
@@ -1522,7 +1522,7 @@
                       <m:mn>4</m:mn>
                     </m:msup>
                   </m:mrow>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">J</m:mi>
                 </m:math>.
               </para></solution>
@@ -1571,11 +1571,11 @@
               <m:mn>0,138</m:mn>
             </m:mrow>
             <m:mrow>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mrow>
                 <m:mrow>
                   <m:mi mathvariant="normal">J</m:mi>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:msup>
                     <m:mi mathvariant="normal">m</m:mi>
                     <m:mn>3</m:mn>
@@ -1600,7 +1600,7 @@
               <m:mrow><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow>
             </m:msup>
           </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mrow>
             <m:msup>
               <m:mi mathvariant="normal">m</m:mi>
@@ -1612,7 +1612,7 @@
         </m:mrow>
       </m:math>. Użyj tych wartości, aby narysować izotermę van der Waalsa tlenu o temperaturze <m:math display="inline">
       <m:mn>100</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">K</m:mi>
       </m:math>. Na tym samym wykresie narysuj izotermy jednego mola gazu doskonałego.</para></problem>
   </exercise>
@@ -1627,34 +1627,34 @@
       <m:mi>p</m:mi>
       <m:mo>⁢</m:mo>
       <m:mi>V</m:mi>
-    </m:math>: 1 <m:math display="inline"><m:semantics><m:mfenced><m:mrow><m:mrow><m:mn>3</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">atm</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>, </m:mtext><m:mo>⁢</m:mo><m:mrow><m:mn>4</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">l</m:mi></m:mrow></m:mrow></m:mfenced><m:annotation encoding="application/vnd.katalysteducation.mathtex">            (\SI{3}{\atm}\text{, }\SI{4}{\litre})</m:annotation></m:semantics></m:math>, 2 <m:math display="inline"><m:semantics><m:mfenced><m:mrow><m:mrow><m:mn>3</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">atm</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>, </m:mtext><m:mo>⁢</m:mo><m:mrow><m:mn>6</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">l</m:mi></m:mrow></m:mrow></m:mfenced><m:annotation encoding="application/vnd.katalysteducation.mathtex">            (\SI{3}{\atm}\text{, }\SI{4}{\litre})</m:annotation></m:semantics></m:math>, 3 <m:math display="inline"><m:semantics><m:mfenced><m:mrow><m:mrow><m:mn>5</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">atm</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>, </m:mtext><m:mo>⁢</m:mo><m:mrow><m:mn>4</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">l</m:mi></m:mrow></m:mrow></m:mfenced><m:annotation encoding="application/vnd.katalysteducation.mathtex">            (\SI{3}{\atm}\text{, }\SI{4}{\litre})</m:annotation></m:semantics></m:math>, 4 <m:math display="inline"><m:semantics><m:mfenced><m:mrow><m:mrow><m:mn>2</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">atm</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>, </m:mtext><m:mo>⁢</m:mo><m:mrow><m:mn>6</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">l</m:mi></m:mrow></m:mrow></m:mfenced><m:annotation encoding="application/vnd.katalysteducation.mathtex">            (\SI{3}{\atm}\text{, }\SI{4}{\litre})</m:annotation></m:semantics></m:math>, 5 <m:math display="inline"><m:semantics><m:mfenced><m:mrow><m:mrow><m:mn>4</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">atm</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>, </m:mtext><m:mo>⁢</m:mo><m:mrow><m:mn>2</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">l</m:mi></m:mrow></m:mrow></m:mfenced><m:annotation encoding="application/vnd.katalysteducation.mathtex">            (\SI{3}{\atm}\text{, }\SI{4}{\litre})</m:annotation></m:semantics></m:math>, 6 <m:math display="inline"><m:semantics><m:mfenced><m:mrow><m:mrow><m:mn>5</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">atm</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>, </m:mtext><m:mo>⁢</m:mo><m:mrow><m:mn>5</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">l</m:mi></m:mrow></m:mrow></m:mfenced><m:annotation encoding="application/vnd.katalysteducation.mathtex">            (\SI{3}{\atm}\text{, }\SI{4}{\litre})</m:annotation></m:semantics></m:math> oraz 7 <m:math display="inline"><m:semantics><m:mfenced><m:mrow><m:mrow><m:mn>2</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">atm</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>, </m:mtext><m:mo>⁢</m:mo><m:mrow><m:mn>5</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">l</m:mi></m:mrow></m:mrow></m:mfenced><m:annotation encoding="application/vnd.katalysteducation.mathtex">            (\SI{3}{\atm}\text{, }\SI{4}{\litre})</m:annotation></m:semantics></m:math>. <newline/></para><media id="fs-id1172101811822" alt="Rysunki od a do f są wykresami p an osi pionowej jako funkcji V na osi poziomej. Rysunek a posiada punkty 1 i 2 jako te same ciśnienia oraz V 2 większe od V 1. Linia pozioma ze strzałką w prawo biegnie od punktu 1 do punktu 2. Rysunek b ma punkty 1 i 3 o tym samej objętości i p 3 większym niż p 1. Linia pionowa ze strzałką ku górze biegnie od 1 do 3. Rysunek c ma punkty 1 i 4, gdzie p 1 jest większe niż p 4 oraz V 1 jest mniejsze niż V 4. Przekątna ze strzałką wskazującą w dół i w prawo biegnie od punktu 1 do punktu 4. Rysunek d ma punkty 1, 3 i 5, gdzie V 1 i V 3 są równe, i większe niż V 5. P 1 jest mniejsze niż P 5, które jest mniejsze niż P 3. Przekątna ze strzałką wskazującą w górę i w lewo biegnie od punktu 1 do punktu 5. Druga przekątna linia ze strzałką wskazującą w górę i w prawo biegnie od punktu 5 do punktu 3. Rysunek e ma punkty 1, 2 i 6, gdzie p 1 i p 2 są równe, i mniejsze od p 6. V 1 jest mniejsze niż V 6, które jest mniejsze niż V 2. Przekątna ze strzałką wskazującą w górę i w prawo biegnie od punktu 1 do punktu 6. Druga przekątna ze strzałką w dół w prawo biegnie od punktu 6 do punktu 2. Rysunek f ma punkty 1, 2 i 7, gdzie p 1 i p 2 są równe, i większe niż p 7. V 1 jest mniejsze niż V 6, które jest mniejsze niż V 2. Przekątna ze strzałką skierowaną w dół w prawo biegnie od punktu 1 do punktu 7. Druga przekątna ze strzałką wskazująca w górę i w prawo biegnie od punktu 7 do punktu 2.">
+    </m:math>: 1 <m:math display="inline"><m:semantics><m:mfenced><m:mrow><m:mrow><m:mn>3</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">atm</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>, </m:mtext><m:mo>⁢</m:mo><m:mrow><m:mn>4</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">l</m:mi></m:mrow></m:mrow></m:mfenced><m:annotation encoding="application/vnd.katalysteducation.mathtex">            (\SI{3}{\atm}\text{, }\SI{4}{\litre})</m:annotation></m:semantics></m:math>, 2 <m:math display="inline"><m:semantics><m:mfenced><m:mrow><m:mrow><m:mn>3</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">atm</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>, </m:mtext><m:mo>⁢</m:mo><m:mrow><m:mn>6</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">l</m:mi></m:mrow></m:mrow></m:mfenced><m:annotation encoding="application/vnd.katalysteducation.mathtex">            (\SI{3}{\atm}\text{, }\SI{4}{\litre})</m:annotation></m:semantics></m:math>, 3 <m:math display="inline"><m:semantics><m:mfenced><m:mrow><m:mrow><m:mn>5</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">atm</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>, </m:mtext><m:mo>⁢</m:mo><m:mrow><m:mn>4</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">l</m:mi></m:mrow></m:mrow></m:mfenced><m:annotation encoding="application/vnd.katalysteducation.mathtex">            (\SI{3}{\atm}\text{, }\SI{4}{\litre})</m:annotation></m:semantics></m:math>, 4 <m:math display="inline"><m:semantics><m:mfenced><m:mrow><m:mrow><m:mn>2</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">atm</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>, </m:mtext><m:mo>⁢</m:mo><m:mrow><m:mn>6</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">l</m:mi></m:mrow></m:mrow></m:mfenced><m:annotation encoding="application/vnd.katalysteducation.mathtex">            (\SI{3}{\atm}\text{, }\SI{4}{\litre})</m:annotation></m:semantics></m:math>, 5 <m:math display="inline"><m:semantics><m:mfenced><m:mrow><m:mrow><m:mn>4</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">atm</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>, </m:mtext><m:mo>⁢</m:mo><m:mrow><m:mn>2</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">l</m:mi></m:mrow></m:mrow></m:mfenced><m:annotation encoding="application/vnd.katalysteducation.mathtex">            (\SI{3}{\atm}\text{, }\SI{4}{\litre})</m:annotation></m:semantics></m:math>, 6 <m:math display="inline"><m:semantics><m:mfenced><m:mrow><m:mrow><m:mn>5</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">atm</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>, </m:mtext><m:mo>⁢</m:mo><m:mrow><m:mn>5</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">l</m:mi></m:mrow></m:mrow></m:mfenced><m:annotation encoding="application/vnd.katalysteducation.mathtex">            (\SI{3}{\atm}\text{, }\SI{4}{\litre})</m:annotation></m:semantics></m:math> oraz 7 <m:math display="inline"><m:semantics><m:mfenced><m:mrow><m:mrow><m:mn>2</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">atm</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>, </m:mtext><m:mo>⁢</m:mo><m:mrow><m:mn>5</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">l</m:mi></m:mrow></m:mrow></m:mfenced><m:annotation encoding="application/vnd.katalysteducation.mathtex">            (\SI{3}{\atm}\text{, }\SI{4}{\litre})</m:annotation></m:semantics></m:math>. <newline/></para><media id="fs-id1172101811822" alt="Rysunki od a do f są wykresami p an osi pionowej jako funkcji V na osi poziomej. Rysunek a posiada punkty 1 i 2 jako te same ciśnienia oraz V 2 większe od V 1. Linia pozioma ze strzałką w prawo biegnie od punktu 1 do punktu 2. Rysunek b ma punkty 1 i 3 o tym samej objętości i p 3 większym niż p 1. Linia pionowa ze strzałką ku górze biegnie od 1 do 3. Rysunek c ma punkty 1 i 4, gdzie p 1 jest większe niż p 4 oraz V 1 jest mniejsze niż V 4. Przekątna ze strzałką wskazującą w dół i w prawo biegnie od punktu 1 do punktu 4. Rysunek d ma punkty 1, 3 i 5, gdzie V 1 i V 3 są równe, i większe niż V 5. P 1 jest mniejsze niż P 5, które jest mniejsze niż P 3. Przekątna ze strzałką wskazującą w górę i w lewo biegnie od punktu 1 do punktu 5. Druga przekątna linia ze strzałką wskazującą w górę i w prawo biegnie od punktu 5 do punktu 3. Rysunek e ma punkty 1, 2 i 6, gdzie p 1 i p 2 są równe, i mniejsze od p 6. V 1 jest mniejsze niż V 6, które jest mniejsze niż V 2. Przekątna ze strzałką wskazującą w górę i w prawo biegnie od punktu 1 do punktu 6. Druga przekątna ze strzałką w dół w prawo biegnie od punktu 6 do punktu 2. Rysunek f ma punkty 1, 2 i 7, gdzie p 1 i p 2 są równe, i większe niż p 7. V 1 jest mniejsze niż V 6, które jest mniejsze niż V 2. Przekątna ze strzałką skierowaną w dół w prawo biegnie od punktu 1 do punktu 7. Druga przekątna ze strzałką wskazująca w górę i w prawo biegnie od punktu 7 do punktu 2.">
   <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_20_02_Prob16_img.jpg"/>
 </media>
 </problem>
 <solution id="fs-id1172101896520">
   <para id="fs-id1172099615700">a. <m:math display="inline">
     <m:mn>600</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">J</m:mi>
   </m:math>; b. <m:math display="inline">
   <m:mn>0</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">J</m:mi>
 </m:math>; c. <m:math display="inline">
 <m:mn>500</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">J</m:mi>
 </m:math>; d. <m:math display="inline">
 <m:mn>200</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">J</m:mi>
 </m:math>; e. <m:math display="inline">
 <m:mn>800</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">J</m:mi>
 </m:math>; f. <m:math display="inline">
 <m:mn>500</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">J</m:mi>
 </m:math>.</para></solution>
 </exercise>

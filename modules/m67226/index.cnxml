@@ -192,7 +192,7 @@
           <m:mtext>.</m:mtext>
         </m:mrow>
       </m:math>
-    </equation>Na zewnątrz kabla z prawa Ampère’a otrzymamy <m:math display="inline"><m:semantics><m:mrow><m:mi>B</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">T</m:mi></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            B=\SI{0}{\tesla}</m:annotation></m:semantics></m:math>, gdyż wypadkowe natężenie prądu jest równe zero, gdy <m:math display="inline">
+    </equation>Na zewnątrz kabla z prawa Ampère’a otrzymamy <m:math display="inline"><m:semantics><m:mrow><m:mi>B</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">T</m:mi></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            B=\SI{0}{\tesla}</m:annotation></m:semantics></m:math>, gdyż wypadkowe natężenie prądu jest równe zero, gdy <m:math display="inline">
   <m:mi>r</m:mi>
   <m:mo>&gt;</m:mo>
   <m:msub>
@@ -355,7 +355,7 @@
         <solution id="fs-id1167134531745">
           <para id="fs-id1167134531747"><m:math display="inline">
               <m:mn>0,5</m:mn>
-             <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+             <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">J</m:mi>
               </m:math>.</para></solution>
           </exercise>
@@ -454,7 +454,7 @@
               <problem id="fs-id1167134916936">
                 <para id="fs-id1167134916938">W chwili, gdy prąd o natężeniu <m:math display="inline">
                   <m:mn>0,2</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">A</m:mi>
                 </m:math> przepływa przez drucianą pętlę, energia zmagazynowana w jej polu magnetycznym wynosi <m:math display="inline">
                 <m:mrow>
@@ -465,21 +465,21 @@
                     <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
                   </m:msup>
                 </m:mrow>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">J</m:mi>
                 </m:math>. Jaka jest indukcyjność własna pętli?</para></problem>
             </exercise>
             <exercise id="fs-id1167131631271"><problem id="fs-id1167131614626">
                 <para id="fs-id1167131614628">Toroidalna cewka o przekroju prostokątnym o 2000 zwojach i indukcyjności własnej <m:math display="inline">
                 <m:mn>0,04</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">H</m:mi>
               </m:math> ma wysokość <m:math display="inline">
               <m:mi>h</m:mi>
               <m:mo>=</m:mo>
               <m:mrow>
                 <m:mn>0,1</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">m</m:mi>
               </m:mrow>
             </m:math>. Ile wynosi prąd płynący przez nią, jeśli energia pola magnetycznego jest równa <m:math display="inline">
@@ -491,14 +491,14 @@
                 <m:mrow><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow>
               </m:msup>
             </m:mrow>
-           <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+           <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">J</m:mi>
             </m:math>?</para></problem>
           <solution id="fs-id1167130245953">
             <para id="fs-id1167129963748">
               <m:math display="inline">
                 <m:mn>0,01</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">A</m:mi>
                 </m:math>.</para>
               </solution>
@@ -509,22 +509,22 @@
             <exercise id="fs-id1167131259494"><problem id="fs-id1167131259497">
                 <para id="fs-id1167131548422">Przez cewkę indukcyjną o indukcyjności własnej <m:math display="inline">
                   <m:mn>10</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">H</m:mi>
                 </m:math> płynie prąd o natężeniu <m:math display="inline">
                 <m:mn>20</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">A</m:mi>
               </m:math>. Jaką ilość lodu w temperaturze <m:math display="inline">
               <m:mn>0</m:mn>
-           <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+           <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
-            </m:math> mogłaby roztopić z wykorzystaniem energii zmagazynowanej w cewce (przyjmij <m:math display="inline"><m:semantics><m:mrow><m:msub><m:mi>c</m:mi><m:mtext>top</m:mtext></m:msub><m:mo>=</m:mo><m:mrow><m:mn>334</m:mn><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">J</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">g</m:mi></m:mrow></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            c_{\text{top}} = \SI{334}{\joule\per\gram}</m:annotation></m:semantics></m:math> dla lodu)?</para></problem>
+            </m:math> mogłaby roztopić z wykorzystaniem energii zmagazynowanej w cewce (przyjmij <m:math display="inline"><m:semantics><m:mrow><m:msub><m:mi>c</m:mi><m:mtext>top</m:mtext></m:msub><m:mo>=</m:mo><m:mrow><m:mn>334</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">J</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">g</m:mi></m:mrow></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            c_{\text{top}} = \SI{334}{\joule\per\gram}</m:annotation></m:semantics></m:math> dla lodu)?</para></problem>
           <solution id="fs-id1167129964908">
             <para id="fs-id1167131428371">
               <m:math display="inline">
                 <m:mn>6</m:mn>
-               <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+               <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">g</m:mi>
                 </m:math>.</para>
               </solution>
@@ -532,15 +532,15 @@
               <problem id="fs-id1167131561274">
                 <para id="fs-id1167131561276">Przez pętlę o indukcyjności własnej <m:math display="inline">
                   <m:mn>3</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">H</m:mi>
                 </m:math> i oporze <m:math display="inline">
                 <m:mn>100</m:mn>
-               <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+               <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">Ω</m:mi>
               </m:math> płynie stały prąd o natężeniu <m:math display="inline">
               <m:mn>2</m:mn>
-           <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+           <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">A</m:mi>
             </m:math>.<list id="eip-idm1603347424" list-type="enumerated" number-style="lower-alpha">
             <item>Ile wynosi energia magnetyczna zmagazynowana w polu pętli?</item>
@@ -551,11 +551,11 @@
     <exercise id="fs-id1167131475301"><problem id="fs-id1167131475304">
         <para id="fs-id1167134970149">Przez koncentryczny kabel o zewnętrznym przekroju pięciokrotnie większym od wewnętrznego płynie prąd o natężeniu <m:math display="inline">
           <m:mn>1,2</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">A</m:mi>
         </m:math>. Ile wynosi wartość pola magnetycznego, która zostanie zmagazynowana na długości kabla <m:math display="inline">
         <m:mn>3</m:mn>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">m</m:mi>
         </m:math>?</para>
       </problem>
@@ -575,7 +575,7 @@
                   <m:mrow><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow>
                 </m:msup>
               </m:mrow>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">J</m:mi>
             </m:mrow>
             </m:math>.</para></solution>

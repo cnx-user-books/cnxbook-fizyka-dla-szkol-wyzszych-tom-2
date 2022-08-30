@@ -739,13 +739,13 @@
     <problem id="fs-id1172100855114">
       <para id="fs-id1172098257097">Temperatura jednoatomowego gazu doskonałego wzrosła o <m:math display="inline">
         <m:mn>8</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">K</m:mi>
       </m:math>. Ile wynosi zmiana energii wewnętrznej <m:math display="inline"><m:semantics><m:mrow><m:mn>1</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">mola</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{1}{\mola}</m:annotation></m:semantics></m:math> tego gazu, jeśli jego objętość się nie zmienia?</para></problem>
     <solution id="fs-id1172100904891">
       <para id="fs-id1172100973883"><m:math display="inline">
           <m:mn>100</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">J</m:mi>
         </m:math>.
       </para></solution>
@@ -764,21 +764,21 @@
   <problem id="fs-id1172100516656">
     <para id="fs-id1172100967900">Jeśli początkowa temperatura gazów z poprzedniego zadania jest równa <m:math display="inline">
       <m:mn>300</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">K</m:mi>
       </m:math>, to ile wynoszą ich energie wewnętrzne po pobraniu ciepła?</para></problem>
     <solution id="fs-id1172100754101">
       <para id="fs-id1172100785261">a. <m:math display="inline">
         <m:mn>370</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">J</m:mi>
       </m:math>; b. <m:math display="inline">
       <m:mn>100</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">J</m:mi>
     </m:math>; c. <m:math display="inline">
     <m:mn>500</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">J</m:mi>
   </m:math>.
 </para></solution>
@@ -791,7 +791,7 @@
     <m:mi mathvariant="normal">atm</m:mi>
   </m:math> i objętości <m:math display="inline">
   <m:mn>50</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">l</m:mi>
   </m:math>. Ile wynosi energia wewnętrzna tego gazu?</para></problem>
 </exercise>
@@ -799,7 +799,7 @@
   <problem id="fs-id1172100643898">
     <para id="fs-id1172100618117">Gdy dostarczamy powoli <m:math display="inline">
       <m:mn>400</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">J</m:mi>
     </m:math> ciepła do <m:math display="inline"><m:semantics><m:mrow><m:mn>10</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">moli</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{10}{\moli}</m:annotation></m:semantics></m:math> jednoatomowego gazu doskonałego, to jego temperatura wzrasta o <m:math display="inline">
   <m:mn>10</m:mn>
@@ -809,7 +809,7 @@
 <solution id="fs-id1172100893734">
   <para id="fs-id1172098318724"><m:math display="inline">
       <m:mn>850</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">J</m:mi>
     </m:math>.
   </para></solution>
@@ -818,7 +818,7 @@
   <problem id="fs-id1172101033431">
     <para id="fs-id1172100726476"><m:math display="inline"><m:semantics><m:mrow><m:mn>1</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">mol</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{1}{\mol}</m:annotation></m:semantics></m:math> rozrzedzonego gazu dwuatomowego o początkowej objętości równej <m:math display="inline">
       <m:mn>10</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">l</m:mi>
     </m:math> rozszerza się pod stałym ciśnieniem <m:math display="inline">
     <m:mn>2</m:mn>
@@ -826,11 +826,11 @@
     <m:mi mathvariant="normal">atm</m:mi>
   </m:math> podczas powolnego podgrzewania. Jeśli temperatura gazu wzrasta o <m:math display="inline">
   <m:mn>10</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">K</m:mi>
 </m:math>, a ciepło dostarczone podczas tego procesu wynosi <m:math display="inline">
 <m:mn>400</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">J</m:mi>
 </m:math>, to jaka będzie objętość końcowa gazu?</para></problem>
 </exercise>

@@ -25,11 +25,11 @@
     
   <caption id="figure-caption-1">Różne źródła napięcia: (a) farma wiatrowa Brazos w miejscowości Fluvanna, Teksas, USA; (b) elektrownia wodna w Krasnojarsku, Rosja; (c) pole paneli słonecznych (farma solarna); (d) baterie niklowo-metalowo-wodorkowe. Napięcie wyjściowe każdego urządzenia zależy od jego konstrukcji i przyłączonego obciążenia. Napięcie wyjściowe jest równe SEM tylko przy braku obciążenia. Źródła: (a) modyfikacja pracy „Leaflet”/Wikimedia Commons; (b) modyfikacja pracy Alexa Polezhaeva; (c) modyfikacja pracy Departamentu Energii Stanów Zjednoczonych; (d) modyfikacja pracy autorstwa Tiaa Monto </caption></figure><para id="paragraph-11">Skoro siła elektromotoryczna wcale nie jest siłą, to czym jest SEM i co jest jej źródłem? Aby odpowiedzieć na te pytania, rozważmy prosty obwód elektryczny złożony z żarówki <m:math display="inline">
     <m:mn>12</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math> podłączonej do ogniwa <m:math display="inline">
   <m:mn>12</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">V</m:mi>
 </m:math> (np. baterii), jak to pokazano na <link target-id="figure-2" cmlnle:case="locative"/>. Ogniwo można modelować jako urządzenie mające dwa bieguny (elektrody, zaciski), z których jeden utrzymywany jest na wyższym potencjale elektrycznym niż drugi. Biegun o wyższym potencjale elektrycznym nazywa się biegunem dodatnim – <term class="no-emphasis" cmlnle:reference="anoda">anodą</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">anode</term></foreign>) i oznacza plusem. Biegun o niższym potencjale nazywa się biegunem ujemnym – <term class="no-emphasis" cmlnle:reference="katoda">katodą</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">cathode</term></foreign>) i oznacza minusem. Jest to źródło SEM. </para><figure id="figure-2">
   <media id="media-2" alt="Rysunek przedstawia obwód ze źródłem emf połączony z żarówką. Elektron płynie wewnątrz źródła od zacisku dodatniego do ujemnego, a siła działająca na elektron jest skierowana przeciwnie do kierunku ruchu. ">
@@ -54,20 +54,20 @@
 </m:math>), gdy nie następuje przepływ prądu. Ponieważ jednostką pracy jest dżul, a ładunku – kulomb, jednostka SEM to wolt: <m:math display="inline">
 <m:mrow>
   <m:mn>1</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">V</m:mi>
 </m:mrow>
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mrow>
     <m:mn>1</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">J</m:mi>
   </m:mrow>
   <m:mo>∕</m:mo>
   <m:mrow>
     <m:mn>1</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">C</m:mi>
   </m:mrow>
 </m:mrow>
@@ -267,31 +267,31 @@
 </m:math> zaczyna być porównywalny z oporem opornika zewnętrznego, to natężenie prądu znacząco maleje, co ilustruje następujący przykład.</para><example id="new1">
   <para id="paragraph-74"><title>Analiza obwodu zawierającego rzeczywiste źródło SEM i opornik </title>Weźmy baterię rzeczywistą o SEM równej <m:math display="inline">
       <m:mn>12</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:math> i oporze wewnętrznym <m:math display="inline">
     <m:mn>0,1</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:math>. <list id="eip-idm435489008" list-type="enumerated" number-style="lower-alpha">
   <item>Oblicz różnicę potencjałów między biegunami baterii, gdy przyłączony do obwodu opornik ma opór <m:math display="inline">
     <m:mn>10</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
     </m:math>;</item>
     <item>Jaka jest różnica potencjałów między biegunami, gdy przyłączony do obwodu opornik ma opór <m:math display="inline">
       <m:mn>0,5</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
       </m:math>?</item>
       <item>Jak szybko zachodzi wtedy dyssypacja (rozpraszanie) energii na oporniku?</item>
       <item>Oblicz natężenie prądu, różnicę potencjałów między biegunami baterii i szybkość dyssypacji energii na oporniku zewnętrznym o oporze <m:math display="inline">
         <m:mn>0,5</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:math>, jeśli opór wewnętrzny wzrośnie do <m:math display="inline">
       <m:mn>0,5</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
       </m:math>.</item>
     </list>
@@ -330,12 +330,12 @@
             <m:mfrac>
               <m:mrow>
                 <m:mn>12</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                 <m:mi mathvariant="normal">V</m:mi>
               </m:mrow>
               <m:mrow>
                 <m:mn>10,1</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                 <m:mi mathvariant="normal">Ω</m:mi>
               </m:mrow>
             </m:mfrac>
@@ -343,7 +343,7 @@
             <m:mrow>
               <m:mrow>
                 <m:mn>1,188</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                 <m:mi mathvariant="normal">A</m:mi>
               </m:mrow>
               <m:mo>⁢</m:mo>
@@ -384,20 +384,20 @@
         <m:mrow>
           <m:mrow>
             <m:mn>12</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">V</m:mi>
           </m:mrow>
           <m:mo>−</m:mo>
           <m:mrow>
             <m:mrow>
               <m:mn>1,188</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">A</m:mi>
             </m:mrow>
             <m:mo>⋅</m:mo>
             <m:mrow>
               <m:mn>0,1</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:mrow>
           </m:mrow>
@@ -406,7 +406,7 @@
         <m:mrow>
           <m:mrow>
             <m:mn>11,9</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">V</m:mi>
           </m:mrow>
           <m:mo>⁢</m:mo>
@@ -419,7 +419,7 @@
         <m:mo>=</m:mo>
         <m:mrow>
           <m:mn>0,5</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">Ω</m:mi>
         </m:mrow>
       </m:math> natężenie prądu ma wartość <equation id="maths-block-4" class="unnumbered"><m:math display="block">
@@ -437,12 +437,12 @@
         <m:mfrac>
           <m:mrow>
             <m:mn>12</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">V</m:mi>
           </m:mrow>
           <m:mrow>
             <m:mn>0,6</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
         </m:mfrac>
@@ -450,7 +450,7 @@
         <m:mrow>
           <m:mrow>
             <m:mn>20</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">A</m:mi>
           </m:mrow>
           <m:mo>⁢</m:mo>
@@ -477,20 +477,20 @@
       <m:mrow>
         <m:mrow>
           <m:mn>12</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">V</m:mi>
         </m:mrow>
         <m:mo>−</m:mo>
         <m:mrow>
           <m:mrow>
             <m:mn>20</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">A</m:mi>
           </m:mrow>
           <m:mo>⋅</m:mo>
           <m:mrow>
             <m:mn>0,1</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
         </m:mrow>
@@ -499,7 +499,7 @@
       <m:mrow>
         <m:mrow>
           <m:mn>10</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">V</m:mi>
         </m:mrow>
         <m:mo>⁢</m:mo>
@@ -508,12 +508,12 @@
     </m:math>
   </equation>Różnica potencjałów między biegunami powoduje bardziej znaczącą redukcję w porównaniu z SEM, co wskazuje, że opór o wartości <m:math display="inline">
   <m:mn>0,5</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
   </m:math> stanowi duże obciążenie dla tej baterii. Duże obciążenie oznacza większy pobór prądu ze źródła, ale nie większy opór. </item>
   <item> Szybkość dyssypacji energii (mocy energii rozpraszanej) na oporniku o oporze <m:math display="inline">
     <m:mn>0,5</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:math> można obliczyć z zależności <m:math display="inline">
   <m:mi>P</m:mi>
@@ -544,7 +544,7 @@
       <m:mfenced>
         <m:mrow>
           <m:mn>20</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">A</m:mi>
         </m:mrow>
       </m:mfenced>
@@ -553,7 +553,7 @@
     <m:mo>⋅</m:mo>
     <m:mrow>
       <m:mn>0,5</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
   </m:mrow>
@@ -561,7 +561,7 @@
   <m:mrow>
     <m:mrow>
       <m:mn>200</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">W</m:mi>
     </m:mrow>
     <m:mo>⁢</m:mo>
@@ -597,7 +597,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>10</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">V</m:mi>
 </m:mrow>
 </m:math>. </item>
@@ -617,12 +617,12 @@
     <m:mfrac>
       <m:mrow>
         <m:mn>12</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
       </m:mrow>
       <m:mrow>
         <m:mn>1</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
     </m:mfrac>
@@ -630,7 +630,7 @@
     <m:mrow>
       <m:mrow>
         <m:mn>12</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:mrow>
       <m:mo>⁢</m:mo>
@@ -657,20 +657,20 @@
   <m:mrow>
     <m:mrow>
       <m:mn>12</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:mrow>
     <m:mo>−</m:mo>
     <m:mrow>
       <m:mrow>
         <m:mn>12</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:mrow>
       <m:mo>⋅</m:mo>
       <m:mrow>
         <m:mn>0,5</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
     </m:mrow>
@@ -679,7 +679,7 @@
   <m:mrow>
     <m:mrow>
       <m:mn>6</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:mrow>
     <m:mo>⁢</m:mo>
@@ -704,7 +704,7 @@
       <m:mfenced>
         <m:mrow>
           <m:mn>12</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">A</m:mi>
         </m:mrow>
       </m:mfenced>
@@ -713,7 +713,7 @@
     <m:mo>⋅</m:mo>
     <m:mrow>
       <m:mn>0,5</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
   </m:mrow>
@@ -721,7 +721,7 @@
   <m:mrow>
     <m:mrow>
       <m:mn>72</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">W</m:mi>
     </m:mrow>
     <m:mo>⁢</m:mo>
@@ -872,7 +872,7 @@
           <m:mi>r</m:mi>
         </m:math> oraz SEM równej <m:math display="inline">
         <m:mn>10</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
       </m:math> połączono z rezystorem obciążenia <m:math display="inline">
       <m:mi>R</m:mi>
@@ -1000,15 +1000,15 @@
       <problem id="new20">
         <para id="list-para-8">Akumulator samochodowy o SEM równej <m:math display="inline">
           <m:mn>12</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">V</m:mi>
         </m:math> i oporze wewnętrznym <m:math display="inline">
         <m:mn>0,05</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:math> ładowany jest prądem <m:math display="inline">
       <m:mn>60</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
     </m:math>.<list id="eip-idm1168891040" list-type="enumerated" number-style="lower-alpha">
     <item>Jaka jest różnica potencjałów na jego zaciskach?</item>
@@ -1021,26 +1021,26 @@
   <problem id="new22">
     <para id="list-para-9">Etykieta na zasilanym bateriami radiu zaleca stosowanie akumulatorków niklowo-kadmowych, choć mają SEM równą <m:math display="inline">
       <m:mn>1,25</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:math>, podczas gdy baterie alkaliczne mają SEM równą <m:math display="inline">
     <m:mn>1,58</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math>. Radio ma opór <m:math display="inline">
   <m:mn>3,2</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
 </m:math>.<list id="eip-idm1198585760" list-type="enumerated" number-style="lower-alpha">
 <item>Narysuj schemat radia i zasilającej go baterii;</item>
 <item>Oblicz moc dostarczaną do radia przy użyciu akumulatorków niklowo-kadmowych, z których każdy ma opór wewnętrzny <m:math display="inline">
   <m:mn>0,04</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
   </m:math>;</item>
   <item>Oblicz moc dostarczaną do radia przy użyciu baterii alkalicznych, z których każda ma opór wewnętrzny <m:math display="inline">
     <m:mn>0,2</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
     </m:math>;</item>
     <item>Czy ta różnica wydaje się znacząca, biorąc pod uwagę, że efektywna rezystancja radia maleje, gdy zwiększamy jego głośność?</item>
@@ -1052,11 +1052,11 @@
       <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_27_04_P4ans_img.jpg"/>
     </media>; b. <m:math display="inline">
     <m:mn>0,476</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">W</m:mi>
   </m:math>; c. <m:math display="inline">
   <m:mn>0,691</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">W</m:mi>
   </m:math>; d. Gdy maleje rezystancja radia, różnica dostarczanej mocy również maleje, dlatego też gdy radio gra głośniej, nie ma znaczącej różnicy, jakim rodzajem baterii jest zasilane. </para></solution>
 </exercise>
@@ -1064,15 +1064,15 @@
   <problem id="new27">
     <para id="list-para-10">Rozrusznik silnika samochodowego ma opór <m:math display="inline">
       <m:mn>0,05</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:math> i jest zasilany akumulatorem <m:math display="inline">
     <m:mn>12</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math> o oporze wewnętrznym <m:math display="inline">
   <m:mn>0,01</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
 </m:math>.<list id="eip-idm174700304" list-type="enumerated" number-style="lower-alpha">
 <item>Ile wynosi natężenie prądu płynącego do silnika?</item>
@@ -1080,7 +1080,7 @@
 <item>Jaka moc jest dostarczana do silnika?</item>
 <item>Powtórz obliczenia dla przypadku, gdy połączenia akumulatora są skorodowane, zwiększając opór w obwodzie o <m:math display="inline">
   <m:mn>0,09</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
   </m:math> (nawet niewielkie dodatkowe opory mogą powodować istotne problemy w zastosowaniach niskonapięciowych i wysokoprądowych).</item>
 </list>
@@ -1090,11 +1090,11 @@
   <problem id="new28">
     <para id="exercise-para-11">Odpowiedz na poniższe pytania.<list id="eip-idm351391408" list-type="enumerated" number-style="lower-alpha"><item>Jaki jest opór wewnętrzny źródła napięcia, jeżeli między jego zaciskami potencjał spada o <m:math display="inline">
         <m:mn>2</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
       </m:math>, gdy natężenie prądu wzrasta o <m:math display="inline">
       <m:mn>5</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
       </m:math>?</item>
       <item>Czy na podstawie dostarczonych informacji możesz wyznaczyć SEM źródła napięcia?</item>
@@ -1103,7 +1103,7 @@
 <solution id="new29">
   <para id="new30">a. <m:math display="inline">
     <m:mn>0,4</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:math>; b. Nie, jest tylko jedno niezależne równanie, więc można wyznaczyć tylko <m:math display="inline">
   <m:mi>r</m:mi>
@@ -1113,22 +1113,22 @@
   <problem id="new32">
     <para id="list-para-12">Osoba o oporności organizmu między dłońmi wynoszącej <m:math display="inline">
       <m:mn>10</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">kΩ</m:mi>
     </m:math> przypadkowo chwyta zaciski zasilacza <m:math display="inline">
     <m:mn>20</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">kV</m:mi>
   </m:math>. (Nie wolno tego robić!)<list id="eip-idm676805552" list-type="enumerated" number-style="lower-alpha"><item>Narysuj schemat odpowiadający tej sytuacji;</item>
   <item>Ile wynosi natężenie prądu przepływającego przez ciało, jeżeli opór wewnętrzny zasilacza jest równy <m:math display="inline">
     <m:mn>2</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">kΩ</m:mi>
     </m:math>?</item>
     <item>Jaka moc jest rozpraszana w ciele?</item>
     <item>Jeśli zasilacz ma odpowiednie zabezpieczenie powodujące wzrost jego oporu wewnętrznego, to jaki powinien być jego opór wewnętrzny, aby maksymalne natężenie prądu w tej sytuacji nie przekraczało <m:math display="inline">
       <m:mn>1</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">mA</m:mi>
       </m:math>?</item>
       <item>Czy ta modyfikacja może zmniejszyć skuteczność działania zasilacza w zastosowaniach do zasilania urządzeń o niskim oporze? Wyjaśnij swoje rozumowanie.</item>
@@ -1138,15 +1138,15 @@
   <problem id="new34">
     <para id="list-para-13">Akumulator samochodowy o SEM <m:math display="inline">
       <m:mn>12</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:math> ma napięcie między biegunami wynoszące <m:math display="inline">
     <m:mn>16</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math> podczas ładowania prądem o natężeniu <m:math display="inline">
   <m:mn>10</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">A</m:mi>
 </m:math>.<list id="eip-idm1305044288" list-type="enumerated" number-style="lower-alpha">
 <item>Ile wynosi opór wewnętrzny akumulatora?</item>
@@ -1157,18 +1157,18 @@
   <m:mi mathvariant="normal">min</m:mi>
 </m:math>) będzie rosła jego temperatura, jeśli masa akumulatora wynosi <m:math display="inline">
 <m:mn>20</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:mi mathvariant="normal">kg</m:mi>
 </m:math>, a jego ciepło właściwe <m:math display="inline">
 <m:mn>0,3</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:mrow>
   <m:mi mathvariant="normal">kcal</m:mi>
   <m:mo>∕</m:mo>
   <m:mfenced>
     <m:mrow>
       <m:mi mathvariant="normal">kg</m:mi>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
     </m:mrow>
   </m:mfenced>
@@ -1179,15 +1179,15 @@
 <solution id="new35">
   <para id="paragraph-136">a. <m:math display="inline">
     <m:mn>0,4</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:math>; b. <m:math display="inline">
   <m:mn>40</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">W</m:mi>
 </m:math>; c. <m:math display="inline">
 <m:mn>0,0956</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:mrow>
   <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
   <m:mo>∕</m:mo>

@@ -1554,7 +1554,7 @@ gdzie droga całkowania prowadzi od jednego przewodnika do drugiego. Wartość b
           </m:mrow>
         </m:math>
       </equation>
-      <para id="fs-id1167131274390">W praktycznych zastosowaniach należy pamiętać o tym, aby zawsze używać kabli o właściwym stosunku <m:math display="inline"><m:mi>C</m:mi><m:mo>∕</m:mo><m:mi>l</m:mi></m:math>. Oznacza to wybór odpowiednich promieni przewodników oraz dzielącego je dielektryka.</para><equation id="eip-203" class="unnumbered"><m:math/></equation>
+      <para id="fs-id1167131274390">W praktycznych zastosowaniach należy pamiętać o tym, aby zawsze używać kabli o właściwym stosunku <m:math display="inline"><m:mi>C</m:mi><m:mo>∕</m:mo><m:mi>l</m:mi></m:math>. Oznacza to wybór odpowiednich promieni przewodników oraz dzielącego je dielektryka.</para><equation id="eip-203" class="unnumbered"/>
       <note id="fs-id1167134941083" class="check-understanding">
         <exercise id="fs-id1167131462066">
           <problem id="fs-id1167129962305">

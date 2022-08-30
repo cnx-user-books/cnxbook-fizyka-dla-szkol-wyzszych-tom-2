@@ -77,7 +77,7 @@
     <m:mrow>
       <m:mrow>
         <m:mn>0</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
       </m:mrow>
       <m:mo>⁢</m:mo>
@@ -111,7 +111,7 @@
           <m:mrow>
             <m:mrow>
               <m:mn>0</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">V</m:mi>
             </m:mrow>
             <m:mo>⁢</m:mo>
@@ -292,15 +292,15 @@
   <para id="imp-idm447243904">Jedną z konsekwencji łączenia elementów w układzie szeregowym jest to, że gdy coś się dzieje z jednym, wpływa to na pozostałe. Na przykład, jeśli połączymy szeregowo kilka żarówek i jedna z nich się przepali, to wszystkie pozostałe również przestaną świecić. </para><example id="imp-idm1395721616">
     <para id="imp-idm1003203648"><title>Opór równoważny, prąd i moc w szeregowych obwodach elektrycznych</title>Bateria o napięciu na biegunach <m:math display="inline">
         <m:mn>9</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
       </m:math> jest podłączona do obwodu elektrycznego składającego się z szeregowo połączonych czterech oporników o oporze <m:math display="inline">
       <m:mn>20</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:math> i jednego o oporze (rezystancji) <m:math display="inline">
     <m:mn>10</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:math> (<link target-id="figure-3"/>). Załóż, że bateria ma znikomy opór wewnętrzny.<list id="eip-idm1144638784" list-type="enumerated" number-style="lower-alpha"><item>Oblicz równoważny opór obwodu.</item>
   <item>Oblicz natężenie prądu płynącego przez każdy opornik.</item>
@@ -368,31 +368,31 @@
         <m:mrow>
           <m:mrow>
             <m:mn>20</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
           <m:mo>+</m:mo>
           <m:mrow>
             <m:mn>20</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
           <m:mo>+</m:mo>
           <m:mrow>
             <m:mn>20</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
           <m:mo>+</m:mo>
           <m:mrow>
             <m:mn>20</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
           <m:mo>+</m:mo>
           <m:mrow>
             <m:mn>10</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
         </m:mrow>
@@ -400,7 +400,7 @@
         <m:mrow>
           <m:mrow>
             <m:mn>90</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
           <m:mo>⁢</m:mo>
@@ -422,12 +422,12 @@
       <m:mfrac>
         <m:mrow>
           <m:mn>9</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">V</m:mi>
         </m:mrow>
         <m:mrow>
           <m:mn>90</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">Ω</m:mi>
         </m:mrow>
       </m:mfrac>
@@ -435,7 +435,7 @@
       <m:mrow>
         <m:mrow>
           <m:mn>0,1</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">A</m:mi>
         </m:mrow>
         <m:mo>⁢</m:mo>
@@ -471,13 +471,13 @@
           <m:mrow>
             <m:mrow>
               <m:mn>0,1</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">A</m:mi>
             </m:mrow>
             <m:mo>⋅</m:mo>
             <m:mrow>
               <m:mn>20</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:mrow>
           </m:mrow>
@@ -485,7 +485,7 @@
           <m:mrow>
             <m:mrow>
               <m:mn>2</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:mrow>
             <m:mo>⁢</m:mo>
@@ -504,13 +504,13 @@
           <m:mrow>
             <m:mrow>
               <m:mn>0,1</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">A</m:mi>
             </m:mrow>
             <m:mo>⋅</m:mo>
             <m:mrow>
               <m:mn>10</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:mrow>
           </m:mrow>
@@ -518,7 +518,7 @@
           <m:mrow>
             <m:mrow>
               <m:mn>1</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">V</m:mi>
             </m:mrow>
             <m:mo>⁢</m:mo>
@@ -559,7 +559,7 @@
           <m:mrow>
             <m:mrow>
               <m:mn>9</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">V</m:mi>
             </m:mrow>
             <m:mo>⁢</m:mo>
@@ -620,7 +620,7 @@
               <m:mfenced>
                 <m:mrow>
                   <m:mn>0,1</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                   <m:mi mathvariant="normal">A</m:mi>
                 </m:mrow>
               </m:mfenced>
@@ -629,7 +629,7 @@
             <m:mo>⋅</m:mo>
             <m:mrow>
               <m:mn>20</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:mrow>
           </m:mrow>
@@ -637,7 +637,7 @@
           <m:mrow>
             <m:mrow>
               <m:mn>0,2</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">W</m:mi>
             </m:mrow>
             <m:mo>⁢</m:mo>
@@ -658,7 +658,7 @@
               <m:mfenced>
                 <m:mrow>
                   <m:mn>0,1</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                   <m:mi mathvariant="normal">A</m:mi>
                 </m:mrow>
               </m:mfenced>
@@ -667,7 +667,7 @@
             <m:mo>⋅</m:mo>
             <m:mrow>
               <m:mn>10</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:mrow>
           </m:mrow>
@@ -675,7 +675,7 @@
           <m:mrow>
             <m:mrow>
               <m:mn>0,1</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">W</m:mi>
             </m:mrow>
             <m:mo>⁢</m:mo>
@@ -694,31 +694,31 @@
           <m:mrow>
             <m:mrow>
               <m:mn>0,2</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">W</m:mi>
             </m:mrow>
             <m:mo>+</m:mo>
             <m:mrow>
               <m:mn>0,2</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">W</m:mi>
             </m:mrow>
             <m:mo>+</m:mo>
             <m:mrow>
               <m:mn>0,2</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">W</m:mi>
             </m:mrow>
             <m:mo>+</m:mo>
             <m:mrow>
               <m:mn>0,2</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">W</m:mi>
             </m:mrow>
             <m:mo>+</m:mo>
             <m:mrow>
               <m:mn>0,1</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">W</m:mi>
             </m:mrow>
           </m:mrow>
@@ -726,7 +726,7 @@
           <m:mrow>
             <m:mrow>
               <m:mn>0,9</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">W</m:mi>
             </m:mrow>
             <m:mo>⁢</m:mo>
@@ -751,13 +751,13 @@
           <m:mrow>
             <m:mrow>
               <m:mn>0,1</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">A</m:mi>
             </m:mrow>
             <m:mo>⋅</m:mo>
             <m:mrow>
               <m:mn>9</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">V</m:mi>
             </m:mrow>
           </m:mrow>
@@ -765,7 +765,7 @@
           <m:mrow>
             <m:mrow>
               <m:mn>0,9</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">W</m:mi>
             </m:mrow>
             <m:mo>⁢</m:mo>
@@ -1114,7 +1114,7 @@
         <m:mo>=</m:mo>
         <m:mrow>
           <m:mn>1</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">Ω</m:mi>
         </m:mrow>
       </m:math>, <m:math display="inline">
@@ -1125,7 +1125,7 @@
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>2</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
     </m:math> i <m:math display="inline">
@@ -1136,10 +1136,10 @@
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>2</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
-  </m:math> połączono równolegle. Układ podłączono do źródła o napięciu <m:math display="inline"><m:semantics><m:mrow><m:mi>U</m:mi><m:mo>=</m:mo><m:mrow><m:mn>3</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo><m:mi mathvariant="normal">V</m:mi></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            U = 3 \si{\volt}</m:annotation></m:semantics></m:math> na biegunach.<list id="eip-idm289325584" list-type="enumerated" number-style="lower-alpha"><item>Jaki jest opór równoważny?</item>
+  </m:math> połączono równolegle. Układ podłączono do źródła o napięciu <m:math display="inline"><m:semantics><m:mrow><m:mi>U</m:mi><m:mo>=</m:mo><m:mrow><m:mn>3</m:mn><m:mo rspace="verythinmathspace">⁢⁢</m:mo><m:mi mathvariant="normal">V</m:mi></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            U = 3 \si{\volt}</m:annotation></m:semantics></m:math> na biegunach.<list id="eip-idm289325584" list-type="enumerated" number-style="lower-alpha"><item>Jaki jest opór równoważny?</item>
   <item>Oblicz natężenie prądu dostarczanego przez źródło do obwodu równoległego.</item>
   <item>Oblicz natężenia prądów przepływających przez poszczególne oporniki i udowodnij, że ich suma odpowiada natężeniu prądu wypływającego ze źródła.</item>
   <item>Oblicz moc energii elektrycznej wydzielanej na każdym z oporników.</item>
@@ -1309,7 +1309,7 @@
                 <m:mn>1</m:mn>
                 <m:mrow>
                   <m:mn>1</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                   <m:mi mathvariant="normal">Ω</m:mi>
                 </m:mrow>
               </m:mfrac>
@@ -1318,7 +1318,7 @@
                 <m:mn>1</m:mn>
                 <m:mrow>
                   <m:mn>2</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                   <m:mi mathvariant="normal">Ω</m:mi>
                 </m:mrow>
               </m:mfrac>
@@ -1327,7 +1327,7 @@
                 <m:mn>1</m:mn>
                 <m:mrow>
                   <m:mn>2</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                   <m:mi mathvariant="normal">Ω</m:mi>
                 </m:mrow>
               </m:mfrac>
@@ -1339,7 +1339,7 @@
         <m:mrow>
           <m:mrow>
             <m:mn>0,5</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
           <m:mo>⁢</m:mo>
@@ -1366,12 +1366,12 @@
         <m:mfrac>
           <m:mrow>
             <m:mn>3</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">V</m:mi>
           </m:mrow>
           <m:mrow>
             <m:mn>0,5</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
         </m:mfrac>
@@ -1379,7 +1379,7 @@
         <m:mrow>
           <m:mrow>
             <m:mn>6</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">A</m:mi>
           </m:mrow>
           <m:mo>⁢</m:mo>
@@ -1404,12 +1404,12 @@
           <m:mfrac>
             <m:mrow>
               <m:mn>3</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">V</m:mi>
             </m:mrow>
             <m:mrow>
               <m:mn>1</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:mrow>
           </m:mfrac>
@@ -1417,7 +1417,7 @@
           <m:mrow>
             <m:mrow>
               <m:mn>3</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">A</m:mi>
             </m:mrow>
             <m:mo>⁢</m:mo>
@@ -1441,19 +1441,19 @@
         <m:mfrac>
           <m:mrow>
             <m:mn>3</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">V</m:mi>
           </m:mrow>
           <m:mrow>
             <m:mn>2</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
         </m:mfrac>
         <m:mo>=</m:mo>
         <m:mrow>
           <m:mn>1,5</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">A</m:mi>
         </m:mrow>
       </m:math>
@@ -1474,12 +1474,12 @@
       <m:mfrac>
         <m:mrow>
           <m:mn>3</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">V</m:mi>
         </m:mrow>
         <m:mrow>
           <m:mn>2</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">Ω</m:mi>
         </m:mrow>
       </m:mfrac>
@@ -1487,7 +1487,7 @@
       <m:mrow>
         <m:mrow>
           <m:mn>1,5</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">A</m:mi>
         </m:mrow>
         <m:mo>⁢</m:mo>
@@ -1515,7 +1515,7 @@
     <m:mrow>
       <m:mrow>
         <m:mn>6</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:mrow>
       <m:mo>⁢</m:mo>
@@ -1557,7 +1557,7 @@
         <m:mfenced>
           <m:mrow>
             <m:mn>3</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">V</m:mi>
           </m:mrow>
         </m:mfenced>
@@ -1565,7 +1565,7 @@
       </m:msup>
       <m:mrow>
         <m:mn>1</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
     </m:mfrac>
@@ -1573,7 +1573,7 @@
     <m:mrow>
       <m:mrow>
         <m:mn>9</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">W</m:mi>
       </m:mrow>
       <m:mo>⁢</m:mo>
@@ -1602,7 +1602,7 @@
       <m:mfenced>
         <m:mrow>
           <m:mn>3</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">V</m:mi>
         </m:mrow>
       </m:mfenced>
@@ -1610,14 +1610,14 @@
     </m:msup>
     <m:mrow>
       <m:mn>2</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
   </m:mfrac>
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>4,5</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">W</m:mi>
   </m:mrow>
 </m:math>
@@ -1643,7 +1643,7 @@
       <m:mfenced>
         <m:mrow>
           <m:mn>3</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">V</m:mi>
         </m:mrow>
       </m:mfenced>
@@ -1651,7 +1651,7 @@
     </m:msup>
     <m:mrow>
       <m:mn>2</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
   </m:mfrac>
@@ -1659,7 +1659,7 @@
   <m:mrow>
     <m:mrow>
       <m:mn>4,5</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">W</m:mi>
     </m:mrow>
     <m:mo>⁢</m:mo>
@@ -1687,13 +1687,13 @@
   <m:mrow>
     <m:mrow>
       <m:mn>6</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
     </m:mrow>
     <m:mo>⋅</m:mo>
     <m:mrow>
       <m:mn>3</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:mrow>
   </m:mrow>
@@ -1701,7 +1701,7 @@
   <m:mrow>
     <m:mrow>
       <m:mn>18</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">W</m:mi>
     </m:mrow>
     <m:mo>⁢</m:mo>
@@ -1712,7 +1712,7 @@
 </list>
 <para id="imp-idm1221284240"><title>Znaczenie</title>Całkowita moc rozpraszania energii przez oporniki także wynosi <m:math display="inline">
     <m:mn>18</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">W</m:mi>
   </m:math>
 </para><equation id="imp-idm340877312" class="unnumbered"><m:math display="block">
@@ -1736,19 +1736,19 @@
     <m:mrow>
       <m:mrow>
         <m:mn>9</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">W</m:mi>
       </m:mrow>
       <m:mo>+</m:mo>
       <m:mrow>
         <m:mn>4,5</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">W</m:mi>
       </m:mrow>
       <m:mo>+</m:mo>
       <m:mrow>
         <m:mn>4,5</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">W</m:mi>
       </m:mrow>
     </m:mrow>
@@ -1756,7 +1756,7 @@
     <m:mrow>
       <m:mrow>
         <m:mn>18</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">W</m:mi>
       </m:mrow>
       <m:mo>⁢</m:mo>
@@ -1773,7 +1773,7 @@
           <m:mo>=</m:mo>
           <m:mrow>
             <m:mn>3</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">V</m:mi>
           </m:mrow>
           </m:math>) – jak w poprzednim przykładzie. Czy opór równoważny układu szeregowego oporników byłby w stosunku do oporu tych trzech oporników w połączeniu równoległym większy, mniejszy czy może mu równy? Czy natężenie prądu płynącego przez obwód szeregowy będzie większe czy mniejsze od natężenia prądu dostarczanego przez identyczne źródło SEM przyłączone do obwodu z połączeniem równoległym, a może będzie mu równe? Jak się mają do siebie: moc rozpraszania energii przez oporniki połączone szeregowo i moc rozpraszania energii przez oporniki połączone równolegle? </para></problem>
@@ -1787,26 +1787,26 @@
             <m:mrow>
               <m:mrow>
                 <m:mn>1</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                 <m:mi mathvariant="normal">Ω</m:mi>
               </m:mrow>
               <m:mo>+</m:mo>
               <m:mrow>
                 <m:mn>2</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                 <m:mi mathvariant="normal">Ω</m:mi>
               </m:mrow>
               <m:mo>+</m:mo>
               <m:mrow>
                 <m:mn>2</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                 <m:mi mathvariant="normal">Ω</m:mi>
               </m:mrow>
             </m:mrow>
             <m:mo>=</m:mo>
             <m:mrow>
               <m:mn>5</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:mrow>
           </m:math>, co jest wartością większą niż w przypadku równoległego połączenia tych oporników, <m:math display="inline">
@@ -1817,7 +1817,7 @@
           <m:mo>=</m:mo>
           <m:mrow>
             <m:mn>0,5</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
         </m:math>. Równoważny opór dowolnej liczby oporników połączonych szeregowo jest zawsze większy od oporu równoważnego w przypadku, gdy te same oporniki połączymy równolegle. Natężenie prądu płynącego przez obwód szeregowy wynosi <m:math display="inline">
@@ -1826,20 +1826,20 @@
         <m:mrow>
           <m:mrow>
             <m:mn>3</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">V</m:mi>
           </m:mrow>
           <m:mo>∕</m:mo>
           <m:mrow>
             <m:mn>5</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
         </m:mrow>
         <m:mo>=</m:mo>
         <m:mrow>
           <m:mn>0,6</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">A</m:mi>
         </m:mrow>
       </m:math>, co daje wartość mniejszą od sumy natężeń prądów płynących przez poszczególne oporniki połączone równolegle, <m:math display="inline">
@@ -1847,7 +1847,7 @@
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>6</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:mrow>
     </m:math>. Wynik ten nie powinien zaskakiwać, ponieważ równoważny opór szeregowo połączonych oporników jest większy niż w przypadku ich połączenia równoległego. Natężenie prądu płynącego poprzez szeregowe połączenie dowolnej liczby rezystorów zawsze będzie mniejsze niż natężenie prądu wpływającego do równoległego połączenia tych oporników, co wynika z różnicy wartości równoważnych oporów w poszczególnych przypadkach. Moc rozpraszania energii przez oporniki połączone szeregowo wynosi <m:math display="inline">
@@ -1855,7 +1855,7 @@
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>1,8</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">W</m:mi>
     </m:mrow>
   </m:math> i jest mniejsza niż moc rozpraszania energii przez oporniki połączone równolegle: <m:math display="inline">
@@ -1863,7 +1863,7 @@
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>18</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">W</m:mi>
   </m:mrow>
   </m:math>.</para></solution>
@@ -2138,7 +2138,7 @@
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>10</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
   </m:math>. (c) Krok 2: uproszczony obwód składający się z połączonych równolegle oporników <m:math display="inline">
@@ -2166,7 +2166,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>5</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
 </m:mrow>
 </m:math>. (d) Krok 3: uproszczony obwód składający się z połączonych szeregowo oporników <m:math display="inline">
@@ -2196,7 +2196,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>12</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
 </m:mrow>
 </m:math> jest szukanym oporem <m:math display="inline">
@@ -2209,7 +2209,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>24</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">V</m:mi>
 </m:mrow>
 </m:math> i opornika równoważnego <m:math display="inline">
@@ -2220,7 +2220,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>12</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
 </m:mrow>
 </m:math>. Daje to prąd o natężeniu <m:math display="inline">
@@ -2228,7 +2228,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>2</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">A</m:mi>
 </m:mrow>
 </m:math> wypływający ze źródła. </caption></figure><para id="imp-idm515019840">Zacznijmy od obserwacji, że oporniki (rezystancje) <m:math display="inline">
@@ -2285,13 +2285,13 @@
     <m:mrow>
       <m:mrow>
         <m:mn>6</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
       <m:mo>+</m:mo>
       <m:mrow>
         <m:mn>4</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
     </m:mrow>
@@ -2299,7 +2299,7 @@
     <m:mrow>
       <m:mrow>
         <m:mn>10</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
       <m:mo>⁢</m:mo>
@@ -2364,7 +2364,7 @@
             <m:mn>1</m:mn>
             <m:mrow>
               <m:mn>10</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:mrow>
           </m:mfrac>
@@ -2373,7 +2373,7 @@
             <m:mn>1</m:mn>
             <m:mrow>
               <m:mn>10</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:mrow>
           </m:mfrac>
@@ -2385,7 +2385,7 @@
     <m:mrow>
       <m:mrow>
         <m:mn>5</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
       <m:mo>⁢</m:mo>
@@ -2429,13 +2429,13 @@
     <m:mrow>
       <m:mrow>
         <m:mn>7</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
       <m:mo>+</m:mo>
       <m:mrow>
         <m:mn>5</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
     </m:mrow>
@@ -2443,7 +2443,7 @@
     <m:mrow>
       <m:mrow>
         <m:mn>12</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
       <m:mo>⁢</m:mo>
@@ -2466,20 +2466,20 @@
   <m:mrow>
     <m:mrow>
       <m:mn>24</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:mrow>
     <m:mo>∕</m:mo>
     <m:mrow>
       <m:mn>12</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
   </m:mrow>
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>2</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">A</m:mi>
   </m:mrow>
 </m:math>. Prąd o takim natężeniu przepływa przez opornik <m:math display="inline">
@@ -2602,12 +2602,12 @@
     <m:mfrac>
       <m:mrow>
         <m:mn>10</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
       </m:mrow>
       <m:mrow>
         <m:mn>10</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
     </m:mfrac>
@@ -2615,7 +2615,7 @@
     <m:mrow>
       <m:mrow>
         <m:mn>1</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:mrow>
       <m:mo>⁢</m:mo>
@@ -2657,13 +2657,13 @@
     <m:mrow>
       <m:mrow>
         <m:mn>2</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:mrow>
       <m:mo>−</m:mo>
       <m:mrow>
         <m:mn>1</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:mrow>
     </m:mrow>
@@ -2671,7 +2671,7 @@
     <m:mrow>
       <m:mrow>
         <m:mn>1</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:mrow>
       <m:mo>⁢</m:mo>
@@ -2698,7 +2698,7 @@
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>6</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:mrow>
 </m:math> i <m:math display="inline">
@@ -2721,7 +2721,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>4</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">V</m:mi>
 </m:mrow>
 </m:math>. Pozostało nam obliczyć moc źródła SEM i moc wydzielaną na poszczególnych opornikach. Moc rozpraszania energii przez poszczególne oporniki wynosi </para><equation id="imp-idm325576784" class="unnumbered"><label/>
@@ -2753,7 +2753,7 @@
               <m:mfenced>
                 <m:mrow>
                   <m:mn>2</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                   <m:mi mathvariant="normal">A</m:mi>
                 </m:mrow>
               </m:mfenced>
@@ -2762,7 +2762,7 @@
             <m:mo>⋅</m:mo>
             <m:mrow>
               <m:mn>7</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:mrow>
           </m:mrow>
@@ -2770,7 +2770,7 @@
           <m:mrow>
             <m:mrow>
               <m:mn>28</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">W</m:mi>
             </m:mrow>
             <m:mo>⁢</m:mo>
@@ -2804,7 +2804,7 @@
               <m:mfenced>
                 <m:mrow>
                   <m:mn>1</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                   <m:mi mathvariant="normal">A</m:mi>
                 </m:mrow>
               </m:mfenced>
@@ -2813,7 +2813,7 @@
             <m:mo>⋅</m:mo>
             <m:mrow>
               <m:mn>10</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:mrow>
           </m:mrow>
@@ -2821,7 +2821,7 @@
           <m:mrow>
             <m:mrow>
               <m:mn>10</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">W</m:mi>
             </m:mrow>
             <m:mo>⁢</m:mo>
@@ -2855,7 +2855,7 @@
               <m:mfenced>
                 <m:mrow>
                   <m:mn>1</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                   <m:mi mathvariant="normal">A</m:mi>
                 </m:mrow>
               </m:mfenced>
@@ -2864,7 +2864,7 @@
             <m:mo>⋅</m:mo>
             <m:mrow>
               <m:mn>6</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:mrow>
           </m:mrow>
@@ -2872,7 +2872,7 @@
           <m:mrow>
             <m:mrow>
               <m:mn>6</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">W</m:mi>
             </m:mrow>
             <m:mo>⁢</m:mo>
@@ -2906,7 +2906,7 @@
               <m:mfenced>
                 <m:mrow>
                   <m:mn>1</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                   <m:mi mathvariant="normal">A</m:mi>
                 </m:mrow>
               </m:mfenced>
@@ -2915,7 +2915,7 @@
             <m:mo>⋅</m:mo>
             <m:mrow>
               <m:mn>4</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:mrow>
           </m:mrow>
@@ -2923,7 +2923,7 @@
           <m:mrow>
             <m:mrow>
               <m:mn>4</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">W</m:mi>
             </m:mrow>
             <m:mo>⁢</m:mo>
@@ -2964,7 +2964,7 @@
           <m:mrow>
             <m:mrow>
               <m:mn>48</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">W</m:mi>
             </m:mrow>
             <m:mo>⁢</m:mo>
@@ -2989,20 +2989,20 @@
   <m:mrow>
     <m:mrow>
       <m:mn>2</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
     </m:mrow>
     <m:mo>⋅</m:mo>
     <m:mrow>
       <m:mn>24</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:mrow>
   </m:mrow>
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>48</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">W</m:mi>
   </m:mrow>
   </m:math>. Analiza mocy dostarczania energii do obwodu i mocy utraty energii na opornikach jest dobrym testem przeprowadzonych obliczeń; obie wartości powinny być równe. </para><example id="imp-idm387254400">
@@ -3257,7 +3257,7 @@
   <m:mrow>
     <m:mrow>
       <m:mn>1</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
     <m:mo>+</m:mo>
@@ -3268,7 +3268,7 @@
             <m:mn>1</m:mn>
             <m:mrow>
               <m:mn>6</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:mrow>
           </m:mfrac>
@@ -3277,7 +3277,7 @@
             <m:mn>1</m:mn>
             <m:mrow>
               <m:mn>13</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:mrow>
           </m:mfrac>
@@ -3290,7 +3290,7 @@
   <m:mrow>
     <m:mrow>
       <m:mn>5,1</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
     <m:mo>⁢</m:mo>
@@ -3299,11 +3299,11 @@
 </m:math>
 </equation>Wyznaczona wartość oporu zastępczego mieści się pomiędzy wartością odpowiadającą szeregowemu połączeniu rozważanych oporników (<m:math display="inline">
 <m:mn>20</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:mi mathvariant="normal">Ω</m:mi>
 </m:math>) a wartością odpowiadającą ich połączeniu równoległemu (<m:math display="inline">
 <m:mn>0,804</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:mi mathvariant="normal">Ω</m:mi>
 </m:math>). </item>
 <item>Natężenie prądu przepływającego przez opornik <m:math display="inline">
@@ -3332,12 +3332,12 @@
   <m:mfrac>
     <m:mrow>
       <m:mn>12</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:mrow>
     <m:mrow>
       <m:mn>5,1</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
   </m:mfrac>
@@ -3345,7 +3345,7 @@
   <m:mrow>
     <m:mrow>
       <m:mn>2,35</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
     </m:mrow>
     <m:mo>⁢</m:mo>
@@ -3381,13 +3381,13 @@ Spadek potencjału na <m:math display="inline">
   <m:mrow>
     <m:mrow>
       <m:mn>2,35</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
     </m:mrow>
     <m:mo>⋅</m:mo>
     <m:mrow>
       <m:mn>1</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
   </m:mrow>
@@ -3395,7 +3395,7 @@ Spadek potencjału na <m:math display="inline">
   <m:mrow>
     <m:mrow>
       <m:mn>2,35</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:mrow>
     <m:mo>⁢</m:mo>
@@ -3458,13 +3458,13 @@ Spadek potencjału na <m:math display="inline">
   <m:mrow>
     <m:mrow>
       <m:mn>12</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:mrow>
     <m:mo>−</m:mo>
     <m:mrow>
       <m:mn>2,35</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:mrow>
   </m:mrow>
@@ -3472,7 +3472,7 @@ Spadek potencjału na <m:math display="inline">
   <m:mrow>
     <m:mrow>
       <m:mn>9,65</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:mrow>
     <m:mo>⁢</m:mo>
@@ -3512,12 +3512,12 @@ Spadek potencjału na <m:math display="inline">
     <m:mfrac>
       <m:mrow>
         <m:mn>9,65</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
       </m:mrow>
       <m:mrow>
         <m:mn>6</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
     </m:mfrac>
@@ -3525,7 +3525,7 @@ Spadek potencjału na <m:math display="inline">
     <m:mrow>
       <m:mrow>
         <m:mn>1,61</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:mrow>
       <m:mo>⁢</m:mo>
@@ -3565,7 +3565,7 @@ Spadek potencjału na <m:math display="inline">
       <m:mfenced>
         <m:mrow>
           <m:mn>1,61</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">A</m:mi>
         </m:mrow>
       </m:mfenced>
@@ -3574,7 +3574,7 @@ Spadek potencjału na <m:math display="inline">
     <m:mo>⋅</m:mo>
     <m:mrow>
       <m:mn>6</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
   </m:mrow>
@@ -3582,7 +3582,7 @@ Spadek potencjału na <m:math display="inline">
   <m:mrow>
     <m:mrow>
       <m:mn>15,5</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">W</m:mi>
     </m:mrow>
     <m:mo>⁢</m:mo>
@@ -3671,11 +3671,11 @@ Spadek potencjału na <m:math display="inline">
   </m:msub>
 </m:math>). Szeregowo-równoległy układ podłączono do baterii. Każdy z oporników ma opór <m:math display="inline">
 <m:mn>10</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:mi mathvariant="normal">Ω</m:mi>
 </m:math>. Przewód łączący oporniki z baterią ma pomijalną rezystancję. Prąd o natężeniu <m:math display="inline">
 <m:mn>2</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:mi mathvariant="normal">A</m:mi>
 </m:math> płynie przez opornik <m:math display="inline">
 <m:msub>
@@ -3762,7 +3762,7 @@ Spadek potencjału na <m:math display="inline">
           <m:mn>1</m:mn>
           <m:mrow>
             <m:mn>10</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
         </m:mfrac>
@@ -3771,7 +3771,7 @@ Spadek potencjału na <m:math display="inline">
           <m:mn>1</m:mn>
           <m:mrow>
             <m:mn>10</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
         </m:mfrac>
@@ -3783,7 +3783,7 @@ Spadek potencjału na <m:math display="inline">
   <m:mrow>
     <m:mrow>
       <m:mn>5</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
     <m:mo>⁢</m:mo>
@@ -3819,7 +3819,7 @@ Spadek potencjału na <m:math display="inline">
   <m:mrow>
     <m:mrow>
       <m:mn>25</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
     <m:mo>⁢</m:mo>
@@ -3841,13 +3841,13 @@ Spadek potencjału na <m:math display="inline">
   <m:mrow>
     <m:mrow>
       <m:mn>2</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
     </m:mrow>
     <m:mo>⋅</m:mo>
     <m:mrow>
       <m:mn>25</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
   </m:mrow>
@@ -3855,7 +3855,7 @@ Spadek potencjału na <m:math display="inline">
   <m:mrow>
     <m:mrow>
       <m:mn>50</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:mrow>
     <m:mo>⁢</m:mo>
@@ -4067,15 +4067,15 @@ Spadek potencjału na <m:math display="inline">
     <problem id="imp-idm490961920">
       <para id="imp-idm490961664">Jaki jest opór równoważny, gdy oporniki o oporach: <m:math display="inline">
         <m:mn>100</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:math>, <m:math display="inline">
       <m:mn>2,5</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">kΩ</m:mi>
     </m:math> i <m:math display="inline">
     <m:mn>4</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">kΩ</m:mi>
   </m:math> połączysz<list id="eip-idm391247968" list-type="enumerated" number-style="lower-alpha">
   <item>szeregowo;</item>
@@ -4087,25 +4087,25 @@ Spadek potencjału na <m:math display="inline">
   <problem id="imp-idm460303328">
     <para id="imp-idm460303072">Jaki największy i najmniejszy opór otrzymasz z połączenia oporników o oporze: <m:math display="inline">
       <m:mn>36</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:math>, <m:math display="inline">
     <m:mn>50</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:math> i <m:math display="inline">
   <m:mn>700</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
   </m:math>?</para></problem>
 <solution id="imp-idm575055920">
   <para id="imp-idm484150448">Największy opór ma wartość <m:math display="inline">
     <m:mn>786</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:math>, a najmniejszy <m:math display="inline">
   <m:mn>20,32</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
   </m:math>.</para></solution>
 </exercise>
@@ -4113,29 +4113,29 @@ Spadek potencjału na <m:math display="inline">
   <problem id="imp-idm435327952">
     <para id="imp-idm435327696">Toster o mocy <m:math display="inline">
       <m:mn>1800</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">W</m:mi>
     </m:math>, głośnik o mocy <m:math display="inline">
     <m:mn>1400</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">W</m:mi>
   </m:math> i lampę <m:math display="inline">
   <m:mn>75</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">W</m:mi>
 </m:math> podłączono do wspólnego gniazdka będącego w obwodzie o napięciu <m:math display="inline">
 <m:mn>230</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:mi mathvariant="normal">V</m:mi>
 </m:math> i zabezpieczonego bezpiecznikiem <m:math display="inline">
 <m:mn>15</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:mi mathvariant="normal">A</m:mi>
 </m:math>. (Trzy urządzenia są równolegle podłączone do tego samego gniazdka).<list id="eip-idm1562657424" list-type="enumerated" number-style="lower-alpha">
 <item>Prąd o jakim natężeniu płynie przez każde z urządzeń?</item>
 <item>Czy takie podłączenie urządzeń spowoduje wybicie (zadziałanie) bezpiecznika <m:math display="inline">
   <m:mn>15</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">A</m:mi>
   </m:math>?</item>
 </list>
@@ -4145,21 +4145,21 @@ Spadek potencjału na <m:math display="inline">
   <problem id="imp-idm368883664">
     <para id="imp-idm368883408">Reflektor o mocy <m:math display="inline">
       <m:mn>30</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">W</m:mi>
     </m:math> oraz rozrusznik o mocy <m:math display="inline">
     <m:mn>2,4</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">kW</m:mi>
   </m:math> w samochodzie są zazwyczaj połączone równolegle w zasilanym akumulatorem <m:math display="inline">
   <m:mn>12</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">V</m:mi>
   </m:math> obwodzie. Jaką moc będą pobierać te urządzenia podłączone szeregowo do akumulatora? (Pomiń wszystkie inne rezystancje w obwodzie i wszelkie zmiany oporu w omawianych urządzeniach).</para></problem>
 <solution id="imp-idm380394688">
   <para id="imp-idm380394432"><m:math display="inline">
       <m:mn>29,6</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">W</m:mi>
       </m:math>.</para></solution>
   </exercise>
@@ -4167,15 +4167,15 @@ Spadek potencjału na <m:math display="inline">
     <problem id="imp-idm1425579088">
       <para id="imp-idm1425578832">Mamy baterię o napięciu na biegunach równym <m:math display="inline">
         <m:mn>48</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
       </m:math> i oporniki <m:math display="inline">
       <m:mn>24</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:math> i <m:math display="inline">
     <m:mn>96</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:math>.<list id="eip-idm1590208448" list-type="enumerated" number-style="lower-alpha">
   <item>Oblicz natężenie prądu płynącego przez każdy opornik i moc rozpraszaną przez każdy z nich, gdy połączone są szeregowo;</item>
@@ -4210,11 +4210,11 @@ Spadek potencjału na <m:math display="inline">
     <solution id="imp-idm558861424">
       <para id="imp-idm435742464">a. <m:math display="inline">
         <m:mn>0,74</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:math>; b. <m:math display="inline">
       <m:mn>0,742</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
       </m:math>.</para></solution>
   </exercise>
@@ -4241,20 +4241,20 @@ Spadek potencjału na <m:math display="inline">
     <problem id="imp-idm1380682592">
       <para id="imp-idm412842784">Cofnij się do <link target-id="figure-7" cmlnle:case="genitive"/> i dyskusji dotyczącej przygasania świateł, gdy włączy się urządzenie znacznie obciążające obwód. Dane są: źródło o napięciu na biegunach równym <m:math display="inline">
         <m:mn>120</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
       </m:math>, rezystancja przewodów <m:math display="inline">
       <m:mn>0,8</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:math> i żarówka o mocy nominalnej <m:math display="inline">
     <m:mn>75</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">W</m:mi>
   </m:math>.<list id="eip-idm1194856288" list-type="enumerated" number-style="lower-alpha">
   <item>Jaka będzie moc rozpraszania energii przez żarówkę, jeśli w momencie włączania silnika przez przewód popłynie prąd <m:math display="inline">
     <m:mn>15</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">A</m:mi>
     </m:math>? Załóż, że zmiana oporu żarówki jest nieistotna;</item>
     <item>Jak szybko silnik zużywa dostarczaną energię?</item>
@@ -4263,11 +4263,11 @@ Spadek potencjału na <m:math display="inline">
 <solution id="imp-idm334096208">
   <para id="imp-idm574499216">a. <m:math display="inline">
     <m:mn>60,8</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">W</m:mi>
   </m:math>; b. <m:math display="inline">
   <m:mn>3,18</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">kW</m:mi>
   </m:math>.</para></solution>
 </exercise>
@@ -4307,7 +4307,7 @@ Spadek potencjału na <m:math display="inline">
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>18</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
       </m:mrow>
     </m:math>.<list id="eip-idm979083488" list-type="enumerated" number-style="lower-alpha">
@@ -4330,7 +4330,7 @@ Spadek potencjału na <m:math display="inline">
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>9</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
   </m:math>; b. <m:math display="inline">
@@ -4351,7 +4351,7 @@ Spadek potencjału na <m:math display="inline">
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>2</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">A</m:mi>
   </m:mrow>
 </m:math>; c. <m:math display="inline">
@@ -4362,7 +4362,7 @@ Spadek potencjału na <m:math display="inline">
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>8</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">V</m:mi>
 </m:mrow>
 </m:math>, <m:math display="inline">
@@ -4373,7 +4373,7 @@ Spadek potencjału na <m:math display="inline">
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>2</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">V</m:mi>
 </m:mrow>
 </m:math>, <m:math display="inline">
@@ -4384,7 +4384,7 @@ Spadek potencjału na <m:math display="inline">
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>8</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">V</m:mi>
 </m:mrow>
 </m:math>; d. <m:math display="inline">
@@ -4395,7 +4395,7 @@ Spadek potencjału na <m:math display="inline">
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>16</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">W</m:mi>
 </m:mrow>
 </m:math>, <m:math display="inline">
@@ -4406,7 +4406,7 @@ Spadek potencjału na <m:math display="inline">
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>4</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">W</m:mi>
 </m:mrow>
 </m:math>, <m:math display="inline">
@@ -4417,7 +4417,7 @@ Spadek potencjału na <m:math display="inline">
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>16</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">W</m:mi>
 </m:mrow>
 </m:math>; e. <m:math display="inline">
@@ -4425,7 +4425,7 @@ Spadek potencjału na <m:math display="inline">
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>36</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">W</m:mi>
 </m:mrow>
 </m:math>.</para></solution>

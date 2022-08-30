@@ -22,19 +22,19 @@
       <m:mi mathvariant="normal">Hz</m:mi>
     </m:math> i amplitudą wynoszącą od <m:math display="inline">
     <m:mn>156</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math> do <m:math display="inline">
   <m:mn>325</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">V</m:mi>
 </m:math>, w zależności od miejsca zamieszkania. Najbardziej znanymi wartościami są jednak <m:math display="inline">
 <m:mn>220</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">V</m:mi>
 </m:math> albo <m:math display="inline">
 <m:mn>230</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">V</m:mi>
 </m:math> przy <m:math display="inline">
 <m:mn>50</m:mn>
@@ -42,7 +42,7 @@
 <m:mi mathvariant="normal">Hz</m:mi>
 </m:math> w Europie lub <m:math display="inline">
 <m:mn>120</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">V</m:mi>
 </m:math> przy <m:math display="inline">
 <m:mn>60</m:mn>
@@ -111,7 +111,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>325</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">V</m:mi>
 </m:mrow>
 </m:math> i <m:math display="inline">
@@ -121,7 +121,7 @@
   <m:mn>100</m:mn>
   <m:mo>⁢</m:mo>
   <m:mi>π</m:mi>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mrow>
     <m:mi mathvariant="normal">rad</m:mi>
     <m:mo>∕</m:mo>
@@ -136,7 +136,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>156</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">V</m:mi>
 </m:mrow>
 </m:math> i <m:math display="inline">
@@ -146,7 +146,7 @@
   <m:mn>120</m:mn>
   <m:mo>⁢</m:mo>
   <m:mi>π</m:mi>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mrow>
     <m:mi mathvariant="normal">rad</m:mi>
     <m:mo>∕</m:mo>
@@ -254,12 +254,12 @@
 <m:mn>100</m:mn>
 <m:mo>⁢</m:mo>
 <m:mi mathvariant="normal">Hz</m:mi>
-</m:math> jest zbyt szybkie, aby ludzkie oko było w stanie je zauważyć. Jednak jeśli pomachasz swoją ręką przed twarzą, patrząc jednocześnie na świetlówkę, będziesz w stanie zauważyć efekt stroboskopowy.</para><equation id="eip-203" class="unnumbered"><m:math/></equation><note id="fs-id1172101694734" class="check-understanding">
+</m:math> jest zbyt szybkie, aby ludzkie oko było w stanie je zauważyć. Jednak jeśli pomachasz swoją ręką przed twarzą, patrząc jednocześnie na świetlówkę, będziesz w stanie zauważyć efekt stroboskopowy.</para><equation id="eip-203" class="unnumbered"/><note id="fs-id1172101694734" class="check-understanding">
   <exercise id="fs-id1172101776132">
     <problem id="fs-id1172101794957">
       <para id="fs-id1172101643454"><emphasis effect="bold">Sprawdź, czy rozumiesz.</emphasis> Ile wynosi odstęp czasowy pomiędzy sąsiadującymi miejscami zerowymi na wykresie napięcia od czasu dla źródła AC w USA?</para></problem>
       <solution id="fs-id1172101897637">
-        <para id="fs-id1172101731865"><m:math display="inline"><m:semantics><m:mrow><m:mn>8,3</m:mn><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">ms</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{8,3}{\milli\second}</m:annotation></m:semantics></m:math>.</para></solution>
+        <para id="fs-id1172101731865"><m:math display="inline"><m:semantics><m:mrow><m:mn>8,3</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">ms</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{8,3}{\milli\second}</m:annotation></m:semantics></m:math>.</para></solution>
         </exercise>
       </note>
       <section id="fs-id1172101907358" class="key-concepts">
@@ -290,7 +290,7 @@
             <problem id="fs-id1172101703123">
               <para id="fs-id1172101693132">Napisz wyrażenie na napięcie wyjściowe źródła napięcia zmiennego, które wytwarza napięcie o amplitudzie <m:math display="inline">
                 <m:mn>12</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">V</m:mi>
               </m:math> i częstotliwości <m:math display="inline">
               <m:mn>200</m:mn>

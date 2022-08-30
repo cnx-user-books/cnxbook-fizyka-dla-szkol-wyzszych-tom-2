@@ -26,7 +26,7 @@
   <m:mi>u</m:mi>
 </m:math> i strumienia energii <m:math display="inline"><m:semantics><m:mrow><m:mi>u</m:mi><m:mo>⁢</m:mo><m:mi>c</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            uc</m:annotation></m:semantics></m:math>.</caption></figure><para id="fs-id1171242528655">W przypadku fali płaskiej, biegnącej w kierunku dodatnich wartości osi <m:math display="inline">
   <m:mi>x</m:mi>
-</m:math> z fazą dobraną tak, by maksymalne natężenie pola w początku układu współrzędnych przypadało na czas <m:math display="inline"><m:semantics><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            t = \SI{0}{\second}</m:annotation></m:semantics></m:math>, pola elektryczne i magnetyczne muszą podlegać zależnościom</para><equation id="fs-id1171242478964" class="unnumbered">
+</m:math> z fazą dobraną tak, by maksymalne natężenie pola w początku układu współrzędnych przypadało na czas <m:math display="inline"><m:semantics><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            t = \SI{0}{\second}</m:annotation></m:semantics></m:math>, pola elektryczne i magnetyczne muszą podlegać zależnościom</para><equation id="fs-id1171242478964" class="unnumbered">
   <label/>
   <m:math display="block">
     <m:mtable>
@@ -774,7 +774,7 @@
           <m:mn>10</m:mn>
           <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
         </m:msup>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mrow>
           <m:mi mathvariant="normal">W</m:mi>
           <m:mo>∕</m:mo>
@@ -849,7 +849,7 @@
                               <m:mn>8</m:mn>
                             </m:msup>
                           </m:mrow>
-                          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                          <m:mo rspace="verythinmathspace">⁢</m:mo>
                           <m:mrow>
                             <m:mi mathvariant="normal">m</m:mi>
                             <m:mo>∕</m:mo>
@@ -866,7 +866,7 @@
                               <m:mrow><m:mo>−</m:mo><m:mn>12</m:mn></m:mrow>
                             </m:msup>
                           </m:mrow>
-                          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                          <m:mo rspace="verythinmathspace">⁢</m:mo>
                           <m:mrow>
                             <m:mi mathvariant="normal">F</m:mi>
                             <m:mo>∕</m:mo>
@@ -881,7 +881,7 @@
                       <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
                     </m:msup>
                   </m:mrow>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mrow>
                     <m:mi mathvariant="normal">W</m:mi>
                     <m:mo>∕</m:mo>
@@ -895,7 +895,7 @@
                 <m:mrow>
                   <m:mrow>
                     <m:mn>0,87</m:mn>
-                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mrow>
                       <m:mi mathvariant="normal">V</m:mi>
                       <m:mo>∕</m:mo>
@@ -932,7 +932,7 @@
                         <m:mrow><m:mo>−</m:mo><m:mn>9</m:mn></m:mrow>
                       </m:msup>
                     </m:mrow>
-                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mi mathvariant="normal">T</m:mi>
                   </m:mrow>
                   <m:mo>⁢</m:mo>
@@ -943,17 +943,17 @@
           <example id="fs-id1171239838901">
             <para id="fs-id1171242408743"><title>Pola żarówki</title>Żarówka emituje światło o mocy <m:math display="inline">
                 <m:mn>5</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">W</m:mi>
               </m:math>. Ile wynosi średnie natężenie pola elektrycznego, a ile wartość indukcji magnetycznej tego światła w odległości <m:math display="inline">
               <m:mn>3</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">m</m:mi>
               </m:math> od żarówki?</para><para id="fs-id1171242105224"><title>Strategia rozwiązania</title>Do obliczenia natężenia światła załóżmy, że żarówka emituje światło o mocy <m:math display="inline">
                   <m:mi>P</m:mi>
                 </m:math> izotropowo do wnętrza sfery o promieniu <m:math display="inline">
                 <m:mn>3</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">m</m:mi>
                 </m:math>. Z natężenia światła możemy następnie wyliczyć amplitudę natężenia pola elektrycznego.</para><media id="fs-id1171242172415" alt="Rysunek przedstawia palącą się żarówkę w centrum strefy oświetlenia. Promień strefy ma 3 m.">
                   <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_33_03_Lightbulb_img.jpg"/>
@@ -1042,7 +1042,7 @@
                               <m:mfrac>
                                 <m:mrow>
                                   <m:mn>5</m:mn>
-                                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                                   <m:mi mathvariant="normal">W</m:mi>
                                 </m:mrow>
                                 <m:mrow>
@@ -1056,7 +1056,7 @@
                                     <m:mfenced>
                                       <m:mrow>
                                         <m:mn>3</m:mn>
-                                        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                                        <m:mo rspace="verythinmathspace">⁢</m:mo>
                                         <m:mi mathvariant="normal">m</m:mi>
                                       </m:mrow>
                                     </m:mfenced>
@@ -1072,7 +1072,7 @@
                                         <m:mn>8</m:mn>
                                       </m:msup>
                                     </m:mrow>
-                                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                                     <m:mrow>
                                       <m:mi mathvariant="normal">m</m:mi>
                                       <m:mo>∕</m:mo>
@@ -1089,7 +1089,7 @@
                                         <m:mrow><m:mo>−</m:mo><m:mn>12</m:mn></m:mrow>
                                       </m:msup>
                                     </m:mrow>
-                                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                                     <m:mrow>
                                       <m:msup>
                                         <m:mi mathvariant="normal">C</m:mi>
@@ -1099,7 +1099,7 @@
                                       <m:mfenced>
                                         <m:mrow>
                                           <m:mi mathvariant="normal">N</m:mi>
-                                          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                                          <m:mo rspace="verythinmathspace">⁢</m:mo>
                                           <m:msup>
                                             <m:mi mathvariant="normal">m</m:mi>
                                             <m:mn>2</m:mn>
@@ -1115,7 +1115,7 @@
                             <m:mrow>
                               <m:mrow>
                                 <m:mn>5,77</m:mn>
-                                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                                <m:mo rspace="verythinmathspace">⁢</m:mo>
                                 <m:mrow>
                                   <m:mi mathvariant="normal">V</m:mi>
                                   <m:mo>∕</m:mo>
@@ -1153,7 +1153,7 @@
                                     <m:mrow><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow>
                                   </m:msup>
                                 </m:mrow>
-                                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                                <m:mo rspace="verythinmathspace">⁢</m:mo>
                                 <m:mi mathvariant="normal">T</m:mi>
                               </m:mrow>
                               <m:mo>⁢</m:mo>
@@ -1258,12 +1258,12 @@
                                   <m:mfrac>
                                     <m:mrow>
                                       <m:mn>90</m:mn>
-                                      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                                      <m:mo rspace="verythinmathspace">⁢</m:mo>
                                       <m:mi mathvariant="normal">W</m:mi>
                                     </m:mrow>
                                     <m:mrow>
                                       <m:mn>60</m:mn>
-                                      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                                      <m:mo rspace="verythinmathspace">⁢</m:mo>
                                       <m:mi mathvariant="normal">W</m:mi>
                                     </m:mrow>
                                   </m:mfrac>
@@ -1290,7 +1290,7 @@
                                   <m:mo>⋅</m:mo>
                                   <m:mrow>
                                     <m:mn>100</m:mn>
-                                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                                     <m:mi mathvariant="normal">km</m:mi>
                                   </m:mrow>
                                 </m:mrow>
@@ -1298,7 +1298,7 @@
                                 <m:mrow>
                                   <m:mrow>
                                     <m:mn>122</m:mn>
-                                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                                     <m:mi mathvariant="normal">km</m:mi>
                                   </m:mrow>
                                   <m:mo>⁢</m:mo>
@@ -1339,7 +1339,7 @@
                 <problem id="fs-id1171242469779">
                   <para id="fs-id1171242502683">Dlaczego, gdy stoisz na dworze w pełnym Słońcu, czujesz energię światła słonecznego, ale nie czujesz pędu przenoszonego przez to światło?</para></problem>
                 <solution id="fs-id1171242448224">
-                  <para id="fs-id1171242366683">Ilość energii dostarczanej przez światło słoneczne (około <m:math display="inline"><m:semantics><m:mrow><m:mn>1000</m:mn><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">W</m:mi><m:mo>∕</m:mo><m:msup><m:mi mathvariant="normal">m</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{1000}{\watt\per\squared\metre}</m:annotation></m:semantics></m:math>) jest wystarczająca, by szybko spowodować zauważalną zmianę temperatury powierzchni, na którą światło pada. Ciśnienie wywierane na tę samą powierzchnię (około <m:math display="inline">
+                  <para id="fs-id1171242366683">Ilość energii dostarczanej przez światło słoneczne (około <m:math display="inline"><m:semantics><m:mrow><m:mn>1000</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">W</m:mi><m:mo>∕</m:mo><m:msup><m:mi mathvariant="normal">m</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{1000}{\watt\per\squared\metre}</m:annotation></m:semantics></m:math>) jest wystarczająca, by szybko spowodować zauważalną zmianę temperatury powierzchni, na którą światło pada. Ciśnienie wywierane na tę samą powierzchnię (około <m:math display="inline">
                   <m:mrow>
                     <m:mn>3</m:mn>
                     <m:mo>⋅</m:mo>
@@ -1348,7 +1348,7 @@
                       <m:mrow><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow>
                     </m:msup>
                   </m:mrow>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mrow>
                     <m:mi mathvariant="normal">N</m:mi>
                     <m:mo>∕</m:mo>
@@ -1405,7 +1405,7 @@
                 <problem id="fs-id1171242539587">
                   <para id="fs-id1171242344124">Płaska fala elektromagnetyczna przemieszcza się w kierunku północnym. W pewnym momencie natężenie pola elektrycznego wynosi <m:math display="inline">
                     <m:mn>6</m:mn>
-                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mrow>
                       <m:mi mathvariant="normal">V</m:mi>
                       <m:mo>∕</m:mo>
@@ -1422,7 +1422,7 @@
                           <m:mrow><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow>
                         </m:msup>
                       </m:mrow>
-                      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                      <m:mo rspace="verythinmathspace">⁢</m:mo>
                       <m:mi mathvariant="normal">T</m:mi>
                       </m:math>.</para></solution>
                   </exercise>
@@ -1445,7 +1445,7 @@
                           <m:mrow><m:mo>−</m:mo><m:mn>11</m:mn></m:mrow>
                         </m:msup>
                       </m:mrow>
-                      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                      <m:mo rspace="verythinmathspace">⁢</m:mo>
                       <m:mi mathvariant="normal">T</m:mi>
                     </m:math>.<list id="eip-idm308784336" list-type="enumerated" number-style="lower-alpha">
                     <item>Ile wynosi w tym odbiorniku maksymalne natężenie pola elektrycznego tej fali?</item>
@@ -1462,7 +1462,7 @@
                       <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
                     </m:msup>
                   </m:mrow>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mrow>
                     <m:mi mathvariant="normal">V</m:mi>
                     <m:mo>∕</m:mo>
@@ -1470,7 +1470,7 @@
                   </m:mrow>
                 </m:math>; b. <m:math display="inline">
                 <m:mn>394</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">m</m:mi>
                 </m:math>.</para></solution>
             </exercise>
@@ -1478,7 +1478,7 @@
               <problem id="fs-id1171242164211">
                 <para id="fs-id1171242525673">Żarnik wewnątrz przezroczystej żarówki emituje światło widzialne o mocy <m:math display="inline">
                   <m:mn>5</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">W</m:mi>
                 </m:math>. Załóż, że żarówka ma postać kuli o promieniu <m:math display="inline">
                 <m:msub>
@@ -1497,13 +1497,13 @@
               <problem id="fs-id1171239825179">
                 <para id="fs-id1171239825181">W jakiej odległości natężenie światła emitowanego przez 100-watową żarówkę jest takie samo jak natężenie światła emitowanego przez 75-watową żarówkę w odległości <m:math display="inline">
                   <m:mn>10</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">m</m:mi>
                   </m:math>? Załóż, że obie żarówki mają tą samą sprawność konwersji energii elektrycznej w energię świetlną.</para></problem>
                 <solution id="fs-id1171242528002">
                   <para id="fs-id1171242528004"><m:math display="inline">
                       <m:mn>11,5</m:mn>
-                      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                      <m:mo rspace="verythinmathspace">⁢</m:mo>
                       <m:mi mathvariant="normal">m</m:mi>
                       </m:math>.</para></solution>
                   </exercise>
@@ -1511,11 +1511,11 @@
                     <problem id="fs-id1171242532550">
                       <para id="fs-id1171242576251">Zwykła żarówka emituje jedynie <m:math display="inline">
                         <m:mn>2,6</m:mn>
-                        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                        <m:mo rspace="verythinmathspace">⁢</m:mo>
                         <m:mi mathvariant="normal">W</m:mi>
                       </m:math> mocy jako promieniowanie elektromagnetyczne. Ile będzie wynosić wartość skuteczna natężenia pola elektrycznego promieniowania emitowanego przez żarówkę w odległości <m:math display="inline">
                       <m:mn>3</m:mn>
-                      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                      <m:mo rspace="verythinmathspace">⁢</m:mo>
                       <m:mi mathvariant="normal">m</m:mi>
                       </m:math> od żarówki?</para></problem>
                   </exercise>
@@ -1527,7 +1527,7 @@
                         <m:mi mathvariant="normal">%</m:mi>
                       </m:math> pobieranej energii w postaci promieniowania elektromagnetycznego. Ile będzie wynosiła średnia wartość wektora Poyntinga w odległości <m:math display="inline">
                       <m:mn>10</m:mn>
-                      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                      <m:mo rspace="verythinmathspace">⁢</m:mo>
                       <m:mi mathvariant="normal">m</m:mi>
                       </m:math> od tej żarówki?</para></problem>
                     <solution id="fs-id1171242375717">
@@ -1540,7 +1540,7 @@
                               <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
                             </m:msup>
                           </m:mrow>
-                          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                          <m:mo rspace="verythinmathspace">⁢</m:mo>
                           <m:mrow>
                             <m:mi mathvariant="normal">W</m:mi>
                             <m:mo>∕</m:mo>
@@ -1559,7 +1559,7 @@
                             <m:mi mathvariant="normal">mW</m:mi>
                           </m:math> mocy świetlnej. Jaka energia zawarta jest w promieniu światła o długości <m:math display="inline">
                           <m:mn>1</m:mn>
-                          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                          <m:mo rspace="verythinmathspace">⁢</m:mo>
                           <m:mi mathvariant="normal">m</m:mi>
                           </m:math>?</para></problem>
                       </exercise>
@@ -1567,7 +1567,7 @@
                         <problem id="fs-id1171242502572">
                           <para id="fs-id1171242502574">W najwyższych partiach ziemskiej atmosfery uśredniona po czasie wartość wektora Poyntinga związanego ze światłem słonecznym wynosi <m:math display="inline">
                             <m:mn>1,4</m:mn>
-                            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                            <m:mo rspace="verythinmathspace">⁢</m:mo>
                             <m:mrow>
                               <m:mi mathvariant="normal">kW</m:mi>
                               <m:mo>∕</m:mo>
@@ -1586,7 +1586,7 @@
                                 <m:mn>11</m:mn>
                               </m:msup>
                             </m:mrow>
-                            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                            <m:mo rspace="verythinmathspace">⁢</m:mo>
                             <m:mi mathvariant="normal">m</m:mi>
                             </m:math> od Słońca, a światło słoneczne złożone jest całkowicie z fal płaskich.</item>
                           </list></para></problem>
@@ -1599,7 +1599,7 @@
                           <m:mo>=</m:mo>
                           <m:mrow>
                             <m:mn>1027</m:mn>
-                            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                            <m:mo rspace="verythinmathspace">⁢</m:mo>
                             <m:mrow>
                               <m:mi mathvariant="normal">V</m:mi>
                               <m:mo>∕</m:mo>
@@ -1621,7 +1621,7 @@
                               <m:mrow><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow>
                             </m:msup>
                           </m:mrow>
-                          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                          <m:mo rspace="verythinmathspace">⁢</m:mo>
                           <m:mi mathvariant="normal">T</m:mi>
                         </m:mrow>
                       </m:math>; b. <m:math display="inline">
@@ -1633,7 +1633,7 @@
                           <m:mn>26</m:mn>
                         </m:msup>
                       </m:mrow>
-                      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                      <m:mo rspace="verythinmathspace">⁢</m:mo>
                       <m:mi mathvariant="normal">W</m:mi>
                       </m:math>.</para></solution>
                   </exercise>
@@ -1694,7 +1694,7 @@
                           <m:mrow><m:mo>−</m:mo><m:mn>10</m:mn></m:mrow>
                         </m:msup>
                       </m:mrow>
-                      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                      <m:mo rspace="verythinmathspace">⁢</m:mo>
                       <m:mi mathvariant="normal">T</m:mi>
                     </m:mrow>
                   </m:math>, a <m:math display="inline">
@@ -1709,7 +1709,7 @@
                         <m:mrow><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow>
                       </m:msup>
                     </m:mrow>
-                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:msup>
                       <m:mi mathvariant="normal">m</m:mi>
                       <m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow>
@@ -1726,7 +1726,7 @@
           <problem id="fs-id1171240241267">
             <para id="fs-id1171240241269">Ile wynosi natężenie fali elektromagnetycznej, dla której amplituda natężenia pola elektrycznego to <m:math display="inline">
               <m:mn>125</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mrow>
                 <m:mi mathvariant="normal">V</m:mi>
                 <m:mo>∕</m:mo>
@@ -1736,7 +1736,7 @@
             <solution id="fs-id1171240241273">
               <para id="fs-id1171242438862"><m:math display="inline">
                   <m:mn>20,8</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mrow>
                     <m:mi mathvariant="normal">W</m:mi>
                     <m:mo>∕</m:mo>
@@ -1787,7 +1787,7 @@
                     <m:mrow><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow>
                   </m:msup>
                 </m:mrow>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mrow>
                   <m:mi mathvariant="normal">W</m:mi>
                   <m:mo>∕</m:mo>
@@ -1805,7 +1805,7 @@
                   <m:mrow><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow>
                 </m:msup>
               </m:mrow>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mrow>
                 <m:mi mathvariant="normal">V</m:mi>
                 <m:mo>∕</m:mo>
@@ -1817,7 +1817,7 @@
             <problem id="fs-id1171242430040">
               <para id="fs-id1171240035278">Przyjmijmy, że maksymalne bezpieczne dla człowieka natężenie mikrofal wynosi <m:math display="inline">
                 <m:mn>1</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mrow>
                   <m:mi mathvariant="normal">W</m:mi>
                   <m:mo>∕</m:mo>
@@ -1829,7 +1829,7 @@
               </m:math>.<list id="eip-idm353769024" list-type="enumerated" number-style="lower-alpha">
               <item>Jaka odległość będzie bezpieczna dla człowieka, jeśli z radaru „wycieka” jednorodnie we wszystkich kierunkach <m:math display="inline">
                 <m:mn>10</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">W</m:mi>
                 </m:math> mocy promieniowania mikrofalowego? Załóż, że nie występują żadne odbicia ani absorpcje;</item>
                 <item>Ile wynosi amplituda pola elektrycznego przy bezpiecznym natężeniu?</item>
@@ -1840,11 +1840,11 @@
           <problem id="fs-id1171242357816">
             <para id="fs-id1171242357818">Uniwersytecki talerz do komunikacji satelitarnej ma średnicę <m:math display="inline">
               <m:mn>2,5</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">m</m:mi>
             </m:math> i służy do odbioru sygnału telewizyjnego o amplitudzie natężenia pola elektrycznego (dla pojedynczego kanału) równej <m:math display="inline">
             <m:mn>7,5</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mrow>
               <m:mi mathvariant="normal">µV</m:mi>
               <m:mo>∕</m:mo>
@@ -1861,7 +1861,7 @@
                 <m:mn>13</m:mn>
               </m:msup>
             </m:mrow>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:msup>
               <m:mi mathvariant="normal">m</m:mi>
               <m:mn>2</m:mn>
@@ -1881,7 +1881,7 @@
               <m:mrow><m:mo>−</m:mo><m:mn>14</m:mn></m:mrow>
             </m:msup>
           </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mrow>
             <m:mi mathvariant="normal">W</m:mi>
             <m:mo>∕</m:mo>
@@ -1899,11 +1899,11 @@
             <m:mrow><m:mo>−</m:mo><m:mn>13</m:mn></m:mrow>
           </m:msup>
         </m:mrow>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">W</m:mi>
       </m:math>; c. <m:math display="inline">
       <m:mn>1,12</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">W</m:mi>
       </m:math>.</para></solution>
   </exercise>
@@ -1914,7 +1914,7 @@
           <m:mn>10</m:mn>
           <m:mn>11</m:mn>
         </m:msup>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mrow>
           <m:mi mathvariant="normal">V</m:mi>
           <m:mo>∕</m:mo>

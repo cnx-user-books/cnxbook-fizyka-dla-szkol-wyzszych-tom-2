@@ -259,7 +259,7 @@ wypalenie w nich dziur, a nawet zapłon całych urządzeń.</para><para id="ked-
         <m:mi>μ</m:mi>
         <m:mn>0</m:mn>
       </m:msub>
-    </m:math> z definicji wynosi dokładnie <m:math display="inline"><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi></m:mrow><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-7</m:mn></m:msup></m:mrow><m:mo>⁢</m:mo><m:mrow><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo lspace="0px" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow><m:mo>∕</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            4\pi \cdot 10^{-7}\si{\tesla\metre\per\ampere}</m:annotation></m:semantics></m:math> i ponieważ <m:math display="inline"><m:mrow><m:mn>1</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">T</m:mi></m:mrow><m:mo>=</m:mo><m:mrow><m:mn>1</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>∕</m:mo><m:mfenced><m:mrow><m:mi mathvariant="normal">A</m:mi><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mfenced></m:mrow></m:mrow></m:math>, siła przypadająca na jeden metr długości ma wartość dokładnie <m:math display="inline">
+    </m:math> z definicji wynosi dokładnie <m:math display="inline"><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi></m:mrow><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-7</m:mn></m:msup></m:mrow><m:mo>⁢</m:mo><m:mrow><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo lspace="0px" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow><m:mo>∕</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            4\pi \cdot 10^{-7}\si{\tesla\metre\per\ampere}</m:annotation></m:semantics></m:math> i ponieważ <m:math display="inline"><m:mrow><m:mn>1</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">T</m:mi></m:mrow><m:mo>=</m:mo><m:mrow><m:mn>1</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>∕</m:mo><m:mfenced><m:mrow><m:mi mathvariant="normal">A</m:mi><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mfenced></m:mrow></m:mrow></m:math>, siła przypadająca na jeden metr długości ma wartość dokładnie <m:math display="inline">
 <m:mrow>
   <m:mn>2</m:mn>
   <m:mo>⋅</m:mo>
@@ -268,13 +268,13 @@ wypalenie w nich dziur, a nawet zapłon całych urządzeń.</para><para id="ked-
     <m:mrow><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow>
   </m:msup>
 </m:mrow>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mrow>
   <m:mi mathvariant="normal">N</m:mi>
   <m:mo>∕</m:mo>
   <m:mi mathvariant="normal">m</m:mi>
 </m:mrow>
-</m:math>, co jest podstawą definicji ampera.</para><para id="ked-1bld19prq_b8g">Nieskończenie długie przewody są jednak niepraktyczne, więc zamiast nich stosuje się tzw. wagę prądową, zaopatrzoną w cewki (zwojnice) oddalone od siebie o kilka centymetrów. Waga służy do pomiaru siły oddziaływania między cewkami; na podstawie jej wskazań określa się wartość natężenia prądu płynącego przez zwojnice. Powyższa idea stanowi jednocześnie podstawę metody pomiaru wartości ładunku elektrycznego, wyrażonego w <term xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cmlnle:reference="kulomb">kulombach</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">coulomb</term></foreign>). Istotnie, natężeniu prądu o wartości jednego ampera odpowiada przepływ ładunku o wartości jednego kulomba w czasie jednej sekundy: <m:math display="inline"><m:mrow><m:mn>1</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">C</m:mi></m:mrow><m:mo>=</m:mo><m:mrow><m:mn>1</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mrow><m:mi mathvariant="normal">A</m:mi><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mrow></m:math>. Warto zaznaczyć, że w przypadku pomiaru natężeń prądu i ładunków metoda wykorzystująca wyznaczanie siły oddziaływania pomiędzy przewodami należy do najdokładniejszych.</para><example id="ked-1bld1bmgm_nao">
+</m:math>, co jest podstawą definicji ampera.</para><para id="ked-1bld19prq_b8g">Nieskończenie długie przewody są jednak niepraktyczne, więc zamiast nich stosuje się tzw. wagę prądową, zaopatrzoną w cewki (zwojnice) oddalone od siebie o kilka centymetrów. Waga służy do pomiaru siły oddziaływania między cewkami; na podstawie jej wskazań określa się wartość natężenia prądu płynącego przez zwojnice. Powyższa idea stanowi jednocześnie podstawę metody pomiaru wartości ładunku elektrycznego, wyrażonego w <term xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cmlnle:reference="kulomb">kulombach</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">coulomb</term></foreign>). Istotnie, natężeniu prądu o wartości jednego ampera odpowiada przepływ ładunku o wartości jednego kulomba w czasie jednej sekundy: <m:math display="inline"><m:mrow><m:mn>1</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">C</m:mi></m:mrow><m:mo>=</m:mo><m:mrow><m:mn>1</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">A</m:mi><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mrow></m:math>. Warto zaznaczyć, że w przypadku pomiaru natężeń prądu i ładunków metoda wykorzystująca wyznaczanie siły oddziaływania pomiędzy przewodami należy do najdokładniejszych.</para><example id="ked-1bld1bmgm_nao">
   <para id="ked-1bld1bmf7_2v">
     <title>Obliczanie sił działających na przewody</title>Na <link xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" target-id="CNX_UPhysics_29_03_2wires" cmlnle:case="genitive"/> przedstawiono dwa przewody z jednakowym prądem o natężeniu <m:math display="inline">
       <m:mn>5</m:mn>
@@ -445,7 +445,7 @@ wypalenie w nich dziur, a nawet zapłon całych urządzeń.</para><para id="ked-
           </m:mrow>
         </m:math>
       </equation>
-      <para id="ked-1bld1ebk9_tu8">Ostatecznie wektor siły, którą pierwszy przewód oddziałuje na drugi, odniesionej do jednostkowej długości, ma współrzędne</para><equation id="ked-1bld1edak_6eg" class="unnumbered"><m:math display="block"><m:mfrac><m:msub><m:mover><m:mi>F</m:mi><m:mo>→</m:mo></m:mover><m:mfenced open="" close="" separators="⁣"><m:mn>1</m:mn><m:mn>2</m:mn></m:mfenced></m:msub><m:mi>l</m:mi></m:mfrac><m:mo>=</m:mo><m:mrow><m:mrow><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>10</m:mn></m:mrow></m:msup><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mfenced><m:mrow><m:mrow><m:mn>0,8</m:mn><m:mo>⁢</m:mo><m:mover><m:mi>i</m:mi><m:mo>̂</m:mo></m:mover></m:mrow><m:mo>−</m:mo><m:mrow><m:mn>0,6</m:mn><m:mo>⁢</m:mo><m:mover><m:mi>j</m:mi><m:mo>̂</m:mo></m:mover></m:mrow></m:mrow></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>8</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>11</m:mn></m:mrow></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mover><m:mi>i</m:mi><m:mo>̂</m:mo></m:mover></m:mrow><m:mo>−</m:mo><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>6</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>11</m:mn></m:mrow></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mover><m:mi>j</m:mi><m:mo>̂</m:mo></m:mover></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow></m:math></equation><para id="ked-1bld1efpv_m7g">Siła <m:math display="inline">
+      <para id="ked-1bld1ebk9_tu8">Ostatecznie wektor siły, którą pierwszy przewód oddziałuje na drugi, odniesionej do jednostkowej długości, ma współrzędne</para><equation id="ked-1bld1edak_6eg" class="unnumbered"><m:math display="block"><m:mfrac><m:msub><m:mover><m:mi>F</m:mi><m:mo>→</m:mo></m:mover><m:mfenced open="" close="" separators="⁣"><m:mn>1</m:mn><m:mn>2</m:mn></m:mfenced></m:msub><m:mi>l</m:mi></m:mfrac><m:mo>=</m:mo><m:mrow><m:mrow><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>10</m:mn></m:mrow></m:msup><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mfenced><m:mrow><m:mrow><m:mn>0,8</m:mn><m:mo>⁢</m:mo><m:mover><m:mi>i</m:mi><m:mo>̂</m:mo></m:mover></m:mrow><m:mo>−</m:mo><m:mrow><m:mn>0,6</m:mn><m:mo>⁢</m:mo><m:mover><m:mi>j</m:mi><m:mo>̂</m:mo></m:mover></m:mrow></m:mrow></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>8</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>11</m:mn></m:mrow></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mover><m:mi>i</m:mi><m:mo>̂</m:mo></m:mover></m:mrow><m:mo>−</m:mo><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>6</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>11</m:mn></m:mrow></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mover><m:mi>j</m:mi><m:mo>̂</m:mo></m:mover></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow></m:math></equation><para id="ked-1bld1efpv_m7g">Siła <m:math display="inline">
         <m:msub>
           <m:mover>
             <m:mi>F</m:mi>
@@ -456,7 +456,7 @@ wypalenie w nich dziur, a nawet zapłon całych urządzeń.</para><para id="ked-
             <m:mn>1</m:mn>
           </m:mfenced>
         </m:msub>
-        </m:math>, którą drugi przewód działa na pierwszy, przypadająca na jednostkową długość, jest wektorem przeciwnym do wyznaczonego powyżej</para><equation id="ked-1bld1m38f_ev" class="unnumbered"><m:math display="block"><m:mfrac><m:msub><m:mover><m:mi>F</m:mi><m:mo>→</m:mo></m:mover><m:mfenced open="" close="" separators="⁣"><m:mn>2</m:mn><m:mn>1</m:mn></m:mfenced></m:msub><m:mi>l</m:mi></m:mfrac><m:mo>=</m:mo><m:mrow><m:mrow><m:mo>−</m:mo><m:mrow><m:mrow><m:mrow><m:mn>8</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>11</m:mn></m:mrow></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mover><m:mi>i</m:mi><m:mo>̂</m:mo></m:mover></m:mrow></m:mrow><m:mo>+</m:mo><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>6</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>11</m:mn></m:mrow></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mover><m:mi>j</m:mi><m:mo>̂</m:mo></m:mover></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow></m:math></equation><para id="ked-1bld1m626_di8"><title>Znaczenie</title>Rozważane przewody wytwarzają pola magnetyczne o jednakowej wartości indukcji, przy czym w punktach, w których te przewody się znajdują, pola te skierowane są przeciwnie. Siły wzajemnego oddziaływania przewodów będą miały zawsze jednakową wartość i będą przeciwnie skierowane – niezależnie od tego, czy indukcje obu pól będą posiadały jednakowe, czy różne wartości (trzecia zasada dynamiki Newtona). </para></example>
+        </m:math>, którą drugi przewód działa na pierwszy, przypadająca na jednostkową długość, jest wektorem przeciwnym do wyznaczonego powyżej</para><equation id="ked-1bld1m38f_ev" class="unnumbered"><m:math display="block"><m:mfrac><m:msub><m:mover><m:mi>F</m:mi><m:mo>→</m:mo></m:mover><m:mfenced open="" close="" separators="⁣"><m:mn>2</m:mn><m:mn>1</m:mn></m:mfenced></m:msub><m:mi>l</m:mi></m:mfrac><m:mo>=</m:mo><m:mrow><m:mrow><m:mo>−</m:mo><m:mrow><m:mrow><m:mrow><m:mn>8</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>11</m:mn></m:mrow></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mover><m:mi>i</m:mi><m:mo>̂</m:mo></m:mover></m:mrow></m:mrow><m:mo>+</m:mo><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>6</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>−</m:mo><m:mn>11</m:mn></m:mrow></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mover><m:mi>j</m:mi><m:mo>̂</m:mo></m:mover></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow></m:math></equation><para id="ked-1bld1m626_di8"><title>Znaczenie</title>Rozważane przewody wytwarzają pola magnetyczne o jednakowej wartości indukcji, przy czym w punktach, w których te przewody się znajdują, pola te skierowane są przeciwnie. Siły wzajemnego oddziaływania przewodów będą miały zawsze jednakową wartość i będą przeciwnie skierowane – niezależnie od tego, czy indukcje obu pól będą posiadały jednakowe, czy różne wartości (trzecia zasada dynamiki Newtona). </para></example>
         <note id="ked-1bld1n894_17o" class="check-understanding">
           <exercise id="ked-1bld1nb0m_ui8">
             <problem id="ked-1bld1nav7_nn8">
@@ -495,7 +495,7 @@ wypalenie w nich dziur, a nawet zapłon całych urządzeń.</para><para id="ked-
               <m:mrow><m:mo>−</m:mo><m:mn>12</m:mn></m:mrow>
             </m:msup>
           </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mrow>
             <m:mi mathvariant="normal">N</m:mi>
             <m:mo>∕</m:mo>
@@ -587,7 +587,7 @@ wypalenie w nich dziur, a nawet zapłon całych urządzeń.</para><para id="ked-
           <m:mi mathvariant="normal">cm</m:mi>
         </m:math>.<list id="eip-idm330376112" list-type="enumerated" number-style="lower-alpha"><item>Wyznacz wartość siły magnetycznej, przypadającej na metr ich długości, zakładając, że przez oba przewody w tym samym kierunku płynie prąd o natężeniu <m:math display="inline">
           <m:mn>50</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">A</m:mi>
           </m:math>;</item>
           <item>Czy przewody przyciągają się, czy odpychają?</item>
@@ -603,11 +603,11 @@ wypalenie w nich dziur, a nawet zapłon całych urządzeń.</para><para id="ked-
         <m:mi mathvariant="normal">cm</m:mi>
       </m:math>. Przez pierwszy z nich płynie prąd o natężeniu <m:math display="inline">
       <m:mn>2</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
     </m:math>, przez drugi – prąd o natężeniu <m:math display="inline">
     <m:mn>5</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">A</m:mi>
   </m:math>.<list id="eip-idm521953232" list-type="enumerated" number-style="lower-alpha"><item>Wyznacz wartość oraz kierunek siły przypadającej na jednostkę długości, jaką pierwszy przewód oddziałuje na drugi przewód;</item>
   <item>Wyznacz wartość i kierunek siły, gdy prąd popłynie w tę samą stronę.</item>
@@ -629,7 +629,7 @@ wypalenie w nich dziur, a nawet zapłon całych urządzeń.</para><para id="ked-
           <m:mrow><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow>
         </m:msup>
       </m:mrow>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mrow>
         <m:mi mathvariant="normal">N</m:mi>
         <m:mo>∕</m:mo>
@@ -652,7 +652,7 @@ wypalenie w nich dziur, a nawet zapłon całych urządzeń.</para><para id="ked-
         <m:mrow><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow>
       </m:msup>
     </m:mrow>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mrow>
       <m:mi mathvariant="normal">N</m:mi>
       <m:mo>∕</m:mo>
@@ -669,7 +669,7 @@ wypalenie w nich dziur, a nawet zapłon całych urządzeń.</para><para id="ked-
       <m:mi mathvariant="normal">cm</m:mi>
     </m:math>, jak pokazano na załączonym rysunku. Masa przypadająca na jednostkę ich długości wynosi <m:math display="inline">
     <m:mn>30</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mrow>
       <m:mi mathvariant="normal">g</m:mi>
       <m:mo>∕</m:mo>

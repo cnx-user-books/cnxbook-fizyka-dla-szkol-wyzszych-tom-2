@@ -156,7 +156,7 @@
                   </m:msup>
                 </m:math> protonów i jej wypadkowy ładunek wynosi <m:math display="inline">
                 <m:mn>-5</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                 <m:mi mathvariant="normal">nC</m:mi>
                 </m:math> (bardzo duży ładunek dla tak małego pyłku). Ile elektronów zawiera ta drobina kurzu?</para></problem>
               <solution id="fs-id1172099614169">
@@ -171,7 +171,7 @@
                             <m:mn>-9</m:mn>
                           </m:msup>
                         </m:mrow>
-                        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                        <m:mo rspace="verythinmathspace">⁢</m:mo>
                         <m:mi mathvariant="normal">C</m:mi>
                       </m:mrow>
                       <m:mo>⁢</m:mo>
@@ -186,7 +186,7 @@
                                 <m:mn>18</m:mn>
                               </m:msup>
                             </m:mrow>
-                            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                             <m:mtext>elektron</m:mtext>
                           </m:mrow>
                           <m:mo>∕</m:mo>
@@ -203,7 +203,7 @@
                           <m:mn>19</m:mn>
                         </m:msup>
                       </m:mrow>
-                      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                       <m:mtext>elektronów</m:mtext>
                     </m:mrow>
                   </m:math>;
@@ -218,7 +218,7 @@
                             <m:mn>19</m:mn>
                           </m:msup>
                         </m:mrow>
-                        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                         <m:mtext>elektronów</m:mtext>
                       </m:mrow>
                       <m:mo>+</m:mo>
@@ -229,7 +229,7 @@
                             <m:mn>12</m:mn>
                           </m:msup>
                         </m:mrow>
-                        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                         <m:mtext>elektronów</m:mtext>
                       </m:mrow>
                     </m:mrow>
@@ -243,7 +243,7 @@
                           <m:mn>19</m:mn>
                         </m:msup>
                       </m:mrow>
-                      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                       <m:mtext>elektronów</m:mtext>
                     </m:mrow>
                   </m:math>.
@@ -258,7 +258,7 @@
                   </m:msup>
                 </m:math> protonów, a jej wypadkowy ładunek wynosi <m:math display="inline">
                 <m:mn>0,3</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                 <m:mi mathvariant="normal">pC</m:mi>
               </m:math>. <list id="fs-idm448853888" list-type="enumerated" number-style="lower-alpha">
               <item>O ile ma mniej elektronów niż protonów?</item>
@@ -270,22 +270,22 @@
         <problem id="fs-id1172099720033">
           <para id="fs-id1172101974804">Kula miedziana o masie <m:math display="inline">
             <m:mn>50</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">g</m:mi>
           </m:math> ma wypadkowy ładunek <m:math display="inline">
           <m:mn>2</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">µC</m:mi>
         </m:math>. Jaka część elektronów została usunięta z miedzi (Każdy atom miedzi ma 29 protonów, a jej masa atomowa wynosi <m:math display="inline">
       <m:mn>63,5</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mtext>u</m:mtext>
     </m:math>)?</para></problem>
       <solution id="fs-id1172101882319">
         <para id="fs-id1172099478125">Masa atomowa miedzi pomnożona przez <m:math display="inline">
           <m:mrow>
             <m:mn>1</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mtext>u</m:mtext>
           </m:mrow>
           <m:mo>=</m:mo>
@@ -298,7 +298,7 @@
                 <m:mn>-25</m:mn>
               </m:msup>
             </m:mrow>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">kg</m:mi>
           </m:mrow>
         </m:math>, liczba atomów miedzi <m:math display="inline">
@@ -322,7 +322,7 @@
           <m:mn>25</m:mn>
         </m:msup>
       </m:mrow>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mtext>elektronów</m:mtext>
     </m:math>, <m:math display="inline">
       <m:mrow>
@@ -339,7 +339,7 @@
                       <m:mn>-6</m:mn>
                     </m:msup>
                   </m:mrow>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                   <m:mi mathvariant="normal">C</m:mi>
                 </m:mrow>
                 <m:mo>⋅</m:mo>
@@ -352,7 +352,7 @@
                   </m:msup>
                 </m:mrow>
               </m:mrow>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mtext>elektron</m:mtext>
             </m:mrow>
             <m:mo>∕</m:mo>
@@ -370,7 +370,7 @@
                 <m:mn>25</m:mn>
               </m:msup>
             </m:mrow>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mtext>elektronów</m:mtext>
           </m:mrow>
         </m:mfenced>
@@ -394,7 +394,7 @@
             <m:mn>-11</m:mn>
           </m:msup>
         </m:mrow>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">%</m:mi>
       </m:mrow>
     </m:math>.</para></solution>
@@ -403,7 +403,7 @@
   <problem id="fs-id1172097200978">
     <para id="fs-id1172099388976">Jaki całkowity ładunek wprowadziłbyś na kawałek siarki o masie <m:math display="inline">
       <m:mn>100</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">g</m:mi>
     </m:math>, jeżeli dodałbyś dodatkowy 1 elektron na każde <m:math display="inline">
     <m:msup>
@@ -412,7 +412,7 @@
     </m:msup>
   </m:math> jej atomów (siarka ma masę atomową równą <m:math display="inline">
   <m:mn>32,1</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mtext>u</m:mtext>
   </m:math>)?</para></problem>
 </exercise>
@@ -420,14 +420,14 @@
   <problem id="fs-id1172097227999">
     <para id="fs-id1172099924204">Ile kulombów dodatniego ładunku znajduje się w <m:math display="inline">
       <m:mn>4</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
       <m:mi mathvariant="normal">kg</m:mi>
       </m:math> plutonu, uwzględniając, że jego masa atomowa wynosi 244 oraz każdy atom plutonu zawiera 94 protony?</para></problem>
     <solution id="fs-id1172102007205">
       <para id="fs-id1172099490475"><m:math display="inline">
           <m:mrow>
             <m:mn>244</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mtext>u</m:mtext>
             <m:mo>⁢</m:mo>
               <m:mo>⋅</m:mo>
@@ -441,7 +441,7 @@
                       <m:mn>-27</m:mn>
                     </m:msup>
                   </m:mrow>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                   <m:mi mathvariant="normal">kg</m:mi>
                 </m:mrow>
                 <m:mo>∕</m:mo>
@@ -458,7 +458,7 @@
                 <m:mn>-25</m:mn>
               </m:msup>
             </m:mrow>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">kg</m:mi>
           </m:mrow>
         </m:math>,
@@ -466,7 +466,7 @@
       <m:mrow>
         <m:mrow>
           <m:mn>4</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">kg</m:mi>
         </m:mrow>
         <m:mo>∕</m:mo>
@@ -480,7 +480,7 @@
                 <m:mn>-25</m:mn>
               </m:msup>
             </m:mrow>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">kg</m:mi>
           </m:mrow>
         </m:mfenced>
@@ -540,7 +540,7 @@
                     <m:mn>-19</m:mn>
                   </m:msup>
                 </m:mrow>
-                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                 <m:mi mathvariant="normal">C</m:mi>
               </m:mrow>
             </m:mrow>
@@ -555,7 +555,7 @@
               <m:mn>8</m:mn>
             </m:msup>
           </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">C</m:mi>
         </m:mrow>
       </m:math>.

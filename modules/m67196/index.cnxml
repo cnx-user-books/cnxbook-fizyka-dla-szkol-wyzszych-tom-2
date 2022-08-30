@@ -60,7 +60,7 @@
       </section>
       <section id="header-5">
         <title> Mierniki analogowe i cyfrowe </title>
-        <para id="paragraph-24">W laboratorium fizycznym stosuje się dwa rodzaje mierników: analogowe i cyfrowe. Termin „analogowy” odnosi się do sygnałów lub danych reprezentowanych przez zmieniającą się w sposób ciągły wielkość fizyczną, taką jak napięcie lub natężenie prądu. <term class="no-emphasis" cmlnle:reference="miernik analogowy">Miernik analogowy</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">analog meter</term></foreign>) wykorzystuje galwanometr, który jest cewką z drutu o małej rezystancji, umieszczoną w polu magnetycznym, z dołączoną wskazówką przemieszczającą się po skali. Prąd przepływa przez cewkę, powodując jej obrót. Aby używać galwanometru jako amperomierza, należy przyłączyć opornik o niewielkim oporze równolegle z cewką. Aby używać go jako woltomierza, należy przyłączyć opornik o dużym oporze szeregowo z cewką. <term class="no-emphasis" cmlnle:reference="miernik cyfrowy">Miernik cyfrowy</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">digitalmeter</term></foreign>) wykorzystuje urządzenie nazywane przetwornikiem analogowo-cyfrowym i przedstawia natężenie prądu lub napięcie w postaci szeregu zer i jedynek, które są wykorzystywane do sterowania wyświetlaczem cyfrowym. Mierniki analogowe zostały w większości zastąpione przez mierniki cyfrowe. </para><equation id="eip-203" class="unnumbered"><m:math/></equation>
+        <para id="paragraph-24">W laboratorium fizycznym stosuje się dwa rodzaje mierników: analogowe i cyfrowe. Termin „analogowy” odnosi się do sygnałów lub danych reprezentowanych przez zmieniającą się w sposób ciągły wielkość fizyczną, taką jak napięcie lub natężenie prądu. <term class="no-emphasis" cmlnle:reference="miernik analogowy">Miernik analogowy</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">analog meter</term></foreign>) wykorzystuje galwanometr, który jest cewką z drutu o małej rezystancji, umieszczoną w polu magnetycznym, z dołączoną wskazówką przemieszczającą się po skali. Prąd przepływa przez cewkę, powodując jej obrót. Aby używać galwanometru jako amperomierza, należy przyłączyć opornik o niewielkim oporze równolegle z cewką. Aby używać go jako woltomierza, należy przyłączyć opornik o dużym oporze szeregowo z cewką. <term class="no-emphasis" cmlnle:reference="miernik cyfrowy">Miernik cyfrowy</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">digitalmeter</term></foreign>) wykorzystuje urządzenie nazywane przetwornikiem analogowo-cyfrowym i przedstawia natężenie prądu lub napięcie w postaci szeregu zer i jedynek, które są wykorzystywane do sterowania wyświetlaczem cyfrowym. Mierniki analogowe zostały w większości zastąpione przez mierniki cyfrowe. </para><equation id="eip-203" class="unnumbered"/>
         <note id="imp-idm615472816" class="check-understanding">
           <exercise id="imp-idm1597514016">
             <problem id="imp-idm1139931104">
@@ -129,15 +129,15 @@
               <problem id="imp-idm383008096">
                 <para id="imp-idm1346492224">Załóż, że woltomierzem o oporze <m:math display="inline">
                   <m:mn>1</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                   <m:mi mathvariant="normal">kΩ</m:mi>
                 </m:math>, połączonym jak na schemacie poniżej, mierzysz napięcie na biegunach baterii alkalicznej o SEM równej <m:math display="inline">
                 <m:mn>1,585</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                 <m:mi mathvariant="normal">V</m:mi>
               </m:math> i oporze wewnętrznym <m:math display="inline">
               <m:mn>0,1</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:math>.<list id="eip-idm442933120" list-type="enumerated" number-style="lower-alpha">
             <item>Prąd o jakim natężeniu popłynie?</item>

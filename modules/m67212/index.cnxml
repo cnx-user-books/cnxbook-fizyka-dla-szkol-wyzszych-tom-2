@@ -845,62 +845,62 @@
                   </m:math> poprzez ustalenie wypadkowego natężenia prądu przepływającego przez kontur całkowania. Znaki każdego prądu określimy, układając prawą dłoń wzdłuż konturu tak, aby palce wskazywały kierunek całkowania. Prąd będziemy uważali za dodatni, jeżeli będzie on przepływał w kierunku wskazanym przez wyciągnięty kciuk. </para><list id="eip-818" list-type="enumerated" number-style="lower-alpha"><item>Suma natężeń prądu przepływającego przez kontur ku dołowi (<m:math display="inline">
                       <m:mrow>
                         <m:mn>2</m:mn>
-                        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                        <m:mo rspace="verythinmathspace">⁢</m:mo>
                         <m:mi mathvariant="normal">A</m:mi>
                       </m:mrow>
                       <m:mo>+</m:mo>
                       <m:mrow>
                         <m:mn>5</m:mn>
-                        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                        <m:mo rspace="verythinmathspace">⁢</m:mo>
                         <m:mi mathvariant="normal">A</m:mi>
                       </m:mrow>
                     </m:math>) równa się sumie natężeń prądu przepływającego przez kontur ku górze (<m:math display="inline">
                     <m:mrow>
                       <m:mn>3</m:mn>
-                      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                      <m:mo rspace="verythinmathspace">⁢</m:mo>
                       <m:mi mathvariant="normal">A</m:mi>
                     </m:mrow>
                     <m:mo>+</m:mo>
                     <m:mrow>
                       <m:mn>4</m:mn>
-                      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                      <m:mo rspace="verythinmathspace">⁢</m:mo>
                       <m:mi mathvariant="normal">A</m:mi>
                     </m:mrow>
-                  </m:math>). Wypadkowe natężenie prądu jest zatem równe zero, a więc <equation id="eip-idm1301721936" class="unnumbered"><m:math display="block"><m:semantics><m:mrow><m:mrow><m:mo>∮</m:mo><m:mrow><m:mover><m:mi>B</m:mi><m:mo>→</m:mo></m:mover><m:mo>⋅</m:mo><m:mrow><m:mo lspace="verythinmathspace" rspace="veryverythinmathspace">d</m:mo><m:mover><m:mi>l</m:mi><m:mo>→</m:mo></m:mover></m:mrow></m:mrow></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>0</m:mn><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \oint \vec{B} \cdot \d \vec{l} = \SI{0}{\tesla\metre} \text{.}</m:annotation></m:semantics></m:math></equation></item>
+                  </m:math>). Wypadkowe natężenie prądu jest zatem równe zero, a więc <equation id="eip-idm1301721936" class="unnumbered"><m:math display="block"><m:semantics><m:mrow><m:mrow><m:mo>∮</m:mo><m:mrow><m:mover><m:mi>B</m:mi><m:mo>→</m:mo></m:mover><m:mo>⋅</m:mo><m:mrow><m:mo lspace="verythinmathspace" rspace="veryverythinmathspace">d</m:mo><m:mover><m:mi>l</m:mi><m:mo>→</m:mo></m:mover></m:mrow></m:mrow></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \oint \vec{B} \cdot \d \vec{l} = \SI{0}{\tesla\metre} \text{.}</m:annotation></m:semantics></m:math></equation></item>
               <item>Jedynym prądem, który musimy wziąć pod uwagę, jest ten o natężeniu <m:math display="inline">
                 <m:mn>2</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">A</m:mi>
-              </m:math>, ponieważ jest to jedyny prąd przepływający przez kontur całkowania. Prąd ten przepływa ku dołowi, a więc na podstawie reguły prawej dłoni przypisujemy mu dodatnią wartość (znak plus). Otrzymujemy zatem <equation id="eip-idm1152126320" class="unnumbered"><m:math display="block"><m:semantics><m:mrow><m:mrow><m:mo>∮</m:mo><m:mrow><m:mover><m:mi>B</m:mi><m:mo>→</m:mo></m:mover><m:mo>⋅</m:mo><m:mrow><m:mo lspace="verythinmathspace" rspace="veryverythinmathspace">d</m:mo><m:mover><m:mi>l</m:mi><m:mo>→</m:mo></m:mover></m:mrow></m:mrow></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi></m:mrow><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-7</m:mn></m:msup></m:mrow><m:mo>⁢</m:mo><m:mrow><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow><m:mo>∕</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mn>2</m:mn><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mn>2,51</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-6</m:mn></m:msup></m:mrow><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \oint \vec{B} \cdot \d \vec{l} = 4\pi \cdot 10^{-7}\si{\tesla\metre\per\ampere} \cdot \SI{2}{\ampere} = \SI{2,51e-6}{\tesla\metre} \text{.}</m:annotation></m:semantics></m:math></equation></item>
+              </m:math>, ponieważ jest to jedyny prąd przepływający przez kontur całkowania. Prąd ten przepływa ku dołowi, a więc na podstawie reguły prawej dłoni przypisujemy mu dodatnią wartość (znak plus). Otrzymujemy zatem <equation id="eip-idm1152126320" class="unnumbered"><m:math display="block"><m:semantics><m:mrow><m:mrow><m:mo>∮</m:mo><m:mrow><m:mover><m:mi>B</m:mi><m:mo>→</m:mo></m:mover><m:mo>⋅</m:mo><m:mrow><m:mo lspace="verythinmathspace" rspace="veryverythinmathspace">d</m:mo><m:mover><m:mi>l</m:mi><m:mo>→</m:mo></m:mover></m:mrow></m:mrow></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi></m:mrow><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-7</m:mn></m:msup></m:mrow><m:mo>⁢</m:mo><m:mrow><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow><m:mo>∕</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mn>2</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mn>2,51</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-6</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \oint \vec{B} \cdot \d \vec{l} = 4\pi \cdot 10^{-7}\si{\tesla\metre\per\ampere} \cdot \SI{2}{\ampere} = \SI{2,51e-6}{\tesla\metre} \text{.}</m:annotation></m:semantics></m:math></equation></item>
           <item>Na podstawie reguły prawej dłoni stwierdzamy, że kierunki prądu przepływającego przez kontur ku dołowi są dodatnie. Suma natężeń prądu płynącego ku dołowi wynosi <m:math display="inline">
             <m:mrow>
               <m:mrow>
                 <m:mn>7</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">A</m:mi>
               </m:mrow>
               <m:mo>+</m:mo>
               <m:mrow>
                 <m:mn>5</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">A</m:mi>
               </m:mrow>
             </m:mrow>
             <m:mo>=</m:mo>
             <m:mrow>
               <m:mn>12</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">A</m:mi>
             </m:mrow>
           </m:math>, a natężenie prądu płynącego ku górze wynosi <m:math display="inline">
           <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">A</m:mi>
         </m:math>. W rezultacie całkowite natężenie prądu wynosi <m:math display="inline">
         <m:mn>9</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
-      </m:math>, a tym samym <equation id="eip-idm1705577104" class="unnumbered"><m:math display="block"><m:semantics><m:mrow><m:mrow><m:mo>∮</m:mo><m:mrow><m:mover><m:mi>B</m:mi><m:mo>→</m:mo></m:mover><m:mo>⋅</m:mo><m:mrow><m:mo lspace="verythinmathspace" rspace="veryverythinmathspace">d</m:mo><m:mover><m:mi>l</m:mi><m:mo>→</m:mo></m:mover></m:mrow></m:mrow></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi></m:mrow><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-7</m:mn></m:msup></m:mrow><m:mo>⁢</m:mo><m:mrow><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow><m:mo>∕</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mn>9</m:mn><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mn>5,65</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-6</m:mn></m:msup></m:mrow><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \oint \vec{B} \cdot \d \vec{l} = 4\pi \cdot 10^{-7}\si{\tesla\metre\per\ampere} \cdot \SI{9}{\ampere} = \SI{5,65e-6}{\tesla\metre} \text{.}</m:annotation></m:semantics></m:math></equation></item>
+      </m:math>, a tym samym <equation id="eip-idm1705577104" class="unnumbered"><m:math display="block"><m:semantics><m:mrow><m:mrow><m:mo>∮</m:mo><m:mrow><m:mover><m:mi>B</m:mi><m:mo>→</m:mo></m:mover><m:mo>⋅</m:mo><m:mrow><m:mo lspace="verythinmathspace" rspace="veryverythinmathspace">d</m:mo><m:mover><m:mi>l</m:mi><m:mo>→</m:mo></m:mover></m:mrow></m:mrow></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi></m:mrow><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-7</m:mn></m:msup></m:mrow><m:mo>⁢</m:mo><m:mrow><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow><m:mo>∕</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mn>9</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mn>5,65</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-6</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \oint \vec{B} \cdot \d \vec{l} = 4\pi \cdot 10^{-7}\si{\tesla\metre\per\ampere} \cdot \SI{9}{\ampere} = \SI{5,65e-6}{\tesla\metre} \text{.}</m:annotation></m:semantics></m:math></equation></item>
 </list><para id="ked-1blfek1hq_4a"><title>Znaczenie</title>Jeżeli przewody z prądem skręcimy ze sobą tak, że natężenia prądu płynącego do danego konturu całkowania będą równe natężeniom prądu wypływającego z tego konturu – wypadkowe natężenie tychże prądów będzie zerowe. Wokół przewodów nie powstanie zatem pole magnetyczne. Z tego względu przewody tworzące kabel elektryczny położone są blisko siebie. Wówczas prąd płynący do podłączonego urządzenia i z niego wypływający znoszą się i wypadkowe natężenie wewnątrz konturu Ampère’a rozpiętego wokół tych przewodów jest zerowe. W związku z powyższym przewody z prądem w tymże kablu nie będą wytwarzały rozproszonego (zakłócającego) pola magnetycznego. </para></example>
 <note id="ked-1blffbb2e_fbg" class="check-understanding">
   <exercise id="ked-1blffbnur_co">
@@ -1074,7 +1074,7 @@
       <m:mi mathvariant="normal">cm</m:mi>
     </m:math> płynie prąd o natężeniu <m:math display="inline">
     <m:mn>1000</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">A</m:mi>
     </m:math>. Wyznacz indukcję pola magnetycznego w pobliżu tego drutu.</para></problem>
 </exercise>
@@ -1117,7 +1117,7 @@
       </m:mrow>
     </m:math>. Prąd o natężeniu <m:math display="inline">
     <m:mn>50</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">A</m:mi>
   </m:math>, rozłożony równomiernie w przekroju poprzecznym przewodnika, płynie w stronę płaszczyzny rysunku. Oblicz indukcję pola magnetycznego w odległościach <m:math display="inline">
   <m:mi>r</m:mi>
@@ -1156,7 +1156,7 @@
       <m:mi mathvariant="normal">cm</m:mi>
     </m:math> płynie prąd o natężeniu <m:math display="inline">
     <m:mn>50</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">A</m:mi>
   </m:math>. Prąd rozłożony jest równomiernie w przekroju poprzecznym przewodnika. Narysuj wykres wartości indukcji pola magnetycznego w funkcji odległości radialnej <m:math display="inline">
   <m:mi>r</m:mi>

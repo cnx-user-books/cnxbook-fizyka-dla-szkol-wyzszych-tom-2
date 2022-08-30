@@ -34,15 +34,15 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
     <m:mi mathvariant="normal">kV</m:mi>
   </m:math> na <m:math display="inline">
     <m:mn>230</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
-  </m:math>, by mogło zostać bezpiecznie przesłane do sieci domowych. Wysokonapięciowe linie przesyłowe pozwalają przesyłać prąd o niskim natężeniu na ogromne odległości z wykorzystaniem podstacji.</caption></figure><para id="fs-id1172101665421">Zmienne (i niezbyt wysokie napięcia) są wytwarzane w elektrowniach. Następnie podwyższa się je z niskiego do wysokiego poziomu napięć i dopiero później przesyła liniami przesyłowymi. W takiej sytuacji zachodzą małe straty mocy w przypadku przesyłania energii elektrycznej na duże odległości. Potem SEM musi być obniżona do zatwierdzonych, bezpiecznych wartości (w zależności od kraju, od <m:math display="inline"><m:semantics><m:mrow><m:mn>100</m:mn><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">V</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{100}{\volt}</m:annotation></m:semantics></m:math> do <m:math display="inline"><m:semantics><m:mrow><m:mn>240</m:mn><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">V</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{240}{\volt}</m:annotation></m:semantics></m:math>). Urządzenie, które dokonuje transformacji napięcia pomiędzy dwiema wartościami z użyciem indukcji elektromagnetycznej, nazywa się <term xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cmlnle:reference="transformator">transformatorem</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">transformer</term></foreign>) (<link target-id="CNX_UPhysics_32_06_Twork"/>).</para><figure id="CNX_UPhysics_32_06_Twork"><media id="fs-id1172101707104" alt="Zdjęcie transformatorów na słupie elektrycznym. Znajdują się na nim trzy transformatory, a każdy umieszczony jest w cylindrycznym pojemniku. ">
+  </m:math>, by mogło zostać bezpiecznie przesłane do sieci domowych. Wysokonapięciowe linie przesyłowe pozwalają przesyłać prąd o niskim natężeniu na ogromne odległości z wykorzystaniem podstacji.</caption></figure><para id="fs-id1172101665421">Zmienne (i niezbyt wysokie napięcia) są wytwarzane w elektrowniach. Następnie podwyższa się je z niskiego do wysokiego poziomu napięć i dopiero później przesyła liniami przesyłowymi. W takiej sytuacji zachodzą małe straty mocy w przypadku przesyłania energii elektrycznej na duże odległości. Potem SEM musi być obniżona do zatwierdzonych, bezpiecznych wartości (w zależności od kraju, od <m:math display="inline"><m:semantics><m:mrow><m:mn>100</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">V</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{100}{\volt}</m:annotation></m:semantics></m:math> do <m:math display="inline"><m:semantics><m:mrow><m:mn>240</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">V</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{240}{\volt}</m:annotation></m:semantics></m:math>). Urządzenie, które dokonuje transformacji napięcia pomiędzy dwiema wartościami z użyciem indukcji elektromagnetycznej, nazywa się <term xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cmlnle:reference="transformator">transformatorem</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">transformer</term></foreign>) (<link target-id="CNX_UPhysics_32_06_Twork"/>).</para><figure id="CNX_UPhysics_32_06_Twork"><media id="fs-id1172101707104" alt="Zdjęcie transformatorów na słupie elektrycznym. Znajdują się na nim trzy transformatory, a każdy umieszczony jest w cylindrycznym pojemniku. ">
     <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_32_06_Twork.jpg"/>
   </media>
   
 <caption>Transformatory wykorzystuje się m.in. do zamiany wysokich napięć w liniach przesyłowych na napięcie <m:math display="inline">
     <m:mn>220</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math>, używane w sieciach domowych.
 Źródło: modyfikacja pracy „Fortyseven”/Flickr
@@ -538,23 +538,23 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
             <m:mi mathvariant="normal">kV</m:mi>
           </m:math> do <m:math display="inline">
           <m:mn>240</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">V</m:mi>
         </m:math>.
 <list id="eip-idm1354067440" list-type="enumerated" number-style="lower-alpha"><item>Jaki jest stosunek liczby zwojów na uzwojeniu wtórnym do liczby zwojów na uzwojeniu pierwotnym?</item>
         <item>Jeśli wejściowe natężenie prądu na uzwojeniu pierwotnym transformatora wynosi <m:math display="inline">
           <m:mn>2</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">A</m:mi>
           </m:math>, ile będzie ono wynosić na uzwojeniu wtórnym?</item>
           <item>Obliczmy moc traconą w czasie przesyłu energii, jeśli całkowity opór linii przesyłowej wynosi <m:math display="inline">
             <m:mn>200</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
             </m:math>.</item>
             <item>Jaką wartość miałaby moc strat, jeśli linia przesyłowa działałaby pod napięciem <m:math display="inline">
               <m:mn>240</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">V</m:mi>
             </m:math> zamiast <m:math display="inline">
             <m:mn>12</m:mn>
@@ -592,7 +592,7 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
             <m:mfrac>
               <m:mrow>
                 <m:mn>240</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">V</m:mi>
               </m:mrow>
               <m:mrow>
@@ -604,7 +604,7 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
                     <m:mn>3</m:mn>
                   </m:msup>
                 </m:mrow>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">V</m:mi>
               </m:mrow>
             </m:mfrac>
@@ -685,7 +685,7 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
             <m:mo>⋅</m:mo>
             <m:mrow>
               <m:mn>2</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">A</m:mi>
             </m:mrow>
           </m:mrow>
@@ -693,7 +693,7 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
           <m:mrow>
             <m:mrow>
               <m:mn>100</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">A</m:mi>
             </m:mrow>
             <m:mo>⁢</m:mo>
@@ -724,7 +724,7 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
             <m:mfenced>
               <m:mrow>
                 <m:mn>2</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">A</m:mi>
               </m:mrow>
             </m:mfenced>
@@ -733,7 +733,7 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
           <m:mo>⋅</m:mo>
           <m:mrow>
             <m:mn>200</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
         </m:mrow>
@@ -741,7 +741,7 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
         <m:mrow>
           <m:mrow>
             <m:mn>800</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">W</m:mi>
           </m:mrow>
           <m:mo>⁢</m:mo>
@@ -752,7 +752,7 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
   </item>
   <item>Gdyby nie istniały transformatory, prąd elektryczny musiałby być przesyłany pod napięciem <m:math display="inline">
     <m:mn>240</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math>, by sieć domowa pracowała właściwie. Straty przesyłu wynosiłyby wtedy <equation id="fs-id1172101999113" class="unnumbered"><label/>
   <m:math display="block">
@@ -776,7 +776,7 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
         <m:mfenced>
           <m:mrow>
             <m:mn>100</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">A</m:mi>
           </m:mrow>
         </m:mfenced>
@@ -785,7 +785,7 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
       <m:mo>⋅</m:mo>
       <m:mrow>
         <m:mn>200</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
     </m:mrow>
@@ -800,7 +800,7 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
             <m:mn>6</m:mn>
           </m:msup>
         </m:mrow>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">W</m:mi>
       </m:mrow>
       <m:mo>⁢</m:mo>
@@ -810,11 +810,11 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
   </equation> Tymczasem w czasie przesyłu energii zależy nam na minimalizacji strat z nim związanych. Oznacza to, że prąd przesyłany jest pod wysokim napięciem i dostosowywany do użytku przy pomocy transformatorów dopiero bezpośrednio przed przesłaniem do sieci domowych.</item>
 </list><para id="fs-id1172101664339"><title>Znaczenie</title>Takie wykorzystanie transformatora obniżającego napięcie pozwala sieci domowej używającej napięcia <m:math display="inline">
     <m:mn>240</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math> pobierać prąd o natężeniu do <m:math display="inline">
   <m:mn>100</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">A</m:mi>
   </m:math>. Dzięki temu możliwe jest zasilenie wielu urządzeń w domu.</para></example>
 <note id="fs-id1172102052944" class="check-understanding">
@@ -822,15 +822,15 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
     <problem id="fs-id1172101796866">
       <para id="fs-id1172102021662"><emphasis effect="bold">Sprawdź, czy rozumiesz.</emphasis> Transformator obniża napięcie ze <m:math display="inline">
           <m:mn>110</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">V</m:mi>
         </m:math> do <m:math display="inline">
         <m:mn>9</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
       </m:math> tak, że prąd o natężeniu <m:math display="inline">
       <m:mn>0,5</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
     </m:math> dostarczany jest do dzwonka do drzwi.
 <list id="eip-idm864593728" list-type="enumerated" number-style="lower-alpha"><item>Jaki jest stosunek liczby zwojów na uzwojeniu pierwotnym do liczby zwojów na uzwojeniu wtórnym?</item>
@@ -842,7 +842,7 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
     <m:mn>12</m:mn>
   </m:math>; b. <m:math display="inline">
   <m:mn>0,042</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">A</m:mi>
 </m:math>; c. <m:math display="inline">
 <m:mrow>
@@ -853,7 +853,7 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
     <m:mn>3</m:mn>
   </m:msup>
 </m:mrow>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">Ω</m:mi>
 </m:math>.</para></solution>
 </exercise>
@@ -1367,11 +1367,11 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
     <problem id="fs-id1172102133062">
       <para id="fs-id1172102133064">Transformator podwyższający napięcie zaprojektowano tak, by napięcie wyjściowe na uzwojeniu wtórnym miało wartość skuteczną <m:math display="inline">
         <m:mn>2000</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
       </m:math> przy zasilaniu uzwojenia pierwotnego linią o napięciu skutecznym <m:math display="inline">
       <m:mn>110</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:math>.
 <list id="eip-idm216642384" list-type="enumerated" number-style="lower-alpha">
@@ -1380,7 +1380,7 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
       </m:math> zwojów, ile zwojów liczy uzwojenie wtórne tego transformatora?</item>
       <item>Jeśli przez opornik obciążający uzwojenie wtórne płynie prąd o natężeniu skutecznym równym <m:math display="inline">
         <m:mn>0,75</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
         </m:math>, jakie natężenie prądu obserwowane jest w uzwojeniu pierwotnym?</item>
       </list>
@@ -1394,7 +1394,7 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
       <m:mi mathvariant="normal">kV</m:mi>
     </m:math>. Rurka ma moc znamionową <m:math display="inline">
     <m:mn>75</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">W</m:mi>
   </m:math>.
 <list id="eip-idm1647260720" list-type="enumerated" number-style="lower-alpha">
@@ -1412,16 +1412,16 @@ By uniknąć wysokich strat na oporze podczas przesyłania prądu na duże odleg
     <m:mn>1</m:mn>
   </m:math>; b. <m:math display="inline">
   <m:mn>0,68</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">A</m:mi>
 </m:math>, <m:math display="inline">
 <m:mn>0,015</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">A</m:mi>
 </m:math>;
 c. <m:math display="inline">
 <m:mn>160</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">Ω</m:mi>
 </m:math>.</para></solution>
 </exercise>
@@ -1437,7 +1437,7 @@ c. <m:math display="inline">
     <m:mi mathvariant="normal">mA</m:mi>
   </m:math>, kiedy podłączy się je do uzwojenia pierwotnego transformatora. Napięcie skuteczne na uzwojeniu wtórnym tego transformatora wynosi <m:math display="inline">
   <m:mn>20</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">V</m:mi>
 </m:math>.
 <list id="eip-idm423305472" list-type="enumerated" number-style="lower-alpha"><item>Ile wynoszą napięcie prądu na uzwojeniu pierwotnym i natężenie prądu płynącego przez uzwojenie wtórne?</item>
@@ -1448,11 +1448,11 @@ c. <m:math display="inline">
   <problem id="fs-id1172101970139">
     <para id="fs-id1172101970141">Transformator używany jest do obniżenia napięcia ze <m:math display="inline">
       <m:mn>110</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:math> do <m:math display="inline">
     <m:mn>9</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math>, do zasilania radia.
 <list id="eip-idm177880320" list-type="enumerated" number-style="lower-alpha">
@@ -1469,17 +1469,17 @@ c. <m:math display="inline">
 <solution id="fs-id1172101790116">
   <para id="fs-id1172101790118">a. <m:math display="inline">
     <m:mn>41</m:mn>
-  </m:math> zwojów; b. <m:math display="inline"><m:semantics><m:mrow><m:mn>40,9</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{40,9}{\ampere}</m:annotation></m:semantics></m:math>.</para></solution>
+  </m:math> zwojów; b. <m:math display="inline"><m:semantics><m:mrow><m:mn>40,9</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{40,9}{\ampere}</m:annotation></m:semantics></m:math>.</para></solution>
 </exercise>
 <exercise id="fs-id1172101774083">
   <problem id="fs-id1172101774085">
     <para id="fs-id1172101996063">Transformator podłączony do gniazdka o napięciu <m:math display="inline">
       <m:mn>110</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:math> używany jest jako źródło napięcia do 12-woltowego modelu pociągu. Pociąg pobiera <m:math display="inline">
     <m:mn>50</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">W</m:mi>
   </m:math> mocy.
 <list id="eip-idm362511328" list-type="enumerated" number-style="lower-alpha">
@@ -1530,7 +1530,7 @@ c. <m:math display="inline">
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>100</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
       </m:mrow>
     </m:math>, a <m:math display="inline">
@@ -1540,7 +1540,7 @@ c. <m:math display="inline">
       <m:mn>200</m:mn>
       <m:mo>⁢</m:mo>
       <m:mi>π</m:mi>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mrow>
         <m:mi mathvariant="normal">rad</m:mi>
         <m:mo>∕</m:mo>
@@ -1551,17 +1551,17 @@ c. <m:math display="inline">
 <list id="eip-idm1178121312" list-type="enumerated" number-style="lower-alpha">
   <item>kondensator o pojemności <m:math display="inline">
     <m:mn>20</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">µF</m:mi>
     </m:math>;</item>
     <item>cewkę o indukcyjności <m:math display="inline">
       <m:mn>20</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">µH</m:mi>
       </m:math>;</item>
       <item>opornik o oporze <m:math display="inline">
         <m:mn>50</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
         </m:math>.</item>
       </list>
@@ -1579,7 +1579,7 @@ c. <m:math display="inline">
       <m:mrow>
         <m:mrow>
           <m:mn>1,26</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">A</m:mi>
         </m:mrow>
         <m:mo>⋅</m:mo>
@@ -1616,7 +1616,7 @@ c. <m:math display="inline">
     <m:mrow>
       <m:mrow>
         <m:mn>1,26</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:mrow>
       <m:mo>⋅</m:mo>
@@ -1653,7 +1653,7 @@ c. <m:math display="inline">
   <m:mrow>
     <m:mrow>
       <m:mn>2</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
     </m:mrow>
     <m:mo>⋅</m:mo>
@@ -1680,7 +1680,7 @@ c. <m:math display="inline">
       <m:mi mathvariant="normal">pF</m:mi>
     </m:math> podłączony został do źródła napięcia zmiennego o amplitudzie <m:math display="inline">
     <m:mn>160</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math> i częstotliwości <m:math display="inline">
   <m:mn>20</m:mn>
@@ -1703,7 +1703,7 @@ c. <m:math display="inline">
       <m:mi mathvariant="normal">mH</m:mi>
     </m:math> jest podłączona do źródła napięcia zmiennego o zmiennej częstotliwości i stałej amplitudzie równej <m:math display="inline">
     <m:mn>9</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math>.
 <list id="eip-idm437134640" list-type="enumerated" number-style="lower-alpha"><item>Ustal zawadę tego obwodu i maksymalne natężenie prądu w nim płynącego ustawionego na częstotliwość <m:math display="inline">
@@ -1727,7 +1727,7 @@ c. <m:math display="inline">
         <m:mn>3</m:mn>
       </m:msup>
     </m:mrow>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:math>, <m:math display="inline">
   <m:mrow>
@@ -1738,15 +1738,15 @@ c. <m:math display="inline">
       <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
     </m:msup>
   </m:mrow>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">A</m:mi>
 </m:math>; b. <m:math display="inline">
 <m:mn>7,5</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">Ω</m:mi>
 </m:math>, <m:math display="inline">
 <m:mn>1,2</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">A</m:mi>
 </m:math>.</para></solution>
 </exercise>
@@ -1754,11 +1754,11 @@ c. <m:math display="inline">
   <problem id="fs-id1172102031709">
     <para id="fs-id1172102135764">Kondensator o pojemności <m:math display="inline">
       <m:mn>30</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">µF</m:mi>
     </m:math> podłączony jest do 60-hercowego źródła napięcia zmiennego o amplitudzie <m:math display="inline">
     <m:mn>50</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math>.
 <list id="eip-idm519763408" list-type="enumerated" number-style="lower-alpha">
@@ -1776,7 +1776,7 @@ c. <m:math display="inline">
       <m:mi mathvariant="normal">mH</m:mi>
     </m:math> podłączono do 60-hercowego źródła napięcia zmiennego o amplitudzie <m:math display="inline">
     <m:mn>50</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math>.
 <list id="eip-idm477010624" list-type="enumerated" number-style="lower-alpha">
@@ -1787,7 +1787,7 @@ c. <m:math display="inline">
 <solution id="fs-id1172102138448">
   <para id="fs-id1172102138450">a. <m:math display="inline">
     <m:mn>19</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">A</m:mi>
   </m:math>; b. <m:math display="inline">
   <m:mn>90</m:mn>
@@ -1805,7 +1805,7 @@ c. <m:math display="inline">
       <m:mi>R</m:mi>
     </m:math> w poniższym obwodzie, jeśli amplituda natężenia prądu w cewce wynosi <m:math display="inline">
     <m:mn>4,24</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">A</m:mi>
     </m:math>?<newline/></para><media id="fs-id1172101614366" alt="Rysunek przedstawia obwód ze źródłem AC 50 V, sinus 120 pi t. Jest on połączony do induktora 8 mH, kondensatora 400 mikrofaradów i opornika R. Inny kondensator jest połączony równolegle z pierwszym. Jego wartość to 200 mikrofaradów.">
       <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_32_03_Problem27_img.jpg"/>
@@ -1814,7 +1814,7 @@ c. <m:math display="inline">
   <solution id="fs-id1172102138024">
     <para id="fs-id1172102138026"><m:math display="inline">
         <m:mn>11,7</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
         </m:math>.</para></solution>
     </exercise>
@@ -1822,7 +1822,7 @@ c. <m:math display="inline">
       <problem id="fs-id1172102038340">
         <para id="fs-id1172102103315">Źródło napięcia zmiennego o amplitudzie <m:math display="inline">
           <m:mn>100</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">V</m:mi>
         </m:math> i częstotliwości <m:math display="inline">
         <m:mn>1</m:mn>
@@ -1833,7 +1833,7 @@ c. <m:math display="inline">
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>20</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
     </m:math>, <m:math display="inline">
@@ -1849,7 +1849,7 @@ c. <m:math display="inline">
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>50</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">µF</m:mi>
   </m:mrow>
 </m:math>.
@@ -1867,7 +1867,7 @@ c. <m:math display="inline">
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>200</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
     </m:math>, <m:math display="inline">
@@ -1875,7 +1875,7 @@ c. <m:math display="inline">
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>1</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">H</m:mi>
     </m:mrow>
   </m:math>, <m:math display="inline">
@@ -1883,7 +1883,7 @@ c. <m:math display="inline">
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>50</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">µF</m:mi>
   </m:mrow>
 </m:math>, <m:math display="inline">
@@ -1894,7 +1894,7 @@ c. <m:math display="inline">
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>120</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">V</m:mi>
 </m:mrow>
 </m:math>, a <m:math display="inline">
@@ -1902,14 +1902,14 @@ c. <m:math display="inline">
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>50</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">Hz</m:mi>
 </m:mrow>
 </m:math>. Jaką moc ma źródło napięcia w tym obwodzie?</para></problem>
 <solution id="fs-id1172102007551">
   <para id="fs-id1172102007553"><m:math display="inline">
       <m:mn>36</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">W</m:mi>
       </m:math>.</para></solution>
   </exercise>
@@ -1917,7 +1917,7 @@ c. <m:math display="inline">
     <problem id="fs-id1172102136197">
       <para id="fs-id1172102136199">W elektrowni produkowany jest prąd o natężeniu <m:math display="inline">
         <m:mn>100</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:math> i napięciu <m:math display="inline">
       <m:mn>15</m:mn>
@@ -1939,7 +1939,7 @@ c. <m:math display="inline">
         <m:mrow><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow>
       </m:msup>
     </m:mrow>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mrow>
       <m:mi mathvariant="normal">Ω</m:mi>
       <m:mo>∕</m:mo>
@@ -1981,7 +1981,7 @@ c. <m:math display="inline">
     <item>
       <m:math display="inline">
         <m:mn>120</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
         </m:math>.</item>
       </list></para></problem>
@@ -1995,7 +1995,7 @@ c. <m:math display="inline">
           <m:mn>4</m:mn>
         </m:msup>
       </m:mrow>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">W</m:mi>
     </m:math>; b. <m:math display="inline">
     <m:mrow>
@@ -2006,7 +2006,7 @@ c. <m:math display="inline">
         <m:mn>11</m:mn>
       </m:msup>
     </m:mrow>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">W</m:mi>
     </m:math>.</para></solution>
 </exercise>
@@ -2018,7 +2018,7 @@ c. <m:math display="inline">
       <m:mi mathvariant="normal">kV</m:mi>
     </m:math> do prawidłowej pracy. Do tego celu konieczne jest wykorzystanie transformatora do zamiany <m:math display="inline">
     <m:mn>220</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math> napięcia skutecznego z sieci elektrycznej na <m:math display="inline">
   <m:mn>12</m:mn>
@@ -2028,7 +2028,7 @@ c. <m:math display="inline">
 <list id="eip-idm301099824" list-type="enumerated" number-style="lower-alpha"><item>Ile musi być równy stosunek liczby zwojów na uzwojeniu wtórnym do liczby zwojów na uzwojeniu pierwotnym?</item>
 <item>Jakie jest maksymalne skuteczne natężenie prądu, który może przepłynąć przez ten neon, jeśli na uzwojeniu pierwotnym umieszczono bezpiecznik przerywający obwód przy natężeniu prądu <m:math display="inline">
   <m:mn>0,5</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">A</m:mi>
   </m:math>?</item>
   <item>Jaką moc pobiera ten neon, jeśli płynie przez niego maksymalne dopuszczalne przez bezpiecznik na uzwojeniu pierwotnym natężenie prądu?</item>
@@ -2073,7 +2073,7 @@ c. <m:math display="inline">
   <problem id="fs-id1172102019563">
     <para id="fs-id1172102019565">Opornik o oporze <m:math display="inline">
       <m:mn>1,5</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">kΩ</m:mi>
     </m:math> i cewka o indukcyjności <m:math display="inline">
     <m:mn>30</m:mn>
@@ -2081,7 +2081,7 @@ c. <m:math display="inline">
     <m:mi mathvariant="normal">mH</m:mi>
   </m:math> połączone są szeregowo w obwód, jak na obrazku poniżej, i podłączone do źródła prądu zmiennego o napięciu skutecznym <m:math display="inline">
   <m:mn>120</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">V</m:mi>
 </m:math> i częstotliwości <m:math display="inline">
 <m:mn>60</m:mn>
@@ -2103,7 +2103,7 @@ c. <m:math display="inline">
   <problem id="fs-id1172102043838">
     <para id="fs-id1172102043840">20-omowy opornik, 50-mikrofaradowy kondensator i 30-milihenrowa cewka zostały połączone w obwód szeregowy ze źródłem napięcia zmiennego o amplitudzie <m:math display="inline">
       <m:mn>10</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:math> i częstotliwości <m:math display="inline">
     <m:mn>125</m:mn>
@@ -2117,18 +2117,18 @@ c. <m:math display="inline">
   <item>Ile jest równy współczynnik mocy dla tego obwodu?</item>
   <item>Ile energii zużywa opornik w czasie <m:math display="inline">
     <m:mn>2,5</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">s</m:mi>
     </m:math>?</item>
   </list></para></problem>
 <solution id="fs-id1172102135350">
   <para id="fs-id1172102135353">a. <m:math display="inline">
     <m:mn>20</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:math>; b. <m:math display="inline">
   <m:mn>0,5</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">A</m:mi>
 </m:math>; c. <m:math display="inline">
 <m:mn>5,4</m:mn>
@@ -2148,7 +2148,7 @@ c. <m:math display="inline">
 <m:mrow>
   <m:mrow>
     <m:mn>9,96</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:mrow>
   <m:mo>⋅</m:mo>
@@ -2187,7 +2187,7 @@ c. <m:math display="inline">
 <m:mrow>
   <m:mrow>
     <m:mn>12,7</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:mrow>
   <m:mo>⋅</m:mo>
@@ -2233,7 +2233,7 @@ c. <m:math display="inline">
 <m:mrow>
   <m:mrow>
     <m:mn>11,8</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:mrow>
   <m:mo>⋅</m:mo>
@@ -2277,7 +2277,7 @@ c. <m:math display="inline">
 <m:mrow>
   <m:mrow>
     <m:mn>10</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:mrow>
   <m:mo>⋅</m:mo>
@@ -2299,7 +2299,7 @@ c. <m:math display="inline">
 </m:math>;
 f. <m:math display="inline">
 <m:mn>6,25</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">J</m:mi>
 </m:math>.</para></solution>
 </exercise>
@@ -2307,19 +2307,19 @@ f. <m:math display="inline">
   <problem id="fs-id1172102136292">
     <para id="fs-id1172102136294">Opornik o oporze <m:math display="inline">
       <m:mn>200</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:math>, kondensator o pojemności <m:math display="inline">
     <m:mn>150</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">µF</m:mi>
   </m:math> i cewka o indukcyjności <m:math display="inline">
   <m:mn>2,5</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">H</m:mi>
 </m:math> zostały połączone szeregowo ze źródłem napięcia zmiennego o amplitudzie <m:math display="inline">
 <m:mn>10</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">V</m:mi>
 </m:math> i częstości kołowej <m:math display="inline">
 <m:mi>ω</m:mi>
@@ -2364,7 +2364,7 @@ f. <m:math display="inline">
           </m:math>?</item>
           <item>Ile energii zużywa opornik w czasie <m:math display="inline">
             <m:mn>2,5</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">s</m:mi>
           </m:math>, jeśli <m:math display="inline">
           <m:mi>ω</m:mi>
@@ -2440,27 +2440,27 @@ f. <m:math display="inline">
 <solution id="fs-id1172102103604">
   <para id="fs-id1172102103607">a. <m:math display="inline">
     <m:mn>0,75</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:math>; b. <m:math display="inline">
   <m:mn>7,5</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
 </m:math>; c. <m:math display="inline">
 <m:mn>0,75</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">Ω</m:mi>
 </m:math>; d. <m:math display="inline">
 <m:mn>7,5</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">Ω</m:mi>
 </m:math>; e. <m:math display="inline">
 <m:mn>1,3</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">Ω</m:mi>
 </m:math>; f. <m:math display="inline">
 <m:mn>0,13</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">Ω</m:mi>
 </m:math>.</para></solution>
 </exercise>
@@ -2468,7 +2468,7 @@ f. <m:math display="inline">
   <problem id="fs-id1172102066912">
     <para id="fs-id1172102066915">Impedancja wyjściowa wzmacniacza audio jest równa <m:math display="inline">
       <m:mn>500</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
       </m:math> i nie jest zgodna z niskoimpedancyjnym, 8-omowym głośnikiem. Zostałeś poproszony o dopasowanie odpowiedniego transformatora, by impedancje zgadzały się. Transformatora o jakim stosunku liczby zwojów użyjesz i dlaczego? Wykorzystaj uproszczony schemat obwodu zaprezentowany poniżej.<newline/></para><media id="fs-id1172101986204" alt="Rysunek przedstawia transformator o większym uzwojeniu cewki pierwotnej. Cewka pierwotna jest połączona ze źródłem napięcia poprzez impedancję Z równą 500 omów. Napięcie na zaciskach uzwojeń oznaczone jest jako wyjście wzmacniacza C ze znakiem P. Dwa końce drugiej cewki transformatora są połączone w poprzek opornością 8 omów. ">
         <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_32_03_Problem28_img.jpg"/>
@@ -2483,7 +2483,7 @@ f. <m:math display="inline">
       <para id="fs-id1172102032871">Jednostką reaktancji według wzoru jest <m:math display="inline">
         <m:mrow>
           <m:mi mathvariant="normal">rad</m:mi>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">H</m:mi>
         </m:mrow>
         <m:mo>∕</m:mo>
@@ -2494,7 +2494,7 @@ f. <m:math display="inline">
       <m:mrow>
         <m:mrow>
           <m:mi mathvariant="normal">V</m:mi>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">s</m:mi>
         </m:mrow>
         <m:mo>∕</m:mo>
@@ -2503,7 +2503,7 @@ f. <m:math display="inline">
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mi mathvariant="normal">Ω</m:mi>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">s</m:mi>
       </m:mrow>
     </m:math>. Łącząc ze sobą oba wzory, widzimy, że jednostką reaktancji jest <m:math display="inline">
@@ -2518,7 +2518,7 @@ f. <m:math display="inline">
       <m:mi mathvariant="normal">mH</m:mi>
     </m:math> i induktancji <m:math display="inline">
     <m:mn>6</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:math> jest podłączona do źródła napięcia zmiennego o zmiennej częstotliwości. Dla jakiej częstotliwości napięcie prądu na cewce będzie wyprzedzać w fazie natężenie prądu przez nią płynącego o <m:math display="inline">
   <m:mn>45</m:mn>
@@ -2529,11 +2529,11 @@ f. <m:math display="inline">
   <problem id="fs-id1172101969871">
     <para id="fs-id1172101969873">Szeregowy obwód RLC składa się z opornika o oporze <m:math display="inline">
       <m:mn>50</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:math>, kondensatora o pojemności <m:math display="inline">
     <m:mn>200</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">µF</m:mi>
   </m:math> oraz cewki o indukcyjności <m:math display="inline">
   <m:mn>120</m:mn>
@@ -2541,11 +2541,11 @@ f. <m:math display="inline">
   <m:mi mathvariant="normal">mH</m:mi>
 </m:math> i induktancji <m:math display="inline">
 <m:mn>20</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">Ω</m:mi>
 </m:math>. W obwodzie znajduje się źródło, którego SEM ma wartość skuteczną równą <m:math display="inline">
 <m:mn>240</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">V</m:mi>
 </m:math> i częstotliwość <m:math display="inline">
 <m:mn>60</m:mn>
@@ -2561,15 +2561,15 @@ f. <m:math display="inline">
 <solution id="fs-id1172102138377">
   <para id="fs-id1172102117583">a. <m:math display="inline">
     <m:mn>156</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math>; b. <m:math display="inline">
   <m:mn>42</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">V</m:mi>
 </m:math>; c. <m:math display="inline">
 <m:mn>154</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">V</m:mi>
 </m:math>.</para></solution>
 </exercise>
@@ -2577,7 +2577,7 @@ f. <m:math display="inline">
   <problem id="fs-id1172102117591">
     <para id="fs-id1172102117593">Szeregowy obwód RLC składa się z 10-omowego opornika, 8-mikrofaradowego kondensatora i 50-milihenrowej cewki. Źródło w tym obwodzie dostarcza napięcia skutecznego <m:math display="inline">
       <m:mn>110</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
       </m:math> przy zmiennej częstotliwości. Ile mocy produkuje to źródło, jeśli jego częstotliwość ustawiona jest na półtorej wartości częstotliwości rezonansowej?</para></problem>
   </exercise>
@@ -2699,7 +2699,7 @@ f. <m:math display="inline">
     <m:mo>≈</m:mo>
     <m:mrow>
       <m:mn>0</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:mrow>
   </m:math>.<newline/>

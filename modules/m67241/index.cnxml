@@ -94,7 +94,7 @@
   <title>Fale radiowe</title>
   <para id="fs-id1171242139842">Termin <term xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cmlnle:reference="fale radiowe">fale radiowe</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">radio waves</term></foreign>) odnosi się do tej części widma, w której fale mają długości większe od <m:math display="inline">
   <m:mn>0,1</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">m</m:mi>
   </m:math>. Fale te są często stosowane do przesyłania sygnałów audio (np. radio), jednak nazwa odnosi się do wszystkich fal o podanej wyżej długości, bez względu na zastosowanie. Fale radiowe zazwyczaj generowane są przez prąd zmienny, płynący w antenie nadawczej. Zakres ten charakteryzuje się dużą rozpiętością długości fali i podzielony jest na mniejsze podzakresy, takie jak: mikrofale, fale radiowe używane do transmisji AM i FM, fale telefonii komórkowej i fale telewizyjne.</para><para id="fs-id1171242528636">Fale elektromagnetyczne nie mają minimalnej częstotliwości, aczkolwiek tzw. fale o skrajnie niskich częstotliwościach – ELF (ang. <foreign>extremely low frequency</foreign>) to fale o najniższej częstotliwości, z jaką zwykle się spotykamy; obejmują zakres  od <m:math display="inline">
     <m:mn>3</m:mn>
@@ -145,7 +145,7 @@
   <m:mi mathvariant="normal">Hz</m:mi>
 </m:math>. Wysokie częstotliwości odpowiadają małym, w porównaniu do pozostałych fal radiowych, długościom fal, stąd też nazwa mikrofal. Promieniowanie mikrofalowe występuje również naturalnie jako kosmiczne promieniowanie tła – pozostałości po wczesnym Wszechświecie. Wraz z pozostałymi zakresami częstotliwości fal elektromagnetycznych są one emitowane jako promieniowanie termiczne – promieniowanie emitowane i absorbowane przez każdy obiekt, którego temperatura jest wyższa niż zero absolutne (<m:math display="inline">
 <m:mn>0</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">K</m:mi>
 </m:math>). Promieniowanie termiczne powiązane jest ze <term xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cmlnle:reference="wzbudzenie termiczne">wzbudzeniem termicznym</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">thermal agitation</term></foreign>), czyli termicznym ruchem atomów i cząsteczek wewnątrz każdego obiektu.</para><para id="fs-id1171242205885">Do satelitarnego przesyłania informacji wykorzystuje się głównie mikrofale. Innym bardzo częstym zastosowaniem mikrofal jest <term xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cmlnle:reference="radar">radar</term>. Systemy radarowe mogą wykryć i zmierzyć odległość do obiektów, takich jak chmury, samoloty, a nawet Wenus. W tym celu systemy radarowe wykrywają echa wysyłanych mikrofal i mierzą czas od ich nadania do odbioru.</para>
 <para id="fs-id1171242453492">Mikrofale o częstotliwości <m:math display="inline">
@@ -223,7 +223,7 @@
                       <m:mn>8</m:mn>
                     </m:msup>
                   </m:mrow>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mrow>
                     <m:mi mathvariant="normal">m</m:mi>
                     <m:mo>∕</m:mo>
@@ -350,14 +350,14 @@
       <m:mn>10</m:mn>
       <m:mrow><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow>
     </m:msup>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">m</m:mi>
   </m:math> do <m:math display="inline">
   <m:msup>
     <m:mn>10</m:mn>
     <m:mrow><m:mo>−</m:mo><m:mn>12</m:mn></m:mrow>
   </m:msup>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">m</m:mi>
   </m:math>. Są to fale o mniejszej długości i większej częstotliwości niż pasmo ultrafioletu. Z tego powodu energia przenoszona przez te fale jest większa niż w przypadku promieni UV. Przez to promienie X są bardzo szkodliwe dla żywych tkanek, przy czym są bardziej przenikliwe od promieniowania UV, które zatrzymuje się w większości na skórze. Promienie X mogą powodować zarówno raka, jak i zmiany genetyczne. Jednak ze względu na ich oddziaływanie na szybko dzielące się komórki są one często wykorzystywane do terapii antyrakowych.</para><para id="fs-id1171242067377">Największe zastosowanie promienie X znalazły w diagnostyce medycznej, a dokładniej – w obrazowaniu obiektów, które są nieprzezroczyste dla światła widzialnego, np. ludzkiego ciała. W przypadku konieczności prześwietlenia tkanek żywych każdorazowo ostrożnie porównuje się ryzyko uszkodzenia tkanek z korzyściami wynikającymi z uzyskania informacji diagnostycznych.</para></section>
 <section id="fs-id1171242533982">
@@ -960,7 +960,7 @@
       <m:mn>10</m:mn>
       <m:mrow><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow>
     </m:msup>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">m</m:mi>
     </m:math>.</para></solution>
 </exercise>
@@ -1130,19 +1130,19 @@
               <solution id="fs-id1171242358482">
                 <para id="fs-id1171242394224">a. Długości fali mieszczą się w zakresie od <m:math display="inline">
                   <m:mn>187</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">m</m:mi>
                 </m:math> do <m:math display="inline">
                 <m:mn>556</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">m</m:mi>
               </m:math>; b.	Długości fali mieszczą się w zakresie od <m:math display="inline">
               <m:mn>2,78</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">m</m:mi>
             </m:math> do <m:math display="inline">
             <m:mn>3,41</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">m</m:mi>
             </m:math>.</para></solution>
         </exercise>
@@ -1157,7 +1157,7 @@
               <m:mn>10</m:mn>
               <m:mrow><m:mo>−</m:mo><m:mn>12</m:mn></m:mrow>
             </m:msup>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">s</m:mi>
           </m:math> i powtarzany dokładnie co minutę. Jest on używany przez różne urządzenia, jak np. zegary radiowe, które automatycznie się z nim synchronizują. Długofalowy sygnał radiostacji WWVB rozchodzi się blisko powierzchni Ziemi. <list id="eip-idm1586130784" list-type="enumerated" number-style="lower-alpha"><item>Oblicz długość fali nadawanej przez WWVB;</item>
           <item>Oszacuj błąd spowodowany czasem rozchodzenia się sygnału przy synchronizacji zegarka radiowego w Norfolk w stanie Wirginia, oddalonym o <m:math display="inline">
@@ -1175,11 +1175,11 @@
           <m:mi mathvariant="normal">mW</m:mi>
         </m:math> i zasięgu około <m:math display="inline">
         <m:mn>30</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">m</m:mi>
       </m:math>. Ile musiałaby wynosić moc sygnału, aby zasięg zmniejszył się do <m:math display="inline">
       <m:mn>12</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">m</m:mi>
       </m:math>, zakładając, że odbiornik sygnału pozostaje ten sam? Załóż, że sygnał nie napotyka żadnych przeszkód, a mikrofale emitowane w kierunku gruntu są przezeń absorbowane.</para></problem>
     <solution id="fs-id1171242504088">
@@ -1195,13 +1195,13 @@
                 <m:mrow>
                   <m:mrow>
                     <m:mn>12</m:mn>
-                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mi mathvariant="normal">m</m:mi>
                   </m:mrow>
                   <m:mo>∕</m:mo>
                   <m:mrow>
                     <m:mn>30</m:mn>
-                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mi mathvariant="normal">m</m:mi>
                   </m:mrow>
                 </m:mrow>
@@ -1211,14 +1211,14 @@
             <m:mo>⋅</m:mo>
             <m:mrow>
               <m:mn>100</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">mW</m:mi>
             </m:mrow>
           </m:mrow>
           <m:mo>=</m:mo>
           <m:mrow>
             <m:mn>16</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">mW</m:mi>
           </m:mrow>
           </m:math>.</para></solution>
@@ -1250,13 +1250,13 @@
 </m:msup>
 </m:math>) zamiast <m:math display="inline">
 <m:mn>1 000 000</m:mn>
-</m:math> dla „mega”. Jeśli ruter WiFi ma transfer o szybkości <m:math display="inline"><m:semantics><m:mrow><m:mn>150</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mrow><m:mi mathvariant="normal">Mb</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{150}{\mega\bajt\per\second}</m:annotation></m:semantics></m:math>, ile to jest bitów na sekundę w systemie dziesiętnym?</para></problem>
+</m:math> dla „mega”. Jeśli ruter WiFi ma transfer o szybkości <m:math display="inline"><m:semantics><m:mrow><m:mn>150</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">Mb</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{150}{\mega\bajt\per\second}</m:annotation></m:semantics></m:math>, ile to jest bitów na sekundę w systemie dziesiętnym?</para></problem>
 </exercise>
 <exercise id="fs-id1171242486201">
   <problem id="fs-id1171242486203">
-    <para id="fs-id1171242598122">Użytkownik dowiedział się, że jego ruter WiFi ma szybkość transmisji danych równą <m:math display="inline"><m:semantics><m:mrow><m:mn>75</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mrow><m:mi mathvariant="normal">Mb</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{75}{\mega\bajt\per\second}</m:annotation></m:semantics></m:math> (megabitów na sekundę). Porównaj średni czas transmisji pojedynczego bitu danych z czasem potrzebnym na przesłanie sygnału do odbiornika przez odbicie sygnału od ściany znajdującej się <m:math display="inline">
+    <para id="fs-id1171242598122">Użytkownik dowiedział się, że jego ruter WiFi ma szybkość transmisji danych równą <m:math display="inline"><m:semantics><m:mrow><m:mn>75</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">Mb</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{75}{\mega\bajt\per\second}</m:annotation></m:semantics></m:math> (megabitów na sekundę). Porównaj średni czas transmisji pojedynczego bitu danych z czasem potrzebnym na przesłanie sygnału do odbiornika przez odbicie sygnału od ściany znajdującej się <m:math display="inline">
     <m:mn>8</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">m</m:mi>
     </m:math> za odbiornikiem. </para></problem>
   <solution id="fs-id1171240053973">
@@ -1269,7 +1269,7 @@
           <m:mrow><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow>
         </m:msup>
       </m:mrow>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">s</m:mi>
     </m:math>, a różnica czasów wynosi <m:math display="inline">
     <m:mrow>
@@ -1280,7 +1280,7 @@
         <m:mrow><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow>
       </m:msup>
     </m:mrow>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">s</m:mi>
     </m:math>.</para></solution>
 </exercise>
@@ -1293,7 +1293,7 @@
           <m:mn>4</m:mn>
         </m:math>). Jeśli radiostacja wyposażona jest w taką antenę o wysokości <m:math display="inline">
         <m:mn>50</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">m</m:mi>
         </m:math>, to jakie fale nadawane są z największą wydajnością? Czy jest to pasmo AM, czy FM?</item>
         <item>Przedyskutuj podobieństwa pomiędzy tonem podstawowym kolumny powietrza zamkniętej z jednej strony a rezonansem prądów w antenie o długości <m:math display="inline">
@@ -1351,7 +1351,7 @@
                 <m:mrow><m:mo>−</m:mo><m:mn>9</m:mn></m:mrow>
               </m:msup>
             </m:mrow>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">m</m:mi>
           </m:math>; b. <m:math display="inline">
           <m:mrow>
@@ -1362,7 +1362,7 @@
               <m:mrow><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow>
             </m:msup>
           </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">m</m:mi>
         </m:math>; c. <m:math display="inline">
         <m:mrow>
@@ -1373,7 +1373,7 @@
             <m:mrow><m:mo>−</m:mo><m:mn>15</m:mn></m:mrow>
           </m:msup>
         </m:mrow>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">m</m:mi>
         </m:math>.</para></solution>
     </exercise>
@@ -1404,7 +1404,7 @@
             <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
           </m:msup>
         </m:mrow>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mrow>
           <m:mi mathvariant="normal">V</m:mi>
           <m:mo>∕</m:mo>
@@ -1421,15 +1421,15 @@
               <m:mrow><m:mo>−</m:mo><m:mn>12</m:mn></m:mrow>
             </m:msup>
           </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">T</m:mi>
         </m:math>, a więc jest dużo mniejsza od stałego pola geomagnetycznego o wartości <m:math display="inline">
         <m:mn>25</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">µT</m:mi>
       </m:math>-<m:math display="inline">
       <m:mn>35</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">µT</m:mi>
       </m:math>.</para></solution>
   </exercise>
@@ -1457,7 +1457,7 @@
         <m:mi mathvariant="normal">mV</m:mi>
       </m:math> między punktami leżącymi wzdłuż klatki piersiowej, oddalonymi od siebie o <m:math display="inline">
       <m:mn>0,3</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">m</m:mi>
     </m:math>, co powoduje wytworzenie się fali elektromagnetyczej o częstotliwości <m:math display="inline">
     <m:mn>1</m:mn>
@@ -1479,7 +1479,7 @@
         <m:mrow><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow>
       </m:msup>
     </m:mrow>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mrow>
       <m:mi mathvariant="normal">V</m:mi>
       <m:mo>∕</m:mo>
@@ -1494,7 +1494,7 @@
       <m:mrow><m:mo>−</m:mo><m:mn>11</m:mn></m:mrow>
     </m:msup>
   </m:mrow>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">T</m:mi>
 </m:math>; c. <m:math display="inline">
 <m:mrow>
@@ -1505,7 +1505,7 @@
     <m:mn>8</m:mn>
   </m:msup>
 </m:mrow>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">m</m:mi>
 </m:math>.</para></solution>
 </exercise>
@@ -1538,7 +1538,7 @@
         <m:mi mathvariant="normal">Hz</m:mi>
       </m:math> emituje fale elektromagnetyczne o amplitudzie pola elektrycznego równej <m:math display="inline">
       <m:mn>13</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mrow>
         <m:mi mathvariant="normal">kV</m:mi>
         <m:mo>∕</m:mo>
@@ -1560,7 +1560,7 @@
         <m:mn>6</m:mn>
       </m:msup>
     </m:mrow>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">m</m:mi>
   </m:math>; b. Fale radiowe; c. <m:math display="inline">
   <m:mrow>
@@ -1571,7 +1571,7 @@
       <m:mrow><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow>
     </m:msup>
   </m:mrow>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">T</m:mi>
   </m:math>.</para></solution>
 </exercise>
@@ -1596,7 +1596,7 @@
     <problem id="fs-id1171242535781">
       <para id="fs-id1171242160930">Pole elektryczne skierowane jest wzdłuż osi <m:math display="inline">
         <m:mi>x</m:mi>
-        </m:math>, a jego natężenie zmienia się według wzoru <m:math display="inline"><m:msub><m:mi>E</m:mi><m:mi>x</m:mi></m:msub><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>10</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">C</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mo>sin</m:mo><m:mfenced><m:mrow><m:mrow><m:mn>20</m:mn><m:mo>⁢</m:mo><m:mi>x</m:mi></m:mrow><m:mo>−</m:mo><m:mrow><m:mn>500</m:mn><m:mo>⁢</m:mo><m:mi>t</m:mi></m:mrow></m:mrow></m:mfenced></m:mrow></m:mrow></m:math>, <m:math display="inline"><m:msub><m:mi>E</m:mi><m:mi>y</m:mi></m:msub><m:mo>=</m:mo><m:msub><m:mi>E</m:mi><m:mi>z</m:mi></m:msub><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">C</m:mi></m:mrow></m:mrow></m:math> gdzie <m:math display="inline">
+        </m:math>, a jego natężenie zmienia się według wzoru <m:math display="inline"><m:msub><m:mi>E</m:mi><m:mi>x</m:mi></m:msub><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>10</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">C</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mo>sin</m:mo><m:mfenced><m:mrow><m:mrow><m:mn>20</m:mn><m:mo>⁢</m:mo><m:mi>x</m:mi></m:mrow><m:mo>−</m:mo><m:mrow><m:mn>500</m:mn><m:mo>⁢</m:mo><m:mi>t</m:mi></m:mrow></m:mrow></m:mfenced></m:mrow></m:mrow></m:math>, <m:math display="inline"><m:msub><m:mi>E</m:mi><m:mi>y</m:mi></m:msub><m:mo>=</m:mo><m:msub><m:mi>E</m:mi><m:mi>z</m:mi></m:msub><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">C</m:mi></m:mrow></m:mrow></m:math> gdzie <m:math display="inline">
           <m:mi>t</m:mi>
         </m:math> wyrażone jest w nanosekundach, a <m:math display="inline">
         <m:mi>x</m:mi>
@@ -1604,7 +1604,7 @@
       <m:mn>3</m:mn>
       <m:mo>⁢</m:mo>
       <m:mi mathvariant="normal">cm</m:mi>
-    </m:math> na płaszczyźnie <m:math display="inline"><m:mi>x</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">cm</m:mi></m:mrow></m:math> w chwili <m:math display="inline"><m:mi>t</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:math>.</para></problem>
+    </m:math> na płaszczyźnie <m:math display="inline"><m:mi>x</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">cm</m:mi></m:mrow></m:math> w chwili <m:math display="inline"><m:mi>t</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:math>.</para></problem>
 <solution id="fs-id1171242442364">
   <para id="fs-id1171242442366"><m:math display="inline">
       <m:msub>
@@ -1615,7 +1615,7 @@
       <m:mrow>
         <m:mrow>
           <m:mn>10</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mrow>
             <m:mi mathvariant="normal">N</m:mi>
             <m:mo>∕</m:mo>
@@ -1632,7 +1632,7 @@
               <m:mrow><m:mo>−</m:mo><m:mn>12</m:mn></m:mrow>
             </m:msup>
           </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mrow>
             <m:msup>
               <m:mi mathvariant="normal">C</m:mi>
@@ -1642,7 +1642,7 @@
             <m:mfenced>
               <m:mrow>
                 <m:mi mathvariant="normal">N</m:mi>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:msup>
                   <m:mi mathvariant="normal">m</m:mi>
                   <m:mn>2</m:mn>
@@ -1658,7 +1658,7 @@
           <m:mfenced>
             <m:mrow>
               <m:mn>0,03</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">m</m:mi>
             </m:mrow>
           </m:mfenced>
@@ -1709,7 +1709,7 @@
     <problem id="fs-id1171240167754">
       <para id="fs-id1171240167756">Galileusz zaproponował metodę pomiaru prędkości światła, w której on sam i jego asystent, wyposażeni w źródła światła, oddalili się od siebie na znaną odległość. Początkowo oba źródła światła były zasłonięte. Następnie Galileusz miał odsłonić swoje źródło, a asystent swoje natychmiast, gdy zobaczy światło Galileusza. Wystarczyło jedynie wyznaczyć opóźnienie rejestracji sygnału dokonanej przez Galileusza. Jak daleko od Galileusza musiałby się znajdować asystent, aby opóźnienie to było równe czasowi reakcji człowieka, czyli około <m:math display="inline">
         <m:mn>0,25</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">s</m:mi>
         </m:math>?</para></problem>
       <solution id="fs-id1171242086913">
@@ -1800,11 +1800,11 @@
                 <m:mi mathvariant="normal">kg</m:mi>
               </m:math> spaghetti o <m:math display="inline">
               <m:mn>45</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
             </m:math> w czasie <m:math display="inline">
             <m:mn>120</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">s</m:mi>
           </m:math>. <list id="eip-idm830372352" list-type="enumerated" number-style="lower-alpha"><item>Jaka jest szybkość pochłaniania energii przez spaghetti, jeśli jego ciepło właściwe wynosi <m:math display="inline">
             <m:mrow>
@@ -1815,14 +1815,14 @@
                 <m:mn>3</m:mn>
               </m:msup>
             </m:mrow>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mrow>
               <m:mi mathvariant="normal">J</m:mi>
               <m:mo>∕</m:mo>
               <m:mfenced>
                 <m:mrow>
                   <m:mi mathvariant="normal">kg</m:mi>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
                 </m:mrow>
               </m:mfenced>
@@ -1839,7 +1839,7 @@
         <solution id="fs-id1171242408405">
           <para id="fs-id1171242408407">a. <m:math display="inline">
             <m:mn>564</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">W</m:mi>
           </m:math>; b. <m:math display="inline">
           <m:mrow>
@@ -1850,7 +1850,7 @@
               <m:mn>4</m:mn>
             </m:msup>
           </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mrow>
             <m:mi mathvariant="normal">W</m:mi>
             <m:mo>∕</m:mo>
@@ -1868,7 +1868,7 @@
             <m:mn>3</m:mn>
           </m:msup>
         </m:mrow>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mrow>
           <m:mi mathvariant="normal">V</m:mi>
           <m:mo>∕</m:mo>
@@ -1883,7 +1883,7 @@
           <m:mrow><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow>
         </m:msup>
       </m:mrow>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">T</m:mi>
       </m:math>.</para></solution>
   </exercise>
@@ -1928,7 +1928,7 @@
   <problem id="fs-id1171240157496">
     <para id="fs-id1171242563395">Promieniowanie elektromagnetyczne emitowane przez laser o mocy <m:math display="inline">
       <m:mn>5</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">W</m:mi>
     </m:math> skupiono na powierzchni o polu równym <m:math display="inline">
     <m:mn>1</m:mn>
@@ -1953,7 +1953,7 @@
       </m:math>. Jakiej maksymalnej siły elektrycznej doświadczy ten ładunek?</item>
       <item>Jeśli ładunek ten będzie poruszał się z prędkością <m:math display="inline">
         <m:mn>400</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mrow>
           <m:mi mathvariant="normal">m</m:mi>
           <m:mo>∕</m:mo>
@@ -1972,7 +1972,7 @@
           <m:mn>3</m:mn>
         </m:msup>
       </m:mrow>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mrow>
         <m:mi mathvariant="normal">W</m:mi>
         <m:mo>∕</m:mo>
@@ -1990,7 +1990,7 @@
         <m:mrow><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow>
       </m:msup>
     </m:mrow>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">N</m:mi>
   </m:math>; c. <m:math display="inline">
   <m:mrow>
@@ -2001,7 +2001,7 @@
       <m:mrow><m:mo>−</m:mo><m:mn>12</m:mn></m:mrow>
     </m:msup>
   </m:mrow>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">N</m:mi>
   </m:math>.</para></solution>
 </exercise>
@@ -2020,7 +2020,7 @@
     <m:mn>10</m:mn>
     <m:mrow><m:mo>−</m:mo><m:mn>12</m:mn></m:mrow>
   </m:msup>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">T</m:mi>
 </m:math>. <list id="eip-idm1737274208" list-type="enumerated" number-style="lower-alpha">
 <item>Jaka moc jest przekazywana do cewki?</item>
@@ -2031,7 +2031,7 @@
   </m:math> cyklu?</item>
   <item>Jeśli odbiornik radiowy ma indukcyjność równą <m:math display="inline">
     <m:mn>2,5</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">µH</m:mi>
   </m:math>, to jaką musi mieć wartość pojemności, by rezonować przy częstotliwości <m:math display="inline">
   <m:mn>100</m:mn>
@@ -2290,7 +2290,7 @@
   <problem id="fs-id1171240222102">
     <para id="fs-id1171240222104">Natężenie promieniowania słonecznego padającego na Ziemię (czyli tzw. stała słoneczna) wynosi <m:math display="inline">
       <m:mn>1,37</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mrow>
         <m:mi mathvariant="normal">kW</m:mi>
         <m:mo>∕</m:mo>
@@ -2352,12 +2352,12 @@
         <problem id="fs-id1171242547521">
           <para id="fs-id1171242547523">Radary wykorzystuje się do pomiarów odległości do różnych obiektów, używając pomiaru czasu pomiędzy nadaniem a odbiorem echa sygnału odbitego od obiektu. <list id="eip-idm360010560" list-type="enumerated" number-style="lower-alpha"><item>Jak daleko znajduje się planeta Wenus, jeśli czas pomiędzy nadaniem sygnału a odbiorem echa wynosi <m:math display="inline">
               <m:mn>1000</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">s</m:mi>
               </m:math>?</item>
               <item>Ile wynosi czas odbioru echa dla samochodu oddalonego o <m:math display="inline">
                 <m:mn>75</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">m</m:mi>
                 </m:math> od nadajnika (popularny radar policyjny)?</item>
                 <item>Z jaką dokładnością (w nanosekundach) musi być mierzony czas do odbioru echa, jeśli odległość od samolotu oddalonego o <m:math display="inline">
@@ -2366,7 +2366,7 @@
                   <m:mi mathvariant="normal">km</m:mi>
                 </m:math> mierzona jest z dokładnością <m:math display="inline">
                 <m:mn>10</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">m</m:mi>
                 </m:math>?</item>
               </list></para>
@@ -2381,7 +2381,7 @@
                   <m:mn>11</m:mn>
                 </m:msup>
               </m:mrow>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">m</m:mi>
             </m:math>; b. <m:math display="inline">
             <m:mrow>
@@ -2392,7 +2392,7 @@
                 <m:mrow><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow>
               </m:msup>
             </m:mrow>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">s</m:mi>
           </m:math>; c. <m:math display="inline">
           <m:mn>33</m:mn>
@@ -2430,7 +2430,7 @@
       <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
     </m:math> wynosi około <m:math display="inline">
     <m:mn>343</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mrow>
       <m:mi mathvariant="normal">m</m:mi>
       <m:mo>∕</m:mo>
@@ -2457,7 +2457,7 @@
           <m:mfenced>
             <m:mrow>
               <m:mn>343</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mrow>
                 <m:mi mathvariant="normal">m</m:mi>
                 <m:mo>∕</m:mo>
@@ -2478,7 +2478,7 @@
         <m:mrow>
           <m:mrow>
             <m:mn>17,2</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">m</m:mi>
           </m:mrow>
 </m:mrow>
@@ -2508,7 +2508,7 @@
                   <m:mn>8</m:mn>
                 </m:msup>
               </m:mrow>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mrow>
                 <m:mi mathvariant="normal">m</m:mi>
                 <m:mo>∕</m:mo>
@@ -2536,7 +2536,7 @@
         <m:mrow>
           <m:mrow>
             <m:mn>291</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">m</m:mi>
           </m:mrow>
 </m:mrow>
@@ -2613,7 +2613,7 @@
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>2</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mrow>
           <m:mi mathvariant="normal">g</m:mi>
           <m:mo>∕</m:mo>
@@ -2630,7 +2630,7 @@
 <solution id="fs-id1171242419763">
   <para id="fs-id1171240130783"><m:math display="inline">
       <m:mn>0,29</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">µm</m:mi>
       </m:math>, ciśnienie promieniowania jest większe od grawitacji Słońca, jeśli cząstka jest mniejsza, ponieważ siła grawitacji zmienia się proporcjonalnie do objętości cząstki, a więc do sześcianu jej promienia, podczas gdy ciśnienie promieniowania zmienia się proporcjonalnie do kwadratu promienia cząstki.</para></solution>
   </exercise>
@@ -2647,11 +2647,11 @@
         <term xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cmlnle:reference="promieniowanie podczerwone">promieniowanie podczerwone (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">infrared radiation</term></foreign>)</term>
           <meaning id="fs-id1171240321760">zakres spektrum fal elektromagnetycznych, rozciągający się od zakresu poniżej koloru czerwonego aż do zakresu mikrofal, czyli od <m:math display="inline">
             <m:mn>0,74</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">µm</m:mi>
           </m:math> do <m:math display="inline">
           <m:mn>300</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">µm</m:mi>
         </m:math>
       </meaning>

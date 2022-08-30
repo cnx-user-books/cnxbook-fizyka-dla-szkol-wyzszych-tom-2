@@ -864,7 +864,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
         </list></note><example id="fs-id1172101794402">
         <para id="fs-id1172101703993"><title>Szeregowy obwód RLC</title>Generator napięcia zmiennego podłączony jest do szeregowego obwodu RLC i dostarcza napięcia o amplitudzie <m:math display="inline">
             <m:mn>0,1</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">V</m:mi>
           </m:math> przy częstotliwości <m:math display="inline">
           <m:mn>200</m:mn>
@@ -875,7 +875,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
         <m:mo>=</m:mo>
         <m:mrow>
           <m:mn>100</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">Ω</m:mi>
         </m:mrow>
       </m:math>, <m:math display="inline">
@@ -890,7 +890,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
             <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
           </m:msup>
         </m:mrow>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">H</m:mi>
       </m:mrow>
     </m:math>, a <m:math display="inline">
@@ -905,7 +905,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
           <m:mrow><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow>
         </m:msup>
       </m:mrow>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">F</m:mi>
     </m:mrow>
   </m:math>, ile wynosi <list id="eip-idm777425616" list-type="enumerated" number-style="lower-alpha">
@@ -947,7 +947,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
             <m:mo>⋅</m:mo>
             <m:mrow>
               <m:mn>200</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">Hz</m:mi>
             </m:mrow>
             <m:mo>⋅</m:mo>
@@ -960,7 +960,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
                   <m:mrow><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow>
                 </m:msup>
               </m:mrow>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">F</m:mi>
             </m:mrow>
           </m:mrow>
@@ -969,7 +969,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
         <m:mrow>
           <m:mrow>
             <m:mn>0,995</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
           <m:mo>⁢</m:mo>
@@ -999,7 +999,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
         <m:mo>⋅</m:mo>
         <m:mrow>
           <m:mn>200</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">Hz</m:mi>
         </m:mrow>
         <m:mo>⋅</m:mo>
@@ -1012,7 +1012,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
               <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
             </m:msup>
           </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">H</m:mi>
         </m:mrow>
       </m:mrow>
@@ -1020,7 +1020,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
       <m:mrow>
         <m:mrow>
           <m:mn>3,77</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">Ω</m:mi>
         </m:mrow>
         <m:mo>⁢</m:mo>
@@ -1049,7 +1049,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
       <m:mfenced>
         <m:mrow>
           <m:mn>4</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">Ω</m:mi>
         </m:mrow>
       </m:mfenced>
@@ -1061,13 +1061,13 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
         <m:mrow>
           <m:mrow>
             <m:mn>3,77</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
           <m:mo>−</m:mo>
           <m:mrow>
             <m:mn>0,995</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
         </m:mrow>
@@ -1079,7 +1079,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
   <m:mrow>
     <m:mrow>
       <m:mn>4,87</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
     <m:mo>⁢</m:mo>
@@ -1105,12 +1105,12 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
     <m:mfrac>
       <m:mrow>
         <m:mn>0,1</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
       </m:mrow>
       <m:mrow>
         <m:mn>4,87</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
     </m:mfrac>
@@ -1125,7 +1125,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
             <m:mrow><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow>
           </m:msup>
         </m:mrow>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:mrow>
       <m:mo>⁢</m:mo>
@@ -1163,12 +1163,12 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
       <m:mfrac>
         <m:mrow>
           <m:mn>2,77</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">Ω</m:mi>
         </m:mrow>
         <m:mrow>
           <m:mn>4</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">Ω</m:mi>
         </m:mrow>
       </m:mfrac>
@@ -1178,7 +1178,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
     <m:mrow>
       <m:mrow>
         <m:mn>0,607</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">rad</m:mi>
       </m:mrow>
       <m:mo>⁢</m:mo>
@@ -1288,19 +1288,19 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
         <problem id="fs-id1172101903315">
           <para id="fs-id1172101918773">Ile wynosi impedancja szeregowego połączenia opornika o oporze <m:math display="inline">
             <m:mn>50</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:math>, kondensatora o pojemności <m:math display="inline">
           <m:mn>5</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">µF</m:mi>
         </m:math> i kondensatora o pojemności <m:math display="inline">
         <m:mn>10</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">µF</m:mi>
       </m:math> zasilonego prądem zmiennym o częstotliwości <m:math display="inline">
       <m:mn>2</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">kHz</m:mi>
       </m:math>?</para></problem>
   </exercise>
@@ -1340,7 +1340,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>120</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
       </m:mrow>
     </m:math>, <m:math display="inline">
@@ -1350,7 +1350,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
       <m:mn>120</m:mn>
       <m:mo>⁢</m:mo>
       <m:mi>π</m:mi>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mrow>
         <m:mi mathvariant="normal">rad</m:mi>
         <m:mo>∕</m:mo>
@@ -1362,7 +1362,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>400</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:mrow>
 </m:math> i <m:math display="inline">
@@ -1381,11 +1381,11 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
 <solution id="fs-id1172101988433">
   <para id="fs-id1172101904987">a. <m:math display="inline">
     <m:mn>70</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:math>; b. <m:math display="inline">
   <m:mn>0,16</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">A</m:mi>
 </m:math>; c. <m:math display="inline">
 <m:mrow>
@@ -1402,7 +1402,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
 <m:mrow>
   <m:mrow>
     <m:mn>0,16</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">A</m:mi>
   </m:mrow>
   <m:mo>⋅</m:mo>
@@ -1434,7 +1434,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
 <m:mrow>
   <m:mrow>
     <m:mn>120</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:mrow>
   <m:mo>⋅</m:mo>
@@ -1466,7 +1466,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
 <m:mrow>
   <m:mrow>
     <m:mn>120</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:mrow>
   <m:mo>⋅</m:mo>
@@ -1529,7 +1529,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>120</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:mrow>
   </m:math>, a <m:math display="inline">
@@ -1539,7 +1539,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
     <m:mn>120</m:mn>
     <m:mo>⁢</m:mo>
     <m:mi>π</m:mi>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mrow>
       <m:mi mathvariant="normal">rad</m:mi>
       <m:mo>∕</m:mo>
@@ -1551,7 +1551,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>400</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
 </m:mrow>
 </m:math> i <m:math display="inline">
@@ -1559,7 +1559,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>1,5</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">H</m:mi>
 </m:mrow>
 </m:math>.<list id="eip-idm556213584" list-type="enumerated" number-style="lower-alpha"><item>Ile wynosi impedancja tego obwodu?</item>
@@ -1572,7 +1572,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
   <problem id="fs-id1172101759180">
     <para id="fs-id1172101759183">W szeregowym obwodzie RLC amplituda napięcia prądu wynosi <m:math display="inline">
       <m:mn>100</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:math>, jego częstotliwość <m:math display="inline">
     <m:mn>500</m:mn>
@@ -1583,7 +1583,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>500</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:mrow>
 </m:math>, <m:math display="inline">
@@ -1591,7 +1591,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>2</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">H</m:mi>
 </m:mrow>
 </m:math> i <m:math display="inline">
@@ -1599,7 +1599,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>2</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">µF</m:mi>
 </m:mrow>
 </m:math>.<list id="eip-idm882201840" list-type="enumerated" number-style="lower-alpha"><item>Jaka jest impedancja obwodu?</item>
@@ -1616,7 +1616,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
   <m:mrow>
     <m:mrow>
       <m:mn>100</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:mrow>
     <m:mo>⋅</m:mo>
@@ -1636,18 +1636,18 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
   </m:math>, to jak natężenie prądu zależy od czasu?</item>
   <item>Oblicz wszystkie poprzednie wielkości dla pojemności kondensatora wynoszącej <m:math display="inline">
     <m:mn>0,20</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">µF</m:mi>
     </m:math>.</item>
   </list></para></problem>
 <solution id="fs-id1172101911214">
   <para id="fs-id1172101889704">a. <m:math display="inline">
     <m:mn>690</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:math>; b. <m:math display="inline">
   <m:mn>0,15</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">A</m:mi>
 </m:math>; c. <m:math display="inline">
 <m:mrow>
@@ -1661,7 +1661,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
 <m:mrow>
   <m:mrow>
     <m:mn>0,15</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">A</m:mi>
   </m:mrow>
   <m:mo>⋅</m:mo>
@@ -1684,11 +1684,11 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
 </m:mrow>
 </m:math>; d. <m:math display="inline">
 <m:mn>1100</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">Ω</m:mi>
 </m:math>, <m:math display="inline">
 <m:mn>0,092</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">A</m:mi>
 </m:math>, <m:math display="inline">
 <m:mrow>
@@ -1702,7 +1702,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
 <m:mrow>
   <m:mrow>
     <m:mn>0,092</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">A</m:mi>
   </m:mrow>
   <m:mo>⋅</m:mo>
@@ -1729,7 +1729,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
   <problem id="fs-id1172101715571">
     <para id="fs-id1172101715573">Szeregowy obwód RLC zasilany jest źródłem o amplitudzie napięcia <m:math display="inline">
       <m:mn>50</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:math> i częstotliwości równej <m:math display="inline">
     <m:mn>500</m:mn>
@@ -1740,7 +1740,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>600</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:mrow>
 </m:math>, <m:math display="inline">
@@ -1748,7 +1748,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>30</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">mH</m:mi>
 </m:mrow>
 </m:math> i <m:math display="inline">
@@ -1756,7 +1756,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>0,05</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">µF</m:mi>
 </m:mrow>
 </m:math>.<list id="eip-idm183397296" list-type="enumerated" number-style="lower-alpha">
@@ -1786,7 +1786,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
   <solution id="fs-id1172101913197">
     <para id="fs-id1172101913199">a. <m:math display="inline">
       <m:mn>5,7</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:math>; b. <m:math display="inline"><m:semantics><m:mrow><m:mn>29</m:mn><m:mo>°</m:mo></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \ang{29}\</m:annotation></m:semantics></m:math>; c. <m:math display="inline">
   <m:mrow>
@@ -1800,7 +1800,7 @@ pola elektrycznego). Amplituda ruchu koła osiąga maksimum, gdy wybrzuszenia dr
   <m:mrow>
     <m:mrow>
       <m:mn>30</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
     </m:mrow>
     <m:mo>⋅</m:mo>

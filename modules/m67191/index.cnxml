@@ -24,25 +24,25 @@
       <title>Rezystancja rtęci</title>
       <para id="fs-id1170903048833">W roku 1911 duński fizyk <term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cxlxt:index="name" cxlxt:name="Kamerlingh Onnes, Heike" cxlxt:born="1853" cxlxt:died="1926" cmlnle:reference="Kamerlingh Onnes, Heike (1853–1926)">Heike Kamerlingh Onnes (1853–1926)</term> badał temperaturową zależność rezystancji rtęci. Schłodził jej próbkę i zauważył typową liniową zależność – gdy temperatura spadała, rezystancja malała. Kamerlingh Onnes chłodził próbkę rtęci w ciekłym helu. Gdy temperatura osiągnęła <m:math display="inline">
         <m:mn>4,2</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">K</m:mi>
       </m:math> (<m:math display="inline">
       <m:mrow><m:mo>−</m:mo><m:mn>269,2</m:mn></m:mrow>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
     </m:math>) rezystancja nagle spadła do zera (<link target-id="CNX_UPhysics_26_06_Resistance"/>). Ta temperatura jest nazywana <term xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cmlnle:reference="temperatura krytyczna">temperaturą krytyczną</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">critical temperature</term></foreign>) <m:math display="inline"><m:msub><m:mi>T</m:mi><m:mtext>c</m:mtext></m:msub></m:math> rtęci. Próbka rtęci weszła w fazę, gdy rezystancja wynosi zero. To zjawisko nazywane jest <term xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cmlnle:reference="nadprzewodnictwo">nadprzewodnictwem</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">superconductivity</term></foreign>). Gdy podłączymy elektrody trzycyfrowego omomierza do końców metalowego przewodu, odczyt będzie wynosił <m:math display="inline">
 <m:mn>0,00</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">Ω</m:mi>
 </m:math>. Rezystancja przewodu nie wynosi zero, jednak nie przekracza <m:math display="inline">
 <m:mn>0,01</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">Ω</m:mi>
 </m:math>. Istnieją metody pozwalające na pomiar bardzo małych rezystancji, na przykład metoda czteropunktowa, natomiast pomiar omomierzem nie jest wystarczającą metodą pomiaru rezystancji dla nadprzewodników.</para><figure id="CNX_UPhysics_26_06_Resistance"><media id="fs-id1170901914385" alt="Rysunek przedstawia rezystancję w omach w zależności od prądu w Kelwinach. Rezystancja wynosi zero dla 4,2 K. Potem rezystancja gwałtownie wzrasta a następnie powoli i liniowo rośnie wraz z temperaturą. ">
     <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_26_06_Resistance.jpg"/>
   </media>
   
-<caption>Rezystancja próbki rtęci wynosi zero w bardzo niskiej temperaturze, ponieważ jest ona nadprzewodnikiem do temperatury ok. <m:math display="inline"><m:mn>4,2</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">K</m:mi></m:math>. Powyżej temperatury krytycznej rezystancja nagle wzrasta, by następnie rosnąć prawie liniowo wraz z temperaturą.</caption></figure></section>
+<caption>Rezystancja próbki rtęci wynosi zero w bardzo niskiej temperaturze, ponieważ jest ona nadprzewodnikiem do temperatury ok. <m:math display="inline"><m:mn>4,2</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">K</m:mi></m:math>. Powyżej temperatury krytycznej rezystancja nagle wzrasta, by następnie rosnąć prawie liniowo wraz z temperaturą.</caption></figure></section>
 <section id="fs-id1170902633972">
   <title>Inne materiały nadprzewodzące</title>
   <para id="fs-id1170901493637">Badania kontynuowano i w ich wyniku odkryto inne materiały, które wchodziły w fazę nadprzewodzącą, gdy temperatura zbliżała się do zera absolutnego. W 1941 roku odkryto, że stop niobu i azotu może zostać wykorzystany jako nadprzewodnik w <m:math display="inline">
@@ -53,12 +53,12 @@
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>16</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">K</m:mi>
     </m:mrow>
   </m:math> (<m:math display="inline">
   <m:mrow><m:mo>−</m:mo><m:mn>257</m:mn></m:mrow>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
 </m:math>), natomiast w 1953 roku mieszanina wanadu i krzemu została wykorzystana jako nadprzewodnik w <m:math display="inline">
 <m:msub>
@@ -68,16 +68,16 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>17,5</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">K</m:mi>
 </m:mrow>
 </m:math> (<m:math display="inline">
 <m:mrow><m:mo>−</m:mo><m:mn>255,7</m:mn></m:mrow>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
 </m:math>). Wytwarzano materiały, których temperatury przejścia do fazy nadprzewodzącej były coraz wyższe. Ku zaskoczeniu badaczy wiele materiałów, które są dobrymi przewodnikami, np. miedź, srebro, złoto, nie wykazało właściwości nadprzewodzących. Wyobraźmy sobie oszczędność energii elektrycznej, gdyby linie przesyłowe wykonywano z materiałów nadprzewodzących w temperaturze pokojowej. Rezystancja równa <m:math display="inline">
 <m:mn>0</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">Ω</m:mi>
 </m:math> oznacza brak strat związanych z <m:math display="inline">
 <m:msup>
@@ -94,7 +94,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>17,5</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">K</m:mi>
 </m:mrow>
 </m:math>, która jest wciąż bardzo niska, w zakresie temperatur ciekłego helu. W tej temperaturze nie opłaca się przesyłać energii elektrycznej z powodu konieczności chłodzenia.</para><para id="fs-id1170901863071">Dużego postępu dokonano w 1986 roku, gdy grupa naukowców kierowana przez doktora Ching Wu Chu z Uniwersytetu w Houston wyprodukowała kruchy, ceramiczny związek, którego temperatura krytyczna wynosiła <m:math display="inline">
@@ -105,12 +105,12 @@
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>92</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">K</m:mi>
   </m:mrow>
 </m:math> (<m:math display="inline">
 <m:mrow><m:mo>−</m:mo><m:mn>181</m:mn></m:mrow>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
 </m:math>). Ten materiał złożony z itru, baru, miedzi i tlenu (YBCO, ang. <foreign>yttrium barium copper oxide</foreign>) jest izolatorem w temperaturze pokojowej. Mimo że jego temperatura krytyczna wciąż jest bardzo niska, to jednak większa niż temperatura wrzenia ciekłego azotu, często wykorzystywanego do chłodzenia w warunkach laboratoryjnych.</para><para id="fs-id1170902880514">Materiał ceramiczny YBCO mógłby być używany do przesyłania energii elektrycznej, ponieważ koszty zaoszczędzone na zmniejszeniu strat <m:math display="inline">
   <m:msup>
@@ -123,7 +123,7 @@
   <para id="fs-id1170901588048">Ciekawą konsekwencją zerowej rezystancji jest ciągły przepływ prądu bez potrzeby przykładania napięcia. W nadprzewodnikach obserwuje się pętle prądów płynących przez wiele lat bez spadku natężenia.</para>
   <para id="fs-id1170901636063">Zerowa rezystancja nie jest jedynym ciekawym zjawiskiem występującym w nadprzewodnikach, gdy one osiągną temperaturę krytyczną. Drugim jest wypychanie pola magnetycznego przez nadprzewodnik, zwane <term xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cmlnle:reference="efekt Meissnera">efektem Meissnera</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">Meissner effect</term></foreign>) – <link target-id="CNX_UPhysics_26_06_Meissner"/>. Lekki magnes umieszczony ponad nadprzewodnikiem będzie nad nim lewitował w stałej pozycji. Pociągi poruszające się z olbrzymimi prędkościami lewitują nad bardzo silnymi magnesami nadprzewodzącymi, co wyklucza opory ruchu pomiędzy pociągiem a szynami. W Japonii już w 1997 roku otwarto linię kolejową wykorzystującą ten efekt nadprzewodników, nazwano ją Yamanashi Maglev. W kwietniu 2015 roku pociągi kursujące na niej osiągały już prędkość <m:math display="inline">
   <m:mn>603</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mrow>
     <m:mi mathvariant="normal">km</m:mi>
     <m:mo>∕</m:mo>
@@ -170,7 +170,7 @@
 </m:msub>
 </m:math>) wskazuje spin elektronu, w górę lub w dół. Gdy materiał wchodzi w stan nadprzewodzący, pary elektronów zachowują się jak bozony, które mogą kondensować w tej samej energii i nie podlegają regule Pauliego. Pary elektronowe mają mniejszą energię, co powoduje powstanie przerwy energetycznej rzędu <m:math display="inline">
 <m:mn>0,001</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">eV</m:mi>
 </m:math>. Dla par elektronów poniżej tej przerwy energetycznej zanika interakcja pomiędzy nimi a siecią krystaliczną, która jest przyczyną rezystancji. Gdy materiał znajduje się w temperaturze niższej od temperatury krytycznej, energia termiczna jest mniejsza niż przerwa energetyczna, co sprawia, że materiał ma zerową rezystancję. </para><table id="fs-id1170903044999" summary="This table has five columns and twenty three rows. The first row is a header row and it labels each column: “Material”, “Symbol or Formula”, “Critical Temperature Tc in Kelvin”, “Critical Magnetic Field Hc in Tesla” and “Type”. Under the “Material” column is the list of materials: Lead; Lanthanum; Tantalum; Mercury; Tin; Indium; Thallium; Rhenium; Thorium; Protactinium; Aluminum; Gallium; Zinc; Titanium; Uranium; Cadmium; Niobium-germanium; Niobium-tin; Niobium-nitrite; Niobium-titanium; blank; blank; blank. Under the “Symbol or Formula” column is the list: Pb; La; Ta; Hg; Sn; In; Tl; Re; Th; Pa; Al; Ga; Zn; Ti; U; Cd; Nb3Ge; Nb3Sn; NbN; NbTi; HgBa2CaCu2O8; Tl2Ba2Ca2Cu3O10; YBa2Cu3O7. Under the “Critical Temperature” column is the list of values: 7.19; alpha 4.90 – beta 6.30; 4.48; alpha 4.15 – beta 3.95; 3.72; 3.40; 2.39; 2.40; 1.37; 1.40; 1.20; 1.10; 0.86; 0.39; alpha 0.68 – beta 1.80; 11.4; 23.20; 18.30; 16.00; 10.00; 134.00; 125.00; 92.00. Under the “Magnetic Field” column is the list of values: 0.08; blank; 0.09; 0.04; 0.03; 0.03; 0.03; 0.03; 0.013; blank; 0.01; 0.005; 0.014; 0.01; blank; 4; 37.00; 30.00; blank; 15.00; blank; blank; 120.00. Under the “Type” column is the list of numbers: I; I; I; I; I; I; I; I; I; I; I; I; I; I; I; I; II; II; II; II; II; II; II."><title>Temperatury krytyczne dla nadprzewodników.</title><tgroup cols="5">
     <colspec colnum="1" colname="c1"/>
@@ -573,9 +573,9 @@
         <m:mn>10</m:mn>
         <m:mrow><m:mo>−</m:mo><m:mn>14</m:mn></m:mrow>
       </m:msup>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">T</m:mi>
-    </m:math> (pole magnetyczne Ziemi wynosi <m:math display="inline"><m:semantics><m:mrow><m:mrow><m:mn>3</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-6</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">T</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{3e-6}{\tesla}</m:annotation></m:semantics></m:math>).</caption></figure><para id="fs-id1170902695779">Nadprzewodnictwo jest fascynującym i przydatnym zjawiskiem zachodzącym w temperaturze krytycznej, która jest bliska temperaturze wrzenia ciekłego azotu. Znalazło ono zastosowanie w MRI, przyspieszaczu cząstek i szybkich pociągach. Czy uda się opracować materiały o temperaturach krytycznych bliskich temperaturze pokojowej? Wydaje się to jeszcze odległe, jednak naukowcy w 1911 roku twierdzili, że nie jest możliwe osiągnięcie temperatur krytycznych bliskich temperaturze ciekłego azotu.</para>
+    </m:math> (pole magnetyczne Ziemi wynosi <m:math display="inline"><m:semantics><m:mrow><m:mrow><m:mn>3</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-6</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">T</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{3e-6}{\tesla}</m:annotation></m:semantics></m:math>).</caption></figure><para id="fs-id1170902695779">Nadprzewodnictwo jest fascynującym i przydatnym zjawiskiem zachodzącym w temperaturze krytycznej, która jest bliska temperaturze wrzenia ciekłego azotu. Znalazło ono zastosowanie w MRI, przyspieszaczu cząstek i szybkich pociągach. Czy uda się opracować materiały o temperaturach krytycznych bliskich temperaturze pokojowej? Wydaje się to jeszcze odległe, jednak naukowcy w 1911 roku twierdzili, że nie jest możliwe osiągnięcie temperatur krytycznych bliskich temperaturze ciekłego azotu.</para>
 </section>
 <section id="fs-id1170902924393" class="key-concepts">
   <title>Podsumowanie</title>
@@ -857,14 +857,14 @@
   <exercise id="fs-id1170903033483"><problem id="fs-id1170902656240">
       <para id="fs-id1170901636779">Rozważ elektrownię oddaloną o <m:math display="inline">
         <m:mn>60</m:mn>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">km</m:mi>
       </m:math> od domów mieszkalnych. Do przesyłu energii elektrycznej są używane przewody z miedzi o powierzchni przekroju poprzecznego <m:math display="inline">
       <m:mi>S</m:mi>
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>42,4</m:mn>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:msup>
           <m:mi mathvariant="normal">mm</m:mi>
           <m:mn>2</m:mn>
@@ -875,7 +875,7 @@
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>100</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
     </m:mrow>
     </m:math>. Jaka moc jest tracona w przewodach miedzianych, czego można byłoby uniknąć, używając przewodów nadprzewodzących?</para>
@@ -890,7 +890,7 @@
         <m:mrow>
           <m:mrow>
             <m:mn>0,24</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
 </m:mrow>
@@ -909,7 +909,7 @@
               <m:mn>3</m:mn>
             </m:msup>
           </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">W</m:mi>
         </m:mrow>
       </m:math>.
@@ -928,16 +928,16 @@
         <m:mo>−</m:mo>
         <m:mrow>
           <m:mn>0,06</m:mn>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
-          <m:msup>
-            <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
-            <m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow>
-          </m:msup>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
+          <m:mmultiscripts>
+            <m:mi mathvariant="normal">°</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow>
+          <m:mi mathvariant="normal">C</m:mi>
+            </m:mmultiscripts>
         </m:mrow>
       </m:mrow>
-    </m:math>), w momencie gdy jego temperatura jest równa temperaturze ciała pacjenta. Ile wynosi temperatura ciała pacjenta, jeśli rezystancja termistora wynosi w niej <m:math display="inline"><m:semantics><m:mrow><m:mn>82</m:mn><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">%</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{82}{\percent}</m:annotation></m:semantics></m:math> jego rezystancji w <m:math display="inline">
+    </m:math>), w momencie gdy jego temperatura jest równa temperaturze ciała pacjenta. Ile wynosi temperatura ciała pacjenta, jeśli rezystancja termistora wynosi w niej <m:math display="inline"><m:semantics><m:mrow><m:mn>82</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">%</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{82}{\percent}</m:annotation></m:semantics></m:math> jego rezystancji w <m:math display="inline">
   <m:mn>37</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
   </m:math> (temperatura zdrowego człowieka)?</para></problem>
 <solution id="fs-id1170901634583">
@@ -1023,7 +1023,7 @@
           <m:mo>−</m:mo>
           <m:mrow>
             <m:mn>37</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
           </m:mrow>
         </m:mrow>
@@ -1035,7 +1035,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>40</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
 </m:mrow>
 </m:math>.</para></solution>
@@ -1047,28 +1047,28 @@
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>30</m:mn>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
     </m:math> podłączono do baterii <m:math display="inline">
     <m:mn>9</m:mn>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math>. Jego elektrody są wodoodporne. Umieszczono je w wodzie o temperaturze pokojowej (<m:math display="inline">
   <m:mi>T</m:mi>
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>20</m:mn>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
   </m:mrow>
 </m:math>) i o masie <m:math display="inline">
 <m:mn>1</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">kg</m:mi>
 </m:math>. Prąd przepływał przez rezystor przez <m:math display="inline">
 <m:mn>20</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">min</m:mi>
 </m:math>. Oblicz końcową temperaturę wody, zakładając, że cała energia elektryczna oddana przez rezystor została zamieniona na ciepło.</para></problem>
 </exercise>
@@ -1076,16 +1076,16 @@
   <problem id="fs-id1170903091892">
     <para id="fs-id1170901606744">Złoty drut <m:math display="inline">
       <m:mn>12</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">AWG</m:mi>
     </m:math> ma długość <m:math display="inline">
     <m:mn>1</m:mn>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">m</m:mi>
   </m:math>.<list id="eip-idm249189440" list-type="enumerated" number-style="lower-alpha">
   <item>Jaka będzie długość srebrnego drutu <m:math display="inline">
     <m:mn>12</m:mn>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">AWG</m:mi>
     </m:math> o takiej samej rezystancji?</item>
     <item>Ile będą wynosiły rezystancje tych drutów w temperaturze wrzenia wody?</item>
@@ -1148,7 +1148,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>1,53</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">m</m:mi>
 </m:mrow>
 </m:math>; b. <m:math display="inline">
@@ -1159,7 +1159,7 @@
     <m:mo>⁢</m:mo>
     <m:mrow>
       <m:mn>20</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
     </m:mrow>
   </m:mrow>
@@ -1167,7 +1167,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>0,0074</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
 </m:mrow>
 </m:math>, <m:math display="inline">
@@ -1178,7 +1178,7 @@
     <m:mo>⁢</m:mo>
     <m:mrow>
       <m:mn>100</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
     </m:mrow>
   </m:mrow>
@@ -1186,7 +1186,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>0,0094</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
 </m:mrow>
 </m:math>, <m:math display="inline">
@@ -1197,7 +1197,7 @@
     <m:mo>⁢</m:mo>
     <m:mrow>
       <m:mn>100</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
     </m:mrow>
   </m:mrow>
@@ -1205,14 +1205,14 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>0,0096</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
 </m:mrow>
 </m:math>.</para></solution>
 </exercise>
 <exercise id="fs-id1170902916480">
   <problem id="fs-id1170902738034">
-    <para id="fs-id1170902691535">O ile musi zmienić się temperatura, aby zmniejszyć rezystancję rezystora węglowego o <m:math display="inline"><m:semantics><m:mrow><m:mn>10</m:mn><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">%</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{10}{\percent}</m:annotation></m:semantics></m:math>?</para></problem>
+    <para id="fs-id1170902691535">O ile musi zmienić się temperatura, aby zmniejszyć rezystancję rezystora węglowego o <m:math display="inline"><m:semantics><m:mrow><m:mn>10</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">%</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{10}{\percent}</m:annotation></m:semantics></m:math>?</para></problem>
   </exercise>
 </section>
 <section id="fs-id1170901698382" class="review-additional-problems">
@@ -1221,7 +1221,7 @@
     <problem id="fs-id1170901593532">
       <para id="fs-id1170902753440">W kablu koncentrycznym o długości <m:math display="inline">
         <m:mn>10</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">m</m:mi>
       </m:math> promień wewnętrznego przewodnika wynosi <m:math display="inline">
       <m:msub>
@@ -1231,7 +1231,7 @@
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>0,25</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">cm</m:mi>
       </m:mrow>
     </m:math>, a zewnętrznego <m:math display="inline">
@@ -1242,7 +1242,7 @@
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>0,5</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">cm</m:mi>
     </m:mrow>
   </m:math>. Plastik o rezystywności <m:math display="inline">
@@ -1257,10 +1257,10 @@
         <m:mn>13</m:mn>
       </m:msup>
     </m:mrow>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mrow>
       <m:mi mathvariant="normal">Ω</m:mi>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">m</m:mi>
     </m:mrow>
   </m:mrow>
@@ -1341,7 +1341,7 @@
         <m:mn>11</m:mn>
       </m:msup>
     </m:mrow>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:mrow>
   </m:math>.</para></solution>
@@ -1350,7 +1350,7 @@
   <problem id="fs-id1170903085854">
     <para id="fs-id1170901625603">10-metrowy miedziany kabel ma rezystancję <m:math display="inline">
       <m:mn>0,051</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:math>.<list id="eip-idm1014673824" list-type="enumerated" number-style="lower-alpha">
     <item>Jaka jest jego masa?</item>
@@ -1359,7 +1359,7 @@
   </list>
   Gęstość miedzi wynosi <m:math display="inline">
     <m:mn>8960</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mrow>
       <m:mi mathvariant="normal">kg</m:mi>
       <m:mo>∕</m:mo>
@@ -1370,7 +1370,7 @@
     </m:mrow>
   </m:math>, natomiast gęstość aluminium to <m:math display="inline">
   <m:mn>2760</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mrow>
     <m:mi mathvariant="normal">kg</m:mi>
     <m:mo>∕</m:mo>
@@ -1384,11 +1384,11 @@
 <exercise id="fs-id1170902756728"><problem id="fs-id1170903088450">
     <para id="fs-id1170903063994">Pręt z nichromu, który ma <m:math display="inline">
       <m:mn>3</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">mm</m:mi>
     </m:math> długości oraz powierzchnię przekroju czynnego <m:math display="inline">
     <m:mn>1</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:msup>
       <m:mi mathvariant="normal">mm</m:mi>
       <m:mn>2</m:mn>
@@ -1415,7 +1415,7 @@
           <m:mn>6</m:mn>
         </m:msup>
       </m:mrow>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
   </m:math>; b. <m:math display="inline">
@@ -1426,7 +1426,7 @@
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>37</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
   </m:mrow>
 </m:math>, <m:math display="inline">
@@ -1441,7 +1441,7 @@
       <m:mrow><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow>
     </m:msup>
   </m:mrow>
- <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+ <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
 </m:mrow>
 </m:math>.</para>
@@ -1450,22 +1450,22 @@
   <problem id="fs-id1170901771817">
     <para id="fs-id1170901999916">Temperatura w Warszawie może wahać się pomiędzy <m:math display="inline">
       <m:mrow><m:mo>−</m:mo><m:mn>15</m:mn></m:mrow>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
     </m:math> zimą a <m:math display="inline">
     <m:mn>30</m:mn>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
     </m:math> latem. O ile procent zmienia się rezystancja drutu aluminiowego w ciągu roku?</para></problem>
 </exercise>
 <exercise id="fs-id1170901597874"><problem id="fs-id1170901599142">
     <para id="fs-id1170899336608">Gdy napięcie <m:math display="inline">
       <m:mn>100</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:math> jest przyłożone do 10-metrowego drutu o średnicy <m:math display="inline">
     <m:mn>4,621</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">mm</m:mi>
   </m:math>, gęstość prądu wynosi <m:math display="inline">
   <m:mrow>
@@ -1476,7 +1476,7 @@
       <m:mn>8</m:mn>
     </m:msup>
   </m:mrow>
- <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+ <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mrow>
     <m:mi mathvariant="normal">A</m:mi>
     <m:mo>∕</m:mo>
@@ -1501,10 +1501,10 @@
             <m:mrow><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow>
           </m:msup>
         </m:mrow>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mrow>
           <m:mi mathvariant="normal">Ω</m:mi>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">m</m:mi>
         </m:mrow>
       </m:mrow>
@@ -1514,7 +1514,7 @@
     <problem id="fs-id1170901743035">
       <para id="fs-id1170902773659">Drut o rezystancji <m:math display="inline">
         <m:mn>5</m:mn>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
         </m:math> został wyciągnięty w taki sposób, że jego długość zwiększyła się dwukrotnie. Oblicz rezystancję nowego drutu. Załóż, że rezystywność i gęstość materiału się nie zmieniły.</para></problem>
     </exercise>
@@ -1531,7 +1531,7 @@
                 <m:mrow><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow>
               </m:msup>
             </m:mrow>
-           <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+           <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:msup>
               <m:mi mathvariant="normal">m</m:mi>
               <m:mn>2</m:mn>
@@ -1539,11 +1539,11 @@
           </m:mrow>
         </m:math>, długości <m:math display="inline">
         <m:mn>5</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">m</m:mi>
       </m:math> oraz rezystancji <m:math display="inline">
       <m:mn>5,1</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">mΩ</m:mi>
       </m:math>?</para>
     </problem>
@@ -1561,10 +1561,10 @@
                 <m:mrow><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow>
               </m:msup>
             </m:mrow>
-           <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+           <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mrow>
               <m:mi mathvariant="normal">Ω</m:mi>
-             <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+             <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">m</m:mi>
             </m:mrow>
           </m:mrow>
@@ -1574,35 +1574,35 @@
         <problem id="fs-id1170902672997">
           <para id="fs-id1170903033467">Zwojnice z drutu często wykorzystuje się w obwodach elektrycznych i elektronicznych. Rozważ zwojnicę, która została utworzona z 1000 zwojów izolowanego drutu miedzianego o powierzchni przekroju poprzecznego <m:math display="inline">
             <m:mn>0,52</m:mn>
-           <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+           <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:msup>
               <m:mi mathvariant="normal">mm</m:mi>
               <m:mn>2</m:mn>
             </m:msup>
           </m:math>, nawiniętego na cylindryczny nieprzewodzący rdzeń o promieniu <m:math display="inline">
           <m:mn>2</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">mm</m:mi>
           </m:math>. Ile wynosi rezystancja zwojnicy? Pomiń grubość izolacji drutu.</para></problem>
       </exercise>
       <exercise id="fs-id1170899453567"><problem id="fs-id1170902907300">
           <para id="fs-id1170902907302">Prąd o natężeniu ok. <m:math display="inline">
             <m:mn>0,06</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">A</m:mi>
           </m:math> może być śmiertelny. Powoduje on migotanie serca (nieregularne bicie serca). Rezystancja suchego człowieka wynosi ok. <m:math display="inline">
           <m:mn>100</m:mn>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">kΩ</m:mi>
         </m:math>.<list id="eip-idm505587056" list-type="enumerated" number-style="lower-alpha">
         <item>Jaka wartość przyłożonego napięcia powoduje przepływ prądu o natężeniu <m:math display="inline">
           <m:mn>0,2</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">A</m:mi>
           </m:math> przez suchego człowieka?</item>
           <item>Gdy człowiek jest mokry, jego rezystancja spada do <m:math display="inline">
             <m:mn>100</m:mn>
-           <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+           <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
             </m:math>. Jakie napięcie może zaszkodzić mokremu człowiekowi?</item>
           </list>
@@ -1614,7 +1614,7 @@
           <m:mo>=</m:mo>
           <m:mrow>
             <m:mn>6000</m:mn>
-           <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+           <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">V</m:mi>
           </m:mrow>
         </m:math>; b. <m:math display="inline">
@@ -1622,7 +1622,7 @@
         <m:mo>=</m:mo>
         <m:mrow>
           <m:mn>60</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">V</m:mi>
         </m:mrow>
         </m:math>.</para>
@@ -1631,11 +1631,11 @@
       <problem id="fs-id1170901842722">
         <para id="fs-id1170901802930">Rezystor o rezystancji <m:math display="inline">
           <m:mn>20</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">Ω</m:mi>
         </m:math> oraz mocy <m:math display="inline">
         <m:mn>5</m:mn>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">W</m:mi>
       </m:math> podłączono szeregowo do źródła zasilania.<list id="eip-idm381855680" list-type="enumerated" number-style="lower-alpha">
       <item>Jakie maksymalne napięcie może zostać przyłożone do rezystora, aby go nie uszkodzić?</item>
@@ -1646,15 +1646,15 @@
 <exercise id="fs-id1170901628174"><problem id="fs-id1170901628176">
     <para id="fs-id1170901482923">Bateria, która jest źródłem siły elektromotorycznej o wartości <m:math display="inline">
       <m:mn>24</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:math>, dostarcza stały prąd o natężeniu <m:math display="inline">
     <m:mn>2</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">mA</m:mi>
   </m:math> do urządzenia. Jaką pracę wykonuje bateria w ciągu <m:math display="inline">
   <m:mn>3</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">min</m:mi>
   </m:math>?</para>
 </problem>
@@ -1673,7 +1673,7 @@
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>8,64</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">J</m:mi>
     </m:mrow>
     </m:math>.</para>
@@ -1682,13 +1682,13 @@
   <problem id="fs-id1170902956104">
     <para id="fs-id1170903029459">12-woltowa bateria ma rezystancję wewnętrzną równą <m:math display="inline">
       <m:mn>0,1</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:math>.<list id="eip-idm410000256" list-type="enumerated" number-style="lower-alpha">
     <item>Jakie natężenie ma prąd płynący przez baterię, gdy przez moment zostaną zwarte jej elektrody?</item>
     <item>Ile wynosi napięcie, jeśli bateria dostarcza do obwodu prąd o natężeniu <m:math display="inline">
       <m:mn>0,25</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
       </m:math>?</item>
     </list>
@@ -1703,7 +1703,7 @@
         <m:mo>=</m:mo>
         <m:mrow>
           <m:mn>5,26</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:msup>
             <m:mi mathvariant="normal">mm</m:mi>
             <m:mn>2</m:mn>
@@ -1714,7 +1714,7 @@
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>5</m:mn>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:mrow>
     </m:math>. Gęstość miedzi wynosi <m:math display="inline">
@@ -1722,7 +1722,7 @@
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>8,95</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mrow>
         <m:mi mathvariant="normal">g</m:mi>
         <m:mo>∕</m:mo>
@@ -1741,7 +1741,7 @@
   </m:msup>
 </m:math> atomów) ma masę <m:math display="inline">
 <m:mn>63,5</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">g</m:mi>
 </m:math>. Ile wynosi prędkość dryfu elektronów przy założeniu, że na jeden atom miedzi przypada jeden swobodny elektron?</para></problem>
 <solution id="fs-id1170902848732">
@@ -1751,7 +1751,7 @@
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>7,09</m:mn>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:msup>
           <m:mi mathvariant="normal">cm</m:mi>
           <m:mn>3</m:mn>
@@ -1769,7 +1769,7 @@
           <m:mn>28</m:mn>
         </m:msup>
       </m:mrow>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mrow>
         <m:mi mathvariant="normal">elektronów</m:mi>
         <m:mo>∕</m:mo>
@@ -1794,7 +1794,7 @@
         <m:mrow><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow>
       </m:msup>
     </m:mrow>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mrow>
       <m:mi mathvariant="normal">m</m:mi>
       <m:mo>∕</m:mo>
@@ -1807,7 +1807,7 @@
   <problem id="fs-id1170902924996">
     <para id="fs-id1170902672781">Natężenie prądu przepływającego przez drut <m:math display="inline">
       <m:mn>12</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">AWG</m:mi>
     </m:math> wynosi <m:math display="inline">
     <m:mrow>
@@ -1821,7 +1821,7 @@
     <m:mrow>
       <m:mrow>
         <m:mn>5</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:mrow>
       <m:mo>⋅</m:mo>
@@ -1837,7 +1837,7 @@
             <m:mo>⋅</m:mo>
             <m:mrow>
               <m:mn>60</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">Hz</m:mi>
             </m:mrow>
             <m:mo>⋅</m:mo>
@@ -1848,22 +1848,22 @@
     </m:mrow>
   </m:math>. Ile wynosi gęstość prądu w <m:math display="inline">
   <m:mn>15</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">ms</m:mi>
   </m:math>?</para></problem>
 </exercise>
 <exercise id="fs-id1170902960875"><problem id="fs-id1170902960877">
     <para id="fs-id1170901680114">Przyspieszacz cząstek wytwarza wiązkę o promieniu <m:math display="inline">
       <m:mn>1,25</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">mm</m:mi>
     </m:math> i natężeniu prądu <m:math display="inline">
     <m:mn>2</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">mA</m:mi>
   </m:math>. Każdy proton ma energię kinetyczną wynoszącą <m:math display="inline">
   <m:mn>10</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">MeV</m:mi>
 </m:math>.<list id="eip-idm1286084176" list-type="enumerated" number-style="lower-alpha"><item>Jaka jest prędkość protonów?</item>
 <item>Ile wynosi liczba protonów na jednostkę objętości <m:math display="inline">
@@ -1884,7 +1884,7 @@
           <m:mn>7</m:mn>
         </m:msup>
       </m:mrow>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mrow>
         <m:mi mathvariant="normal">m</m:mi>
         <m:mo>∕</m:mo>
@@ -1903,7 +1903,7 @@
         <m:mn>13</m:mn>
       </m:msup>
     </m:mrow>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mrow>
       <m:mi mathvariant="normal">protonów</m:mi>
       <m:mo>∕</m:mo>
@@ -1976,7 +1976,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>10</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
 </m:mrow>
 </m:math>. Natężenie prądu w tym obwodzie zmienia się sinusoidalnie, według zależności <m:math display="inline">
@@ -1991,7 +1991,7 @@
 <m:mrow>
   <m:mrow>
     <m:mn>3</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">A</m:mi>
   </m:mrow>
   <m:mo>⋅</m:mo>
@@ -2008,7 +2008,7 @@
           <m:mo>∕</m:mo>
           <m:mrow>
             <m:mn>4</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">s</m:mi>
           </m:mrow>
         </m:mrow>
@@ -2060,12 +2060,12 @@
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>25</m:mn>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:mrow>
     </m:math> wypływa ze 100-woltowej baterii przez <m:math display="inline">
     <m:mn>30</m:mn>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">s</m:mi>
     </m:math>. O ile zmniejszy się energia chemiczna baterii?</para>
   </problem>
@@ -2076,7 +2076,7 @@
         <m:mo>=</m:mo>
         <m:mrow>
           <m:mn>75</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">kJ</m:mi>
         </m:mrow>
         </m:math>.</para>
@@ -2087,7 +2087,7 @@
           <m:mo>=</m:mo>
           <m:mrow>
             <m:mn>3</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">cm</m:mi>
           </m:mrow>
         </m:math> oraz gęstością prądu</para><equation id="eip-idm1550721536" class="unnumbered"><m:math display="block">
@@ -2121,7 +2121,7 @@
           <m:mrow>
             <m:mrow>
               <m:mn>0,35</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mfrac>
                 <m:mi mathvariant="normal">A</m:mi>
                 <m:msup>
@@ -2143,7 +2143,7 @@
                       <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
                     </m:msup>
                   </m:mrow>
-                 <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                 <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:msup>
                     <m:mi mathvariant="normal">m</m:mi>
                     <m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow>
@@ -2170,15 +2170,15 @@
     </exercise><exercise id="fs-id1170901567370"><problem id="fs-id1170903011178">
         <para id="fs-id1170903011180">Rezystor o nieznanej rezystancji umieszczono w izolowanym pojemniku wypełnionym <m:math display="inline">
           <m:mn>0,75</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">kg</m:mi>
         </m:math> wody. Źródło napięcia jest podłączone szeregowo do rezystora, przez który przepływa prąd o natężeniu <m:math display="inline">
         <m:mn>1,2</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:math> przez <m:math display="inline">
       <m:mn>10</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">min</m:mi>
     </m:math>. W tym czasie temperatura wody zmieniła się o <m:math display="inline">
     <m:mrow>
@@ -2188,7 +2188,7 @@
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>10</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
     </m:mrow>
   </m:math>.<list id="eip-idm334061040" list-type="enumerated" number-style="lower-alpha">
@@ -2203,7 +2203,7 @@
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>52</m:mn>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">W</m:mi>
     </m:mrow>
   </m:math>, <m:math display="inline">
@@ -2211,7 +2211,7 @@
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>36</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:mrow>
 </m:math>; b. <m:math display="inline">
@@ -2219,7 +2219,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>43,54</m:mn>
- <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+ <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">V</m:mi>
 </m:mrow>
 </m:math>.</para>
@@ -2257,7 +2257,7 @@
       <m:mrow>
         <m:mrow>
           <m:mn>10</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">C</m:mi>
         </m:mrow>
         <m:mo>⋅</m:mo>
@@ -2270,7 +2270,7 @@
               <m:mo>∕</m:mo>
               <m:mrow>
                 <m:mn>5</m:mn>
-               <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+               <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">s</m:mi>
               </m:mrow>
             </m:mrow>
@@ -2282,7 +2282,7 @@
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>0</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">s</m:mi>
       </m:mrow>
       </m:math>?</item>
@@ -2301,7 +2301,7 @@
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>0,2</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">mm</m:mi>
       </m:mrow>
     </m:math>, natomiast zewnętrzny <m:math display="inline">
@@ -2312,7 +2312,7 @@
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>0,3</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">mm</m:mi>
     </m:mrow>
   </m:math>. Długość rezystora wynosi <m:math display="inline">
@@ -2320,7 +2320,7 @@
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>0,9</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">mm</m:mi>
   </m:mrow>
 </m:math>. Rezystywność węgla ma wartość <m:math display="inline">
@@ -2335,10 +2335,10 @@
       <m:mrow><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow>
     </m:msup>
   </m:mrow>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mrow>
     <m:mi mathvariant="normal">Ω</m:mi>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">m</m:mi>
   </m:mrow>
 </m:mrow>
@@ -2427,7 +2427,7 @@
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>2,5</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">mΩ</m:mi>
   </m:mrow>
   </m:math>.</para></solution>
@@ -2438,7 +2438,7 @@
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>0,1</m:mn>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">mm</m:mi>
       </m:mrow>
     </m:math>, jeśli gęstość prądu wynosi <m:math display="inline">
@@ -2464,7 +2464,7 @@
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>32 000</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mrow>
       <m:mi mathvariant="normal">A</m:mi>
       <m:mo>∕</m:mo>
@@ -2479,7 +2479,7 @@
 <exercise id="fs-id1170901784814"><problem id="fs-id1170901784816">
     <para id="fs-id1170902790488">Student używa 100-watowego grzejnika zasilanego napięciem <m:math display="inline">
       <m:mn>115</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:math> do ogrzania pokoju w akademiku w godzinach od 18 do 7 rano.<list id="eip-idm765542896" list-type="enumerated" number-style="lower-alpha">
     <item>Jakie natężenie ma prąd płynący przez grzejnik?</item>
@@ -2495,7 +2495,7 @@
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>8,69</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
     </m:mrow>
   </m:math>; b. Liczba elektronów wynosi <m:math display="inline">
@@ -2510,7 +2510,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>13,23</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
 </m:mrow>
 </m:math>; d. <m:math display="inline">
@@ -2525,7 +2525,7 @@
       <m:mn>6</m:mn>
     </m:msup>
   </m:mrow>
- <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+ <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">J</m:mi>
 </m:mrow>
 </m:math>.</para>
@@ -2534,11 +2534,11 @@
   <problem id="fs-id1170901860996">
     <para id="fs-id1170901860998">12-woltowa bateria jest używana do zasilania 20-watowej lampy podczas kampingu koła fizyków. Kabel od lampy <m:math display="inline">
       <m:mn>14</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">AWG</m:mi>
     </m:math> ma <m:math display="inline">
     <m:mn>2</m:mn>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">m</m:mi>
   </m:math> długości i jest wykonany z miedzi, dla której gęstość ładunku <m:math display="inline">
   <m:mi>n</m:mi>
@@ -2552,7 +2552,7 @@
         <m:mn>28</m:mn>
       </m:msup>
     </m:mrow>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:msup>
       <m:mi mathvariant="normal">m</m:mi>
       <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
@@ -2568,11 +2568,11 @@
   <problem id="fs-id1170899245926">
     <para id="fs-id1170899245928">Student fizyki używa 115-woltowej grzałki elektrycznej do ogrzania <m:math display="inline">
       <m:mn>400</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">g</m:mi>
     </m:math> wody na herbatę. Podczas <m:math display="inline">
     <m:mn>2</m:mn>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">min</m:mi>
   </m:math> potrzebnych do zagotowania się wody znudzony student postanawia oszacować rezystancję grzałki. Zakłada, że początkowa temperatura wody wynosi <m:math display="inline">
   <m:msub>
@@ -2582,7 +2582,7 @@
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>25</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
   </m:mrow>
 </m:math>, a następnie osiąga temperaturę <m:math display="inline">
@@ -2593,7 +2593,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>100</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
 </m:mrow>
 </m:math>. Ciepło właściwe wody wynosi <m:math display="inline">
@@ -2601,7 +2601,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>4180</m:mn>
- <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+ <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mrow>
     <m:mi mathvariant="normal">J</m:mi>
     <m:mo>∕</m:mo>
@@ -2615,7 +2615,7 @@
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>1045</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">W</m:mi>
       </m:mrow>
     </m:math>, <m:math display="inline">
@@ -2634,7 +2634,7 @@
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>12,27</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:mrow>
   </m:math>.</para></solution>

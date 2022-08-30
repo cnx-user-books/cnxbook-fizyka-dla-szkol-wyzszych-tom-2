@@ -66,18 +66,18 @@
   </m:mrow>
 </m:math>, <m:math display="inline">
 <m:mn>1</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">A</m:mi>
 </m:math> jest zdefiniowany jako ładunek <m:math display="inline">
 <m:mn>1</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">C</m:mi>
 </m:math> przepływający przez daną powierzchnię w czasie <m:math display="inline">
 <m:mn>1</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">s</m:mi>
 </m:math>
-</para><equation id="fs-id1170903037375"><m:math display="block"><m:semantics><m:mrow><m:mrow><m:mn>1</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>1</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mrow><m:mi mathvariant="normal">C</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{1}{\ampere} = \SI{1}{\coulomb\per\second} \text{.}</m:annotation></m:semantics></m:math></equation><para id="fs-id1170902930695">Chwilowe natężenie prądu elektrycznego, lub też <term xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cmlnle:reference="natężenie prądu elektrycznego">natężenie prądu elektrycznego</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">electric current</term></foreign>), jest pochodną po czasie przepływającego ładunku i wyznacza się je jako granicę ze średniej wartości natężenia prądu elektrycznego przy <m:math display="inline">
+</para><equation id="fs-id1170903037375"><m:math display="block"><m:semantics><m:mrow><m:mrow><m:mn>1</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>1</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">C</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{1}{\ampere} = \SI{1}{\coulomb\per\second} \text{.}</m:annotation></m:semantics></m:math></equation><para id="fs-id1170902930695">Chwilowe natężenie prądu elektrycznego, lub też <term xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cmlnle:reference="natężenie prądu elektrycznego">natężenie prądu elektrycznego</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">electric current</term></foreign>), jest pochodną po czasie przepływającego ładunku i wyznacza się je jako granicę ze średniej wartości natężenia prądu elektrycznego przy <m:math display="inline">
 <m:mrow>
   <m:mo>Δ</m:mo>
   <m:mi>t</m:mi>
@@ -135,18 +135,18 @@
     <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_26_01_RateOfFlow.jpg"/>
   </media>
   
-  <caption>Prędkość przepływających ładunków określa się jako natężenie prądu elektrycznego. <m:math display="inline"><m:mn>1</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">A</m:mi></m:math> to przepływ ładunku o wartości <m:math display="inline"><m:mn>1</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">C</m:mi></m:math> w ciągu <m:math display="inline"><m:mn>1</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">s</m:mi></m:math>. Prąd o natężeniu <m:math display="inline"><m:mn>1</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">A</m:mi></m:math> oznacza przepłynięcie <m:math display="inline"><m:mn>6,25</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>18</m:mn></m:msup></m:math> elektronów przez powierzchnię <m:math display="inline"><m:semantics><m:mi>S</m:mi><m:annotation encoding="application/vnd.katalysteducation.mathtex">            S</m:annotation></m:semantics></m:math> w ciągu <m:math display="inline"><m:mn>1</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">s</m:mi></m:math>.</caption></figure><example id="fs-id1170902884663"><para id="fs-id1170901748623"><title>Obliczanie średniego natężenia prądu</title>Głównym zadaniem akumulatora znajdującego się w samochodzie jest włączenie <term xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cmlnle:reference="rozrusznik">rozrusznika</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">electric starter motor</term></foreign>), który z kolei uruchamia silnik. Uruchomienie samochodu wymaga dużego natężenia prądu pobranego z baterii. Gdy silnik zostanie włączony, urządzenie zwane alternatorem przejmuje rolę dostawcy prądu elektrycznego, niezbędnego do pracy pojazdu oraz ładowania baterii. </para><list id="eip-idm1561344688" list-type="enumerated" number-style="lower-alpha"><item>Ile wynosi średnie natężenie prądu elektrycznego, gdy akumulator samochodowy wprawia w ruch <m:math display="inline">
+  <caption>Prędkość przepływających ładunków określa się jako natężenie prądu elektrycznego. <m:math display="inline"><m:mn>1</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">A</m:mi></m:math> to przepływ ładunku o wartości <m:math display="inline"><m:mn>1</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">C</m:mi></m:math> w ciągu <m:math display="inline"><m:mn>1</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">s</m:mi></m:math>. Prąd o natężeniu <m:math display="inline"><m:mn>1</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">A</m:mi></m:math> oznacza przepłynięcie <m:math display="inline"><m:mn>6,25</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>18</m:mn></m:msup></m:math> elektronów przez powierzchnię <m:math display="inline"><m:semantics><m:mi>S</m:mi><m:annotation encoding="application/vnd.katalysteducation.mathtex">            S</m:annotation></m:semantics></m:math> w ciągu <m:math display="inline"><m:mn>1</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">s</m:mi></m:math>.</caption></figure><example id="fs-id1170902884663"><para id="fs-id1170901748623"><title>Obliczanie średniego natężenia prądu</title>Głównym zadaniem akumulatora znajdującego się w samochodzie jest włączenie <term xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cmlnle:reference="rozrusznik">rozrusznika</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">electric starter motor</term></foreign>), który z kolei uruchamia silnik. Uruchomienie samochodu wymaga dużego natężenia prądu pobranego z baterii. Gdy silnik zostanie włączony, urządzenie zwane alternatorem przejmuje rolę dostawcy prądu elektrycznego, niezbędnego do pracy pojazdu oraz ładowania baterii. </para><list id="eip-idm1561344688" list-type="enumerated" number-style="lower-alpha"><item>Ile wynosi średnie natężenie prądu elektrycznego, gdy akumulator samochodowy wprawia w ruch <m:math display="inline">
               <m:mn>720</m:mn>
-             <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+             <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">C</m:mi>
             </m:math> ładunku w czasie <m:math display="inline">
             <m:mn>4</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">s</m:mi>
             </m:math> podczas uruchamiania pojazdu?</item>
             <item>Ile zajmie wypłynięcie z baterii ładunku <m:math display="inline">
               <m:mn>1</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">C</m:mi>
               </m:math>?</item>
             </list><para id="fs-id1170903096262"><title>Strategia rozwiązania</title>Ponieważ znamy wartość ładunku i czasu, możemy wykorzystać definicję średniego natężenia prądu, opisaną wzorem <m:math display="inline">
@@ -179,7 +179,7 @@
             </m:mrow>
           </m:math>, aby obliczyć czas niezbędny do przepływu <m:math display="inline">
           <m:mn>1</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">C</m:mi>
           </m:math> ładunku z baterii.</para><para id="eip-94"><title>Rozwiązanie</title></para><list id="eip-idm1023698064" list-type="enumerated" number-style="lower-alpha"><item>Podstawienie podanych wartości ładunku i czasu do definicji średniego natężenia prądu daje <equation id="fs-id1170902870471" class="unnumbered"><label/>
               <m:math display="block">
@@ -199,19 +199,19 @@
                 <m:mfrac>
                   <m:mrow>
                     <m:mn>720</m:mn>
-                   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                   <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mi mathvariant="normal">C</m:mi>
                   </m:mrow>
                   <m:mrow>
                     <m:mn>4</m:mn>
-                   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                   <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mi mathvariant="normal">s</m:mi>
                   </m:mrow>
                 </m:mfrac>
                 <m:mo>=</m:mo>
                 <m:mrow>
                   <m:mn>180</m:mn>
-                 <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                 <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mrow>
                     <m:mi mathvariant="normal">C</m:mi>
                     <m:mo>∕</m:mo>
@@ -222,7 +222,7 @@
                 <m:mrow>
                   <m:mrow>
                     <m:mn>180</m:mn>
-                   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                   <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mi mathvariant="normal">A</m:mi>
                   </m:mrow>
                   <m:mo>⁢</m:mo>
@@ -247,7 +247,7 @@
               <m:mi>t</m:mi>
             </m:mrow>
           </m:mrow>
-        </m:math> i podstawić podane wartości ładunku i natężenia prądu <equation id="fs-id1170901761099" class="unnumbered"><m:math display="block"><m:semantics><m:mrow><m:mrow><m:mo>Δ</m:mo><m:mi>t</m:mi></m:mrow><m:mo>=</m:mo><m:mfrac><m:mrow><m:mo>Δ</m:mo><m:mi>Q</m:mi></m:mrow><m:mi>I</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>1</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">C</m:mi></m:mrow><m:mrow><m:mn>180</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mrow><m:mi mathvariant="normal">C</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mrow></m:mfrac><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>5,56</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-3</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>5,56</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">ms</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \prefop{\Delta} t = \frac{\prefop{\Delta} Q}{I} = \frac{\SI{1}{\coulomb}}{\SI{180}{\coulomb\per\second}} = \SI{5,56e-3}{\second} = \SI{5,56}{\milli\second} \text{.}</m:annotation></m:semantics></m:math></equation></item>
+        </m:math> i podstawić podane wartości ładunku i natężenia prądu <equation id="fs-id1170901761099" class="unnumbered"><m:math display="block"><m:semantics><m:mrow><m:mrow><m:mo>Δ</m:mo><m:mi>t</m:mi></m:mrow><m:mo>=</m:mo><m:mfrac><m:mrow><m:mo>Δ</m:mo><m:mi>Q</m:mi></m:mrow><m:mi>I</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>1</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">C</m:mi></m:mrow><m:mrow><m:mn>180</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">C</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mrow></m:mfrac><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>5,56</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-3</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>5,56</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">ms</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \prefop{\Delta} t = \frac{\prefop{\Delta} Q}{I} = \frac{\SI{1}{\coulomb}}{\SI{180}{\coulomb\per\second}} = \SI{5,56e-3}{\second} = \SI{5,56}{\milli\second} \text{.}</m:annotation></m:semantics></m:math></equation></item>
   </list><para id="eip-273"><title>Znaczenie</title></para><list id="eip-idm1580309456" list-type="enumerated" number-style="lower-alpha"><item>Wysoka wartość natężenia prądu świadczy o dużym ładunku przemieszczającym się w krótkim czasie. Prądy w rozrusznikach są wystarczająco duże, aby przezwyciężyć bezwładność silnika.</item>
     <item>Duże natężenie prądu jest niezbędne, aby w krótkim czasie doprowadzić duży ładunek. Wysokie natężenie prądu jest konieczne, aby dostarczyć dużą ilość energii wymaganej do uruchomienia silnika.</item>
   </list></example><example id="fs-id1170901492568"><para id="fs-id1170902933272"><title>Wyznaczanie chwilowego natężenia prądu</title>Rozważmy ładunek, poruszający się przez przekrój przewodu dany wzorem <m:math display="inline">
@@ -448,17 +448,17 @@
           <problem id="fs-id1170902930491">
             <para id="fs-id1170901750030"><emphasis effect="bold">Sprawdź, czy rozumiesz.</emphasis> Żeby wykonać obliczenia niezbędne do zdania egzaminu z fizyki, używa się kalkulatora, który najczęściej zasila małe ogniwo słoneczne. Natężenie prądu zużywanego przez kalkulator jest bardzo małe, równe <m:math display="inline">
                 <m:mn>0,3</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">mA</m:mi>
               </m:math>. Ile czasu zajmie wypłynięcie ładunku <m:math display="inline">
               <m:mn>1</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">C</m:mi>
               </m:math> z ogniwa słonecznego? Czy ogniwo słoneczne może zostać użyte do zasilania rozrusznika silnika spalinowego w samochodzie?</para></problem>
             <solution id="fs-id1170901635981">
               <para id="fs-id1170903076684">Czas potrzebny na przepłynięcie ładunku o wartości <m:math display="inline">
                 <m:mn>1</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">C</m:mi>
               </m:math> wynosi <m:math display="inline">
               <m:mrow>
@@ -478,7 +478,7 @@
               <m:mrow>
                 <m:mrow>
                   <m:mn>1</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">C</m:mi>
                 </m:mrow>
                 <m:mo>∕</m:mo>
@@ -492,7 +492,7 @@
                         <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
                       </m:msup>
                     </m:mrow>
-                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mrow>
                       <m:mi mathvariant="normal">C</m:mi>
                       <m:mo>∕</m:mo>
@@ -511,16 +511,16 @@
                     <m:mn>3</m:mn>
                   </m:msup>
                 </m:mrow>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">s</m:mi>
               </m:mrow>
             </m:math>, czyli trochę mniej niż <m:math display="inline">
             <m:mn>1</m:mn>
-           <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+           <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">h</m:mi>
           </m:math>. To zupełnie inna wartość niż <m:math display="inline">
           <m:mn>5,55</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">ms</m:mi>
           </m:math> w przypadku akumulatora. Kalkulator zużywa bardzo małą ilość energii niezbędnej do pracy, w przeciwieństwie do rozrusznika samochodowego. Istnieje wiele powodów, dla których w samochodach używa się akumulatorów, a nie baterii słonecznych. Oprócz oczywistego faktu, że pojazd nie zawsze ma dostęp do źródła światła, współczesne ogniwa słoneczne nie są w stanie zapewnić dużej wartości natężenia prądu wymaganego do uruchomienia silnika. Ogniwa słoneczne można zastosować do ładowania baterii, co wymaga o wiele mniej energii w stosunku do energii niezbędnej do uruchomienia silnika i pracy innych urządzeń, takich jak grzejnik czy klimatyzator. Współczesne samochody zasilane przy pomocy ogniw słonecznych pracują, używając silnika elektrycznego zamiast spalinowego. </para></solution>
       </exercise>
@@ -530,11 +530,11 @@
         <problem id="fs-id1170901584324">
           <para id="fs-id1170901609113"><emphasis effect="bold">Sprawdź, czy rozumiesz.</emphasis> Na wyłącznikach instalacyjnych w domach są podane wartości natężenia prądu, zwykle w przedziale od <m:math display="inline">
               <m:mn>10</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">A</m:mi>
             </m:math> do <m:math display="inline">
             <m:mn>30</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">A</m:mi>
             </m:math>. Wyłączników takich używa się do zabezpieczenia mieszkańców przed niebezpieczeństwem, a urządzenia przed uszkodzeniem związanym ze zbyt dużym natężeniem prądu. Jednego 15-amperowego wyłącznika instalacyjnego można użyć do zabezpieczenia kilku urządzeń w salonie, natomiast jeden 20-amperowy zabezpiecza lodówkę w kuchni. Jakie wnioski można wyciągnąć co do natężenia prądu w różnych urządzeniach domowych?</para></problem>
           <solution id="fs-id1170902901194">
@@ -623,13 +623,13 @@
     </m:math>), gdzie <m:math display="inline">
     <m:mrow>
       <m:mn>1</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
     </m:mrow>
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>1</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mrow>
         <m:mi mathvariant="normal">C</m:mi>
         <m:mo>∕</m:mo>
@@ -654,7 +654,7 @@
       <para id="fs-id1170901609787">Pojemność akumulatorów samochodowych określa się w amperogodzinach (<m:math display="inline">
         <m:mrow>
           <m:mi mathvariant="normal">A</m:mi>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">h</m:mi>
         </m:mrow>
         </m:math>). Jaką wielkość fizyczną mierzy się w tych jednostkach: napięcie, natężenie prądu, ładunek, energię, moc, ...?</para></problem>
@@ -674,11 +674,11 @@
       <problem id="fs-id1170902749581">
         <para id="fs-id1170901595712">Generator Van de Graaffa jest jednym z pierwszych akceleratorów cząstek i może zostać użyty do przyspieszania cząstek takich jak protony czy elektrony. Mogłeś widzieć jego zastosowanie, gdy był używany do postawienia włosów lub wytwarzania ogromnych iskier. Innym zastosowaniem generatora Van de Graaffa jest wytwarzanie promieniowania X poprzez bombardowanie twardego metalowego celu przez wiązkę nośników ładunku. Rozważ wiązkę protonów o energii <m:math display="inline">
           <m:mn>1</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">keV</m:mi>
         </m:math> oraz natężeniu prądu <m:math display="inline">
         <m:mn>5</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">mA</m:mi>
       </m:math>, wyprodukowaną przez generator.<list id="eip-idm1451962480" list-type="enumerated" number-style="lower-alpha"><item>Jaka jest prędkość protonów?</item>
       <item>Ile protonów jest wytwarzanych w każdej sekundzie?</item>
@@ -696,7 +696,7 @@
           <m:mn>5</m:mn>
         </m:msup>
       </m:mrow>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mrow>
         <m:mi mathvariant="normal">m</m:mi>
         <m:mo>∕</m:mo>
@@ -718,7 +718,7 @@
         <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
       </m:msup>
     </m:mrow>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">C</m:mi>
   </m:mrow>
 </m:math>, 
@@ -738,7 +738,7 @@
   <problem id="fs-id1170901557975">
     <para id="fs-id1170902836545">Monitor kineskopowy (CRT, ang. <foreign>cathode ray tube</foreign>) jest urządzeniem, które produkuje skupioną wiązkę elektronów w próżni. Elektrony uderzają w szklany ekran pokryty fosforem, co powoduje powstanie jasnego punktu. Pozycja jasnego punktu na ekranie może być regulowana poprzez zakrzywianie wiązki elektronów przy użyciu pola elektrycznego, magnetycznego lub obydwu. Monitory kineskopowe były powszechnie używane w telewizorach, wyświetlaczach komputerowych czy oscyloskopach, natomiast nowsze urządzenia wykorzystują wyświetlacze ciekłokrystaliczne (LCD, ang. <foreign>liquid crystal display</foreign>) lub plazmowe. Wciąż jednak możesz się natknąć na monitory kineskopowe w twojej dziedzinie nauki. Rozważ monitor kineskopowy ze średnim natężeniem prądu wiązki elektronowej <m:math display="inline">
       <m:mn>25</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">µA</m:mi>
       </m:math>. Jak dużo elektronów uderza w ekran w każdej sekundzie?</para></problem>
   </exercise>
@@ -746,14 +746,14 @@
     <problem id="fs-id1170902724074">
       <para id="fs-id1170903137547">Ile elektronów przepływa przez punkt przewodu w ciągu <m:math display="inline">
         <m:mn>3</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">s</m:mi>
       </m:math>, jeśli płynie w nim prąd o stałym natężeniu <m:math display="inline">
       <m:mi>I</m:mi>
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>4</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:mrow>
       </m:math>?</para></problem>
@@ -780,7 +780,7 @@
         <m:mo>=</m:mo>
         <m:mrow>
           <m:mn>12</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">C</m:mi>
         </m:mrow>
       </m:math>, 
@@ -827,7 +827,7 @@
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>3</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:mrow>
     </m:math> jest wartością natężenia prądu w chwili początkowej <m:math display="inline">
@@ -835,7 +835,7 @@
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>0</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">s</m:mi>
     </m:mrow>
   </m:math>, a <m:math display="inline">
@@ -843,7 +843,7 @@
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>0,5</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">s</m:mi>
   </m:mrow>
 </m:math> to stała czasowa. Jaki ładunek przepływa przez przewodnik pomiędzy <m:math display="inline">
@@ -851,7 +851,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>0</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">s</m:mi>
 </m:mrow>
 </m:math> a <m:math display="inline">
@@ -874,7 +874,7 @@
           <m:mrow>
             <m:mrow>
               <m:mn>4</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mrow>
                 <m:mi mathvariant="normal">mC</m:mi>
                 <m:mo>∕</m:mo>
@@ -894,7 +894,7 @@
           <m:mrow>
             <m:mrow>
               <m:mn>1</m:mn>
-             <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+             <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mrow>
                 <m:mi mathvariant="normal">mC</m:mi>
                 <m:mo>∕</m:mo>
@@ -908,7 +908,7 @@
         <m:mo>+</m:mo>
         <m:mrow>
           <m:mn>6</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">mC</m:mi>
 <m:mo>⁢⁢</m:mo><m:mtext>.</m:mtext>
         </m:mrow>
@@ -918,13 +918,13 @@
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>3</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">s</m:mi>
     </m:mrow>
     </m:math>?</para></problem>
   <solution id="fs-id1170902695435">
-    <para id="fs-id1170901786731"><m:math display="inline"><m:mrow><m:mi>I</m:mi><m:mo>⁡</m:mo><m:mfenced><m:mi>t</m:mi></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mn>16</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mrow><m:mi mathvariant="normal">mC</m:mi><m:mo>∕</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mn>4</m:mn></m:msup></m:mrow></m:mrow><m:mo>⋅</m:mo><m:msup><m:mi>t</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mo>−</m:mo><m:mrow><m:mn>1</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mrow><m:mi mathvariant="normal">mC</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mrow></m:mrow></m:math>, 
-<m:math display="inline"><m:mrow><m:mi>I</m:mi><m:mo>⁡</m:mo><m:mfenced><m:mrow><m:mn>3</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mn>0,431</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow></m:math>.</para></solution>
+    <para id="fs-id1170901786731"><m:math display="inline"><m:mrow><m:mi>I</m:mi><m:mo>⁡</m:mo><m:mfenced><m:mi>t</m:mi></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mn>16</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">mC</m:mi><m:mo>∕</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mn>4</m:mn></m:msup></m:mrow></m:mrow><m:mo>⋅</m:mo><m:msup><m:mi>t</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mo>−</m:mo><m:mrow><m:mn>1</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mrow><m:mi mathvariant="normal">mC</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mrow></m:mrow></m:math>, 
+<m:math display="inline"><m:mrow><m:mi>I</m:mi><m:mo>⁡</m:mo><m:mfenced><m:mrow><m:mn>3</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mn>0,431</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow></m:math>.</para></solution>
 </exercise><exercise id="fs-id1170902957113">
   <problem id="fs-id1170901582425">
     <para id="fs-id1170902698114">Natężenie prądu płynącego przez przewodnik jest opisane wzorem <m:math display="inline">
@@ -954,7 +954,7 @@
               <m:mo>⋅</m:mo>
               <m:mrow>
                 <m:mn>60</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">Hz</m:mi>
               </m:mrow>
               <m:mo>⋅</m:mo>
@@ -1045,13 +1045,13 @@
           <meaning id="fs-id1170902751079">jednostka natężenia prądu w układzie SI; <m:math display="inline">
             <m:mrow>
               <m:mn>1</m:mn>
-             <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+             <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">A</m:mi>
             </m:mrow>
             <m:mo>=</m:mo>
             <m:mrow>
               <m:mn>1</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mrow>
                 <m:mi mathvariant="normal">C</m:mi>
                 <m:mo>∕</m:mo>

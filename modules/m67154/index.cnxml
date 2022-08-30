@@ -198,7 +198,7 @@
               </m:math>.
 <list id="eip-idm924496640" list-type="enumerated" number-style="lower-alpha"><item>Jeśli jeden cykl pracy chłodziarki wymaga <m:math display="inline">
               <m:mn>200</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">J</m:mi>
               </m:math>, to ile ciepła jest usuwane z zimnego rezerwuaru podczas jednego cyklu?</item>
 <item>Ile ciepła jest emitowane do ciepłego rezerwuaru podczas jednego cyklu?</item>
@@ -206,11 +206,11 @@
             <solution id="fs-id1167586219600">
               <para id="fs-id1167582451611">a. <m:math display="inline">
                 <m:mn>600</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">J</m:mi>
               </m:math>; b. <m:math display="inline">
               <m:mn>800</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">J</m:mi>
               </m:math>.</para></solution>
           </exercise>
@@ -218,11 +218,11 @@
             <problem id="fs-id1167586235935">
               <para id="fs-id1167585907037">Podczas jednego cyklu chłodziarka usuwa <m:math display="inline">
                 <m:mn>500</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                 <m:mi mathvariant="normal">J</m:mi>
               </m:math> ciepła z zimnego rezerwuaru i oddaje <m:math display="inline">
               <m:mn>800</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">J</m:mi>
               </m:math> do ciepłego rezerwuaru.
 <list id="eip-idm391375312" list-type="enumerated" number-style="lower-alpha">
@@ -234,7 +234,7 @@
             <problem id="fs-id1167586143856">
               <para id="fs-id1167585767578">Chłodziarka emituje <m:math display="inline">
                 <m:mn>80</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                 <m:mi mathvariant="normal">J</m:mi>
               </m:math> ciepła podczas jednego cyklu, a jej współczynnik wydajności wynosi <m:math display="inline">
               <m:mn>6</m:mn>
@@ -245,11 +245,11 @@
             <solution id="fs-id1167582460583">
               <para id="fs-id1167582673486">a. <m:math display="inline">
                 <m:mn>69</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">J</m:mi>
               </m:math>; b. <m:math display="inline">
               <m:mn>11</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">J</m:mi>
               </m:math>.</para></solution>
           </exercise>

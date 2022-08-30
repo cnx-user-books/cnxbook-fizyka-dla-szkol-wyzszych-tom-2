@@ -74,7 +74,7 @@
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>0</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
     </m:math> (nierealnej fizycznie, bo zawsze istnieje jakiś niezerowy opór elektryczny w układzie) możemy mieć nieskończenie wielki przepływ prądu dla <m:math display="inline"><m:semantics><m:mrow><m:msub><m:mi>ω</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo><m:msqrt><m:mn>1</m:mn><m:mo>∕</m:mo><m:mfenced><m:mrow><m:mi>L</m:mi><m:mo>⁢</m:mo><m:mi>C</m:mi></m:mrow></m:mfenced></m:msqrt></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \omega_0=\sqrt{1/(LC)}</m:annotation></m:semantics></m:math>. Taka sytuacja będzie zachodziła, gdy siła elektromotoryczna mająca kołową częstość <m:math display="inline">
@@ -500,7 +500,7 @@
                           <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
                         </m:msup>
                       </m:mrow>
-                      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                      <m:mo rspace="verythinmathspace">⁢</m:mo>
                       <m:mi mathvariant="normal">H</m:mi>
                     </m:mrow>
                     <m:mo>⋅</m:mo>
@@ -513,7 +513,7 @@
                           <m:mrow><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow>
                         </m:msup>
                       </m:mrow>
-                      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                      <m:mo rspace="verythinmathspace">⁢</m:mo>
                       <m:mi mathvariant="normal">F</m:mi>
                     </m:mrow>
                   </m:mrow>
@@ -531,7 +531,7 @@
                     <m:mn>2</m:mn>
                   </m:msup>
                 </m:mrow>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">Hz</m:mi>
               </m:mrow>
               <m:mo>⁢</m:mo>
@@ -549,12 +549,12 @@
           <m:mfrac>
             <m:mrow>
               <m:mn>0,1</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">V</m:mi>
             </m:mrow>
             <m:mrow>
               <m:mn>4</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:mrow>
           </m:mfrac>
@@ -569,7 +569,7 @@
                   <m:mrow><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow>
                 </m:msup>
               </m:mrow>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">A</m:mi>
             </m:mrow>
             <m:mo>⁢</m:mo>
@@ -584,7 +584,7 @@
           <m:mo>=</m:mo>
           <m:mrow>
             <m:mn>0,2</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
         </m:math>, <m:math display="inline">
@@ -599,7 +599,7 @@
               <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
             </m:msup>
           </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">H</m:mi>
         </m:mrow>
       </m:math> i <m:math display="inline">
@@ -614,13 +614,13 @@
             <m:mrow><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow>
           </m:msup>
         </m:mrow>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">F</m:mi>
       </m:mrow>
       </m:math>?</item>
       <item>Jeśli źródło napięcia zmiennego dostarcza napięcie o amplitudzie <m:math display="inline">
         <m:mn>4</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
         </m:math> przy częstotliwości rezonansowej, to jaka jest średnia moc dostarczana przez nie do obwodu?</item>
         <item>Znajdźmy dobroć i szerokość pasma dla tego obwodu.</item>
@@ -658,7 +658,7 @@
                         <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
                       </m:msup>
                     </m:mrow>
-                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mi mathvariant="normal">H</m:mi>
                   </m:mrow>
                   <m:mo>⋅</m:mo>
@@ -671,7 +671,7 @@
                         <m:mrow><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow>
                       </m:msup>
                     </m:mrow>
-                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mi mathvariant="normal">F</m:mi>
                   </m:mrow>
                 </m:mrow>
@@ -688,7 +688,7 @@
                     <m:mn>4</m:mn>
                   </m:msup>
                 </m:mrow>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mrow>
                   <m:mi mathvariant="normal">rad</m:mi>
                   <m:mo>∕</m:mo>
@@ -729,7 +729,7 @@
                   <m:mo>⋅</m:mo>
                   <m:mrow>
                     <m:mn>4</m:mn>
-                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mi mathvariant="normal">V</m:mi>
                   </m:mrow>
                 </m:mrow>
@@ -738,7 +738,7 @@
             </m:msup>
             <m:mrow>
               <m:mn>0,2</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:mrow>
           </m:mfrac>
@@ -746,7 +746,7 @@
           <m:mrow>
             <m:mrow>
               <m:mn>40</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">W</m:mi>
             </m:mrow>
             <m:mo>⁢</m:mo>
@@ -781,7 +781,7 @@
                   <m:mn>4</m:mn>
                 </m:msup>
               </m:mrow>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mrow>
                 <m:mi mathvariant="normal">rad</m:mi>
                 <m:mo>∕</m:mo>
@@ -798,13 +798,13 @@
                   <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
                 </m:msup>
               </m:mrow>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">H</m:mi>
             </m:mrow>
           </m:mrow>
           <m:mrow>
             <m:mn>0,2</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
         </m:mfrac>
@@ -840,7 +840,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
               <m:mn>4</m:mn>
             </m:msup>
           </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mrow>
             <m:mi mathvariant="normal">rad</m:mi>
             <m:mo>∕</m:mo>
@@ -853,7 +853,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
       <m:mrow>
         <m:mrow>
           <m:mn>50</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mrow>
             <m:mi mathvariant="normal">rad</m:mi>
             <m:mo>∕</m:mo>
@@ -882,7 +882,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
               <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
             </m:msup>
           </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">H</m:mi>
         </m:mrow>
       </m:math>, <m:math display="inline">
@@ -897,7 +897,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
             <m:mrow><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow>
           </m:msup>
         </m:mrow>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">F</m:mi>
       </m:mrow>
     </m:math> i <m:math display="inline">
@@ -905,7 +905,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>40</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
     </m:mrow>
   </m:math>.<list id="eip-idm586032448" list-type="enumerated" number-style="lower-alpha">
@@ -913,7 +913,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
   <item>Jaka jest wartość impedancji tego obwodu w rezonansie?</item>
   <item>Jeśli amplituda napięcia wynosi <m:math display="inline">
     <m:mn>10</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math>, jak wygląda <m:math display="inline">
   <m:mi>i</m:mi>
@@ -936,12 +936,12 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
     <m:mi mathvariant="normal">Hz</m:mi>
   </m:math>; b. <m:math display="inline">
   <m:mn>40</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">Ω</m:mi>
 </m:math>; c. <m:math display="inline">
 <m:mrow>
   <m:mn>0,25</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">A</m:mi>
 </m:mrow>
 <m:mo>⋅</m:mo>
@@ -960,7 +960,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
 </m:mrow>
 </m:math>; d. <m:math display="inline">
 <m:mn>0,023</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">rad</m:mi>
 </m:math>.</para></solution>
 </exercise>
@@ -990,7 +990,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
               <m:mn>2</m:mn>
             </m:msup>
           </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mrow>
             <m:mi mathvariant="normal">rad</m:mi>
             <m:mo>∕</m:mo>
@@ -1005,11 +1005,11 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
             <m:mrow><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow>
           </m:msup>
         </m:mrow>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">W</m:mi>
       </m:math> do obwodu. Opór obwodu równy jest <m:math display="inline">
       <m:mn>0,5</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
       </m:math>. Zapisz wyrażenie na SEM tego generatora.</para></problem>
     <solution id="fs-id1172100632808">
@@ -1025,7 +1025,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
           <m:mrow>
             <m:mrow>
               <m:mn>0,14</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">V</m:mi>
             </m:mrow>
             <m:mo>⋅</m:mo>
@@ -1069,7 +1069,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
           <m:mo>=</m:mo>
           <m:mrow>
             <m:mn>20</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
         </m:math>, <m:math display="inline">
@@ -1085,7 +1085,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>4</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">µF</m:mi>
       </m:mrow>
       </m:math>;</item>
@@ -1093,7 +1093,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
         <m:mi>R</m:mi>
       </m:math> zostanie zmieniona na <m:math display="inline">
       <m:mn>300</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
       </m:math>?</item>
     </list></para>
@@ -1129,7 +1129,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
               <m:mrow><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow>
             </m:msup>
           </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">F</m:mi>
         </m:mrow>
         <m:mo>⁢</m:mo>
@@ -1144,7 +1144,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
         <m:mo>=</m:mo>
         <m:mrow>
           <m:mn>20</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">Ω</m:mi>
         </m:mrow>
       </m:math>, <m:math display="inline">
@@ -1160,7 +1160,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>4</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">µF</m:mi>
     </m:mrow>
     </m:math>?</item>
@@ -1175,7 +1175,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>100</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
     </m:math>, <m:math display="inline">
@@ -1191,7 +1191,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>0,25</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">µF</m:mi>
   </m:mrow>
 </m:math>.<list id="eip-idm829677216" list-type="enumerated" number-style="lower-alpha"><item>Jeśli do tego obwodu podłączymy źródło napięcia zmiennego, dla jakiej częstotliwości na oporniku zostanie rozproszone maksimum mocy?</item>
@@ -1211,7 +1211,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
   <problem id="fs-id1172100790892">
     <para id="fs-id1172100790894">Źródło zmiennego napięcia o amplitudzie <m:math display="inline">
       <m:mn>100</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:math> i częstotliwości <m:math display="inline">
     <m:mi>f</m:mi>
@@ -1220,7 +1220,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>100</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:mrow>
 </m:math>, <m:math display="inline">
@@ -1236,7 +1236,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>0,25</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">µF</m:mi>
 </m:mrow>
 </m:math>.<list id="eip-idm391370704" list-type="enumerated" number-style="lower-alpha"><item>Narysuj wykres natężenia prądu płynącego przez rezystor w funkcji częstotliwości <m:math display="inline">
@@ -1252,7 +1252,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
         <m:mo>=</m:mo>
         <m:mrow>
           <m:mn>100</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">Ω</m:mi>
         </m:mrow>
       </m:math>, kondensatora <m:math display="inline">
@@ -1260,7 +1260,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>5</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">µF</m:mi>
       </m:mrow>
     </m:math> i cewki <m:math display="inline">
@@ -1268,13 +1268,13 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>2</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">H</m:mi>
     </m:mrow>
     </m:math> połączonych ze sobą szeregowo?</item>
     <item>Jeśli ten obwód podłączony zostanie do źródła napięcia zmiennego o amplitudzie <m:math display="inline">
       <m:mn>100</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
       </m:math>, pracującego ze stałą częstotliwością, ile równa będzie moc produkowana przez źródło?</item>
       <item>Ile wynosi dobroć <m:math display="inline">
@@ -1290,13 +1290,13 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
       <m:mi mathvariant="normal">Hz</m:mi>
     </m:math>; b. <m:math display="inline">
     <m:mn>50</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">W</m:mi>
   </m:math>; c. <m:math display="inline">
   <m:mn>13</m:mn>
 </m:math>; d. <m:math display="inline">
 <m:mn>25</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mrow>
   <m:mi mathvariant="normal">rad</m:mi>
   <m:mo>∕</m:mo>
@@ -1308,18 +1308,18 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
   <problem id="fs-id1172100884949">
     <para id="fs-id1172100884951">Załóżmy, że pewna cewka ma indukcyjność równą <m:math display="inline">
       <m:mn>20</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">H</m:mi>
     </m:math> i induktancję wynoszącą <m:math display="inline">
     <m:mn>200</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:math>. Jaką <list id="eip-idm274029456" list-type="enumerated" number-style="lower-alpha">
   <item>pojemność;</item>
   <item>rezystancję</item>
 </list> należy przyłączyć szeregowo do tej cewki, aby tak powstały obwód miał częstotliwość rezonansową równą <m:math display="inline">
 <m:mn>100</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">Hz</m:mi>
 </m:math> i dobroć <m:math display="inline">
 <m:mi>Q</m:mi>
@@ -1336,7 +1336,7 @@ Z powyższego wynika, że szerokość pasma równa jest<equation id="eip-766"><m
   <solution id="fs-id1172100885112">
     <para id="fs-id1172100885114">Kapacytancja jest większa od induktancji, ponieważ natężenie prądu „wyprzedza” napięcie prądu. Zużycie mocy wynosi <m:math display="inline">
       <m:mn>30</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">W</m:mi>
       </m:math>.</para></solution>
   </exercise>

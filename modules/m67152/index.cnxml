@@ -17,7 +17,7 @@
     </media>
     <caption>Gaz rozprężający się z połowy zbiornika na jego całość (a) przed i (b) po tym, jak kawałek rozdzielającej go ścianki zostanie usunięty.</caption>
   </figure>
-  <para id="fs-id1167584900254">Początkowo w prawej części zbiornika jest próżnia. Na gaz nie działa żadna siła, więc nie oczekujemy, że rozprężając się, wykonał on jakąkolwiek pracę – czyli <m:math display="inline"><m:mi>W</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo><m:mi mathvariant="normal">J</m:mi></m:mrow></m:math>. Zbiornik jest odizolowany termicznie od otoczenia, a więc nie będzie żadnej wymiany ciepła między układem a otoczeniem, mamy więc <m:math display="inline"><m:mi>Q</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo><m:mi mathvariant="normal">J</m:mi></m:mrow></m:math>. Z pierwszej zasady termodynamiki wnioskujemy zatem o braku zmiany energii wewnętrznej układu</para><equation id="fs-id1167585066605" class="unnumbered"><m:math display="block"><m:mrow><m:mo>Δ</m:mo><m:mi>U</m:mi></m:mrow><m:mo>=</m:mo><m:mrow><m:mi>Q</m:mi><m:mo>−</m:mo><m:mi>W</m:mi></m:mrow><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">J</m:mi><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:math></equation><para id="fs-id1167585104391">W przypadku gazu doskonałego, jeśli energia wewnętrzna się nie zmieni, temperatura pozostanie stała. Dlatego równanie stanu gazu doskonałego daje nam końcowe ciśnienie gazu, <m:math display="inline">
+  <para id="fs-id1167584900254">Początkowo w prawej części zbiornika jest próżnia. Na gaz nie działa żadna siła, więc nie oczekujemy, że rozprężając się, wykonał on jakąkolwiek pracę – czyli <m:math display="inline"><m:mi>W</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace">⁢⁢</m:mo><m:mi mathvariant="normal">J</m:mi></m:mrow></m:math>. Zbiornik jest odizolowany termicznie od otoczenia, a więc nie będzie żadnej wymiany ciepła między układem a otoczeniem, mamy więc <m:math display="inline"><m:mi>Q</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace">⁢⁢</m:mo><m:mi mathvariant="normal">J</m:mi></m:mrow></m:math>. Z pierwszej zasady termodynamiki wnioskujemy zatem o braku zmiany energii wewnętrznej układu</para><equation id="fs-id1167585066605" class="unnumbered"><m:math display="block"><m:mrow><m:mo>Δ</m:mo><m:mi>U</m:mi></m:mrow><m:mo>=</m:mo><m:mrow><m:mi>Q</m:mi><m:mo>−</m:mo><m:mi>W</m:mi></m:mrow><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">J</m:mi><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:math></equation><para id="fs-id1167585104391">W przypadku gazu doskonałego, jeśli energia wewnętrzna się nie zmieni, temperatura pozostanie stała. Dlatego równanie stanu gazu doskonałego daje nam końcowe ciśnienie gazu, <m:math display="inline">
     <m:mi>p</m:mi>
     <m:mo>=</m:mo>
     <m:mrow>
@@ -123,17 +123,17 @@
               </row>
               <row valign="top">
                 <entry valign="top" align="left">Izochoryczny</entry>
-                <entry valign="top" align="left">Stała objętość <m:math display="inline"><m:mi>W</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">J</m:mi></m:mrow></m:math>
+                <entry valign="top" align="left">Stała objętość <m:math display="inline"><m:mi>W</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">J</m:mi></m:mrow></m:math>
               </entry>
             </row>
             <row valign="top">
               <entry valign="top" align="left">Izotermiczny</entry>
-              <entry valign="top" align="left">Stała temperatura <m:math display="inline"><m:mrow><m:mo>Δ</m:mo><m:mi>T</m:mi></m:mrow><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo><m:mi mathvariant="normal">K</m:mi></m:mrow></m:math>
+              <entry valign="top" align="left">Stała temperatura <m:math display="inline"><m:mrow><m:mo>Δ</m:mo><m:mi>T</m:mi></m:mrow><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace">⁢⁢</m:mo><m:mi mathvariant="normal">K</m:mi></m:mrow></m:math>
             </entry>
           </row>
           <row valign="top">
             <entry valign="top" align="left">Adiabatyczny</entry>
-            <entry valign="top" align="left">Nie ma przepływu ciepła <m:math display="inline"><m:mi>Q</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo><m:mi mathvariant="normal">J</m:mi></m:mrow></m:math>
+            <entry valign="top" align="left">Nie ma przepływu ciepła <m:math display="inline"><m:mi>Q</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace">⁢⁢</m:mo><m:mi mathvariant="normal">J</m:mi></m:mrow></m:math>
           </entry>
         </row>
       </tbody>
@@ -165,7 +165,7 @@
       <problem id="fs-id1167584911045">
         <para id="fs-id1167585014520">Zbiornik zawiera <m:math display="inline">
           <m:mn>111</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">g</m:mi>
         </m:math> chloru gazowego (Cl<sub>2</sub>) o temperaturze <m:math display="inline">
       <m:mn>82</m:mn>
@@ -180,7 +180,7 @@
         <m:mn>5</m:mn>
       </m:msup>
     </m:mrow>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">Pa</m:mi>
   </m:math>. Temperatura powietrza na zewnątrz zbiornika wynosi <m:math display="inline">
   <m:mn>20</m:mn>
@@ -188,7 +188,7 @@
   <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
 </m:math>. Masa molowa Cl<sub>2</sub> jest równa <m:math display="inline">
 <m:mn>70,9</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:mrow>
   <m:mi mathvariant="normal">g</m:mi>
   <m:mo>∕</m:mo>
@@ -210,7 +210,7 @@
     <m:mn>5</m:mn>
   </m:msup>
 </m:mrow>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:mi mathvariant="normal">Pa</m:mi>
 </m:math> na skutek nieszczelności zbiornika?</item>
 </list></para></problem>
@@ -223,7 +223,7 @@
       <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
     </m:math> i ciśnieniu <m:math display="inline">
     <m:mn>1</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">atm</m:mi>
     </m:math> został podgrzany i poddany rozprężaniu izobarycznemu. W efekcie jego objętość wzrosła trzykrotnie. Jaki jest przepływ ciepła w tym procesie?</para></problem>
   <solution id="fs-id1167584841634">
@@ -236,7 +236,7 @@
             <m:mn>3</m:mn>
           </m:msup>
         </m:mrow>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">J</m:mi>
         </m:math>.</para></solution>
     </exercise>
@@ -244,11 +244,11 @@
       <problem id="fs-id1167584751098">
         <para id="fs-id1167583639778">Mol gazu doskonałego pod ciśnieniem <m:math display="inline">
           <m:mn>4</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">atm</m:mi>
         </m:math> i o temperaturze <m:math display="inline">
         <m:mn>298</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">K</m:mi>
         </m:math> zwiększa swoją objętość dwukrotnie w procesie izotermicznym. Jaką pracę wykonuje gaz?</para></problem>
     </exercise>

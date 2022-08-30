@@ -51,7 +51,7 @@
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>0</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">s</m:mi>
     </m:mrow>
   </m:math> dla <m:math display="inline">
@@ -59,7 +59,7 @@
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>0</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:mrow>
   </m:math>. Możliwe jest również wprowadzenie stałej fazowej, która „przesunie” wykres funkcji w przypadku rozpoczęcia pomiarów w innym punkcie przebiegu. Jest to przypadek podobny do omawianego w rozdziale <link class="target-chapter" document="m65833">Fale</link>. Ponieważ wolno nam jednak dokonywać pomiarów w dowolnym momencie, możemy na razie pominąć ten stały czynnik fazowy. Napięcie w obwodzie i na poszczególnych elementach może być określane z zastosowaniem dwóch metod: (1) podejścia analitycznego, opartego na naszej wiedzy na temat obwodów i elementów elektronicznych wyrażonej w równaniach różniczkowych, które należy rozwiązać otrzymując przebiegi napięcia i natężenia prądu elektrycznego co jest podejściem najogólniejszym, albo (2) podejścia schematycznego dla przebiegów okresowych prądu elektrycznego i napięcia (napięcie i natężenie prądu są tutaj funkcjami periodycznymi) wyrażonego graficznie przez wskazy, które objaśnione zostanie w kolejnych podrozdziałach.</para><figure id="CNX_UPhysics_32_02_acout"><media id="fs-id1172101890377" alt="Rysunek a przedstawia sinusoidę, której wartości maksymalne i minimalne wynoszą odpowiednio V0 i minus V0. Punkty na osi x, wskazane strzałką oznaczają wartości równe kolejnym wielokrotnościom jednego okresu i wynoszą kolejno 2pi przez omega, 4pi przez omega i 6 pi przez omega. Rysunek b przedstawia symbol stosowany do oznaczania napięcia prądu zmiennego. ">
@@ -1159,7 +1159,7 @@
   <example id="fs-id1172101788195">
     <para id="fs-id1172101788197"><title>Proste obwody prądu zmiennego</title>Generator napięcia zmiennego wytwarza siłę elektromotoryczną o amplitudzie <m:math display="inline">
         <m:mn>10</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
       </m:math> i częstotliwości <m:math display="inline">
       <m:mi>f</m:mi>
@@ -1171,12 +1171,12 @@
       </m:mrow>
     </m:math>. Wyznaczmy wartość napięcia odłożonego na elementach i wartość natężenia prądu płynącego przez elementy, gdy generator jest podłączony do <list id="eip-idm733611168" list-type="enumerated" number-style="lower-alpha"><item>opornika o oporze <m:math display="inline">
       <m:mn>100</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">Ω</m:mi>
       </m:math>;</item>
       <item>kondensatora o pojemności <m:math display="inline">
         <m:mn>10</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">µF</m:mi>
         </m:math>;</item>
         <item>cewki o indukcyjności <m:math display="inline">
@@ -1233,7 +1233,7 @@
               <m:mrow>
                 <m:mrow>
                   <m:mn>10</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">V</m:mi>
                 </m:mrow>
                 <m:mo>⋅</m:mo>
@@ -1270,7 +1270,7 @@
               <m:mn>120</m:mn>
               <m:mo>⁢</m:mo>
               <m:mi>π</m:mi>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mrow>
                 <m:mi mathvariant="normal">rad</m:mi>
                 <m:mo>∕</m:mo>
@@ -1329,7 +1329,7 @@
               <m:mrow>
                 <m:mrow>
                   <m:mn>10</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">V</m:mi>
                 </m:mrow>
                 <m:mo>⋅</m:mo>
@@ -1356,7 +1356,7 @@
               <m:mo>=</m:mo>
               <m:mrow>
                 <m:mn>100</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">Ω</m:mi>
               </m:mrow>
             </m:math>, amplituda natężenia prądu płynącego przez opornik wynosi<equation id="fs-id1172101994903" class="unnumbered">
@@ -1378,12 +1378,12 @@
               <m:mfrac>
                 <m:mrow>
                   <m:mn>10</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">V</m:mi>
                 </m:mrow>
                 <m:mrow>
                   <m:mn>100</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">Ω</m:mi>
                 </m:mrow>
               </m:mfrac>
@@ -1391,7 +1391,7 @@
               <m:mrow>
                 <m:mrow>
                   <m:mn>0,1</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">A</m:mi>
                 </m:mrow>
                 <m:mo>⁢</m:mo>
@@ -1415,7 +1415,7 @@
               <m:mrow>
                 <m:mrow>
                   <m:mn>0,1</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">A</m:mi>
                 </m:mrow>
                 <m:mo>⋅</m:mo>
@@ -1463,7 +1463,7 @@
                     <m:mn>120</m:mn>
                     <m:mo>⁢</m:mo>
                     <m:mi>π</m:mi>
-                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mrow>
                       <m:mi mathvariant="normal">rad</m:mi>
                       <m:mo>∕</m:mo>
@@ -1476,7 +1476,7 @@
                     <m:mrow><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow>
                   </m:msup>
                 </m:mrow>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">F</m:mi>
               </m:mrow>
             </m:mfrac>
@@ -1484,7 +1484,7 @@
             <m:mrow>
               <m:mrow>
                 <m:mn>265</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">Ω</m:mi>
               </m:mrow>
               <m:mo>⁢</m:mo>
@@ -1513,12 +1513,12 @@
           <m:mfrac>
             <m:mrow>
               <m:mn>10</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">V</m:mi>
             </m:mrow>
             <m:mrow>
               <m:mn>256</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
             </m:mrow>
           </m:mfrac>
@@ -1533,7 +1533,7 @@
                   <m:mrow><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow>
                 </m:msup>
               </m:mrow>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">A</m:mi>
             </m:mrow>
             <m:mo>⁢</m:mo>
@@ -1565,7 +1565,7 @@
                   <m:mrow><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow>
                 </m:msup>
               </m:mrow>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">A</m:mi>
             </m:mrow>
             <m:mo>⋅</m:mo>
@@ -1615,7 +1615,7 @@
             <m:mn>120</m:mn>
             <m:mo>⁢</m:mo>
             <m:mi>π</m:mi>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mrow>
               <m:mi mathvariant="normal">rad</m:mi>
               <m:mo>∕</m:mo>
@@ -1632,7 +1632,7 @@
                 <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
               </m:msup>
             </m:mrow>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">H</m:mi>
           </m:mrow>
         </m:mrow>
@@ -1640,7 +1640,7 @@
         <m:mrow>
           <m:mrow>
             <m:mn>5,7</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">Ω</m:mi>
           </m:mrow>
           <m:mo>⁢</m:mo>
@@ -1657,19 +1657,19 @@
       <m:mfrac>
         <m:mrow>
           <m:mn>10</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">V</m:mi>
         </m:mrow>
         <m:mrow>
           <m:mn>5,7</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">Ω</m:mi>
         </m:mrow>
       </m:mfrac>
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>1,8</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
 <m:mo>⁢</m:mo><m:mtext>,</m:mtext>
       </m:mrow>
@@ -1691,7 +1691,7 @@
     <m:mrow>
       <m:mrow>
         <m:mn>1,8</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">A</m:mi>
       </m:mrow>
       <m:mo>⋅</m:mo>
@@ -1728,7 +1728,7 @@
     <problem id="fs-id1172101963341">
       <para id="fs-id1172101963343"><emphasis effect="bold">Sprawdź, czy rozumiesz.</emphasis> Powtórz <link target-id="fs-id1172101788195"/> dla generatora napięcia zmiennego o amplitudzie <m:math display="inline">
           <m:mn>20</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">V</m:mi>
         </m:math> i częstotliwości <m:math display="inline">
         <m:mn>100</m:mn>
@@ -1739,7 +1739,7 @@
         <para id="fs-id1172101963353">a. <m:math display="inline">
           <m:mrow>
             <m:mn>20</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">V</m:mi>
           </m:mrow>
           <m:mo>⋅</m:mo>
@@ -1758,7 +1758,7 @@
         </m:math>, <m:math display="inline">
         <m:mrow>
           <m:mn>0,2</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">A</m:mi>
         </m:mrow>
         <m:mo>⋅</m:mo>
@@ -1777,7 +1777,7 @@
       </m:math>; b. <m:math display="inline">
       <m:mrow>
         <m:mn>20</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
       </m:mrow>
       <m:mo>⋅</m:mo>
@@ -1796,7 +1796,7 @@
     </m:math>, <m:math display="inline">
     <m:mrow>
       <m:mn>0,13</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
     </m:mrow>
     <m:mo>⋅</m:mo>
@@ -1823,7 +1823,7 @@
   </m:math>; c. <m:math display="inline">
   <m:mrow>
     <m:mn>20</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:mrow>
   <m:mo>⋅</m:mo>
@@ -1842,7 +1842,7 @@
 </m:math>, <m:math display="inline">
 <m:mrow>
   <m:mn>2,10</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">A</m:mi>
 </m:mrow>
 <m:mo>⋅</m:mo>
@@ -1893,7 +1893,7 @@ cewkę można zastąpić przerwanym kablem?</para></problem>
       <problem id="fs-id1172101976813">
         <para id="fs-id1172101976815">Oblicz reaktancję kondensatora o pojemności <m:math display="inline">
           <m:mn>5</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">µF</m:mi>
         </m:math> dla częstotliwości<list id="eip-idm237530832" list-type="enumerated" number-style="lower-alpha">
         <item>
@@ -1919,15 +1919,15 @@ cewkę można zastąpić przerwanym kablem?</para></problem>
               <solution id="fs-id1172101976831">
                 <para id="fs-id1172101976833">a. <m:math display="inline">
                   <m:mn>530</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">Ω</m:mi>
                 </m:math>; b. <m:math display="inline">
                 <m:mn>53</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">Ω</m:mi>
               </m:math>; c. <m:math display="inline">
               <m:mn>5,3</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
               </m:math>.</para></solution>
           </exercise>
@@ -1939,7 +1939,7 @@ cewkę można zastąpić przerwanym kablem?</para></problem>
                 <m:mi mathvariant="normal">Hz</m:mi>
               </m:math> jest równa <m:math display="inline">
               <m:mn>10</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">Ω</m:mi>
               </m:math>?</para></problem>
           </exercise>
@@ -1974,15 +1974,15 @@ cewkę można zastąpić przerwanym kablem?</para></problem>
                     <solution id="fs-id1172101969285">
                       <para id="fs-id1172101969287">a. <m:math display="inline">
                         <m:mn>1,9</m:mn>
-                        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                        <m:mo rspace="verythinmathspace">⁢</m:mo>
                         <m:mi mathvariant="normal">Ω</m:mi>
                       </m:math>; b. <m:math display="inline">
                       <m:mn>19</m:mn>
-                      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                      <m:mo rspace="verythinmathspace">⁢</m:mo>
                       <m:mi mathvariant="normal">Ω</m:mi>
                     </m:math>; c. <m:math display="inline">
                     <m:mn>190</m:mn>
-                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mi mathvariant="normal">Ω</m:mi>
                     </m:math>.</para></solution>
                 </exercise>
@@ -1994,7 +1994,7 @@ cewkę można zastąpić przerwanym kablem?</para></problem>
                       <m:mi mathvariant="normal">Hz</m:mi>
                     </m:math> ma wartość <m:math display="inline">
                     <m:mn>10</m:mn>
-                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mi mathvariant="normal">Ω</m:mi>
                     </m:math>?</para></problem>
                 </exercise>
@@ -2002,7 +2002,7 @@ cewkę można zastąpić przerwanym kablem?</para></problem>
                   <problem id="fs-id1172101969339">
                     <para id="fs-id1172101969341">Dla jakiej częstotliwości kapacytancja kondensatora o pojemności <m:math display="inline">
                       <m:mn>20</m:mn>
-                      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                      <m:mo rspace="verythinmathspace">⁢</m:mo>
                       <m:mi mathvariant="normal">µF</m:mi>
                     </m:math> jest równa induktancji cewki o indukcyjności <m:math display="inline">
                     <m:mn>10</m:mn>
@@ -2035,7 +2035,7 @@ cewkę można zastąpić przerwanym kablem?</para></problem>
                       <problem id="fs-id1172101988530">
                         <para id="fs-id1172101988532">Opornik o oporze <m:math display="inline">
                           <m:mn>50</m:mn>
-                          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                          <m:mo rspace="verythinmathspace">⁢</m:mo>
                           <m:mi mathvariant="normal">Ω</m:mi>
                         </m:math> podłączony jest do źródła o wzorze <m:math display="inline">
                         <m:mrow>
@@ -2049,7 +2049,7 @@ cewkę można zastąpić przerwanym kablem?</para></problem>
                         <m:mrow>
                           <m:mrow>
                             <m:mn>160</m:mn>
-                            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                            <m:mo rspace="verythinmathspace">⁢</m:mo>
                             <m:mi mathvariant="normal">V</m:mi>
                           </m:mrow>
                           <m:mo>⋅</m:mo>
@@ -2080,7 +2080,7 @@ cewkę można zastąpić przerwanym kablem?</para></problem>
                             <m:mrow>
                               <m:mrow>
                                 <m:mn>3,2</m:mn>
-                                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                                <m:mo rspace="verythinmathspace">⁢</m:mo>
                                 <m:mi mathvariant="normal">A</m:mi>
                               </m:mrow>
                               <m:mo>⋅</m:mo>
@@ -2118,7 +2118,7 @@ cewkę można zastąpić przerwanym kablem?</para></problem>
                           <m:mrow>
                             <m:mrow>
                               <m:mn>160</m:mn>
-                              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                              <m:mo rspace="verythinmathspace">⁢</m:mo>
                               <m:mi mathvariant="normal">V</m:mi>
                             </m:mrow>
                             <m:mo>⋅</m:mo>
@@ -2137,7 +2137,7 @@ cewkę można zastąpić przerwanym kablem?</para></problem>
                           </m:mrow>
                         </m:math> podłączono kondensator o pojemności <m:math display="inline">
                         <m:mn>25</m:mn>
-                        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                        <m:mo rspace="verythinmathspace">⁢</m:mo>
                         <m:mi mathvariant="normal">µF</m:mi>
                         </m:math>. 
 
@@ -2161,7 +2161,7 @@ cewkę można zastąpić przerwanym kablem?</para></problem>
                   <solution id="fs-id1172101970355">
                     <para id="fs-id1172101970357">a. <m:math display="inline">
                       <m:mn>38</m:mn>
-                      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                      <m:mo rspace="verythinmathspace">⁢</m:mo>
                       <m:mi mathvariant="normal">Ω</m:mi>
                     </m:math>; b. <m:math display="inline">
                     <m:mrow>
@@ -2175,7 +2175,7 @@ cewkę można zastąpić przerwanym kablem?</para></problem>
                     <m:mrow>
                       <m:mrow>
                         <m:mn>4,24</m:mn>
-                        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                        <m:mo rspace="verythinmathspace">⁢</m:mo>
                         <m:mi mathvariant="normal">A</m:mi>
                       </m:mrow>
                       <m:mo>⋅</m:mo>

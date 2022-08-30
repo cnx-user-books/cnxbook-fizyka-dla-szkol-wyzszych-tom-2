@@ -45,19 +45,19 @@
         <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_26_04_OhmsResult.jpg"/>
       </media>
       
-    <caption>Rezystor umieszczono w obwodzie z baterią. Przyłożone napięcie zmienia się o <m:math display="inline"><m:mn>1</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">V</m:mi></m:math> w zakresie od <m:math display="inline"><m:mrow><m:mo>−</m:mo><m:mn>10</m:mn></m:mrow><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">V</m:mi></m:math> do <m:math display="inline"><m:mo>+</m:mo><m:mrow><m:mn>10</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">V</m:mi></m:mrow></m:math>. Wykres pokazuje zależność między napięciem a natężeniem prądu dla typowego eksperymentu.</caption></figure><para id="fs-id1170903802926">W tym eksperymencie napięcie przyłożone do rezystora zmienia się o <m:math display="inline">
+    <caption>Rezystor umieszczono w obwodzie z baterią. Przyłożone napięcie zmienia się o <m:math display="inline"><m:mn>1</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">V</m:mi></m:math> w zakresie od <m:math display="inline"><m:mrow><m:mo>−</m:mo><m:mn>10</m:mn></m:mrow><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">V</m:mi></m:math> do <m:math display="inline"><m:mo>+</m:mo><m:mrow><m:mn>10</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">V</m:mi></m:mrow></m:math>. Wykres pokazuje zależność między napięciem a natężeniem prądu dla typowego eksperymentu.</caption></figure><para id="fs-id1170903802926">W tym eksperymencie napięcie przyłożone do rezystora zmienia się o <m:math display="inline">
       <m:mn>1</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:math> w zakresie od <m:math display="inline">
     <m:mrow><m:mo>−</m:mo><m:mn>10</m:mn></m:mrow>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math> do <m:math display="inline">
   <m:mo>+</m:mo>
   <m:mrow>
     <m:mn>10</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:mrow>
 </m:math>. Mierzone są: napięcie przyłożone do rezystora oraz natężenie prądu płynącego przez rezystor. Na wykresie pokazano zależność między napięciem a natężeniem prądu, która w przybliżeniu ma charakter liniowy. Nachylenie prostej to rezystancja, czyli stosunek napięcia do natężenia prądu. Wynik nazywa się <term xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cmlnle:reference="prawo Ohma">prawem Ohma</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">Ohm’s law</term></foreign>)</para><note id="fs-id1170904225551" class="equation-callout">
@@ -85,21 +85,21 @@
 <example id="fs-id1170902116601">
   <para id="fs-id1170904061676"><title>Pomiar rezystancji</title>Węglowy rezystor w temperaturze pokojowej (<m:math display="inline">
       <m:mn>20</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
     </m:math>) został podłączony do baterii <m:math display="inline">
     <m:mn>9</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math>. Następnie zmierzono natężenie prądu, które wyniosło <m:math display="inline">
   <m:mn>3</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">mA</m:mi>
 </m:math>.<list id="eip-idm1094652768" list-type="enumerated" number-style="lower-alpha">
 <item>Jaka jest rezystancja mierzonego rezystora w omach?</item>
 <item> Jeśli temperatura rezystora zostanie zwiększona do <m:math display="inline">
   <m:mn>60</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
   </m:math> w wyniku jego grzania, to jakie będzie natężenie prądu przepływającego przez rezystor?</item>
 </list>
@@ -173,7 +173,7 @@
       <m:mfrac>
         <m:mrow>
           <m:mn>9</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">V</m:mi>
         </m:mrow>
         <m:mrow>
@@ -185,7 +185,7 @@
               <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
             </m:msup>
           </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">A</m:mi>
         </m:mrow>
       </m:mfrac>
@@ -199,14 +199,14 @@
             <m:mn>3</m:mn>
           </m:msup>
         </m:mrow>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mrow>
           <m:mn>3</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">kΩ</m:mi>
         </m:mrow>
         <m:mo>⁢</m:mo>
@@ -217,7 +217,7 @@
 </item>
 <item>Rezystancję w temperaturze <m:math display="inline">
   <m:mn>60</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
 </m:math> obliczymy przy użyciu <m:math display="inline">
 <m:mi>R</m:mi>
@@ -243,8 +243,8 @@
     </m:mrow>
   </m:mfenced>
 </m:mrow>
-</m:math>; współczynnik temperaturowy dla węgla wynosi <m:math display="inline"><m:mi>α</m:mi><m:mo>=</m:mo><m:mrow><m:mo>−</m:mo><m:mrow><m:mn>0,0005</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:msup><m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:mrow></m:math>
-<equation id="eip-899" class="unnumbered"><m:math display="block"><m:mi>R</m:mi><m:mo>=</m:mo><m:mrow><m:msub><m:mi>R</m:mi><m:mn>0</m:mn></m:msub><m:mo>⁢</m:mo><m:mfenced><m:mrow><m:mn>1</m:mn><m:mo>+</m:mo><m:mrow><m:mi>α</m:mi><m:mo>⁢</m:mo><m:mrow><m:mo>Δ</m:mo><m:mi>T</m:mi></m:mrow></m:mrow></m:mrow></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">Ω</m:mi></m:mrow><m:mo>⋅</m:mo><m:mfenced close="]" open="["><m:mrow><m:mn>1</m:mn><m:mo>−</m:mo><m:mrow><m:mrow><m:mn>0,0005</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:msup><m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi><m:mn>-1</m:mn></m:msup></m:mrow><m:mo>⋅</m:mo><m:mfenced><m:mrow><m:mrow><m:mn>60</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi></m:mrow><m:mo>−</m:mo><m:mrow><m:mn>20</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi></m:mrow></m:mrow></m:mfenced></m:mrow></m:mrow></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>2,94</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">kΩ</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:math></equation>Natężenie prądu płynącego przez podgrzany rezystor wynosi<equation id="fs-id1170904071855" class="unnumbered"><label/>
+</m:math>; współczynnik temperaturowy dla węgla wynosi <m:math display="inline"><m:mi>α</m:mi><m:mo>=</m:mo><m:mrow><m:mo>−</m:mo><m:mrow><m:mn>0,0005</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mmultiscripts><m:mi mathvariant="normal">°</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:mi mathvariant="normal">C</m:mi></m:mmultiscripts></m:mrow></m:mrow></m:math>
+<equation id="eip-899" class="unnumbered"><m:math display="block"><m:mi>R</m:mi><m:mo>=</m:mo><m:mrow><m:msub><m:mi>R</m:mi><m:mn>0</m:mn></m:msub><m:mo>⁢</m:mo><m:mfenced><m:mrow><m:mn>1</m:mn><m:mo>+</m:mo><m:mrow><m:mi>α</m:mi><m:mo>⁢</m:mo><m:mrow><m:mo>Δ</m:mo><m:mi>T</m:mi></m:mrow></m:mrow></m:mrow></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">Ω</m:mi></m:mrow><m:mo>⋅</m:mo><m:mfenced close="]" open="["><m:mrow><m:mn>1</m:mn><m:mo>−</m:mo><m:mrow><m:mrow><m:mn>0,0005</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mmultiscripts><m:mi mathvariant="normal">°</m:mi><m:mn>-1</m:mn><m:mi mathvariant="normal">C</m:mi></m:mmultiscripts></m:mrow><m:mo>⋅</m:mo><m:mfenced><m:mrow><m:mrow><m:mn>60</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi></m:mrow><m:mo>−</m:mo><m:mrow><m:mn>20</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi></m:mrow></m:mrow></m:mfenced></m:mrow></m:mrow></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>2,94</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">kΩ</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:math></equation>Natężenie prądu płynącego przez podgrzany rezystor wynosi<equation id="fs-id1170904071855" class="unnumbered"><label/>
   <m:math display="block">
     <m:mi>I</m:mi>
     <m:mo>=</m:mo>
@@ -256,7 +256,7 @@
     <m:mfrac>
       <m:mrow>
         <m:mn>9</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
       </m:mrow>
       <m:mrow>
@@ -268,7 +268,7 @@
             <m:mn>3</m:mn>
           </m:msup>
         </m:mrow>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
     </m:mfrac>
@@ -282,14 +282,14 @@
           <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
         </m:msup>
       </m:mrow>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
     </m:mrow>
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mrow>
         <m:mn>3,06</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">mA</m:mi>
       </m:mrow>
       <m:mo>⁢</m:mo>
@@ -299,11 +299,11 @@
 </equation></item>
 </list><para id="fs-id1170902257173"><title>Znaczenie</title>Zmiana temperatury o <m:math display="inline">
     <m:mn>40</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
   </m:math> spowodowała zmianę natężenia prądu o <m:math display="inline">
   <m:mn>2</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">%</m:mi>
   </m:math>. Nie wydaje się ona duża, jednak zmiana właściwości elektrycznych może istotnie wpłynąć na obwód elektryczny. Z tego powodu wiele urządzeń elektronicznych, na przykład komputery, wyposaża się w wentylatory odprowadzające ciepło wytworzone przez elementy w obwodach elektrycznych.</para></example>
 <note id="fs-id1170904166900" class="check-understanding">
@@ -382,13 +382,13 @@
       
     <caption>Dioda jest urządzeniem półprzewodnikowym, które pozwala na przepływ prądu tylko w kierunku przewodzenia. Oznacza to, że na anodzie znajduje się wyższy potencjał niż na katodzie.</caption></figure><para id="fs-id1170903891278">Zależność natężenia prądu od napięcia dla diody przedstawia <link target-id="CNX_UPhysics_26_04_DiodeRead"/>. Zwróćmy uwagę na to, że dla diody pokazana jest zależność natężenia prądu od napięcia, podczas gdy dla rezystora była to zależność napięcia od natężenia. Dioda składa się z dwóch elementów: anody oraz katody. Gdy do anody podłączony jest ujemny potencjał, a do katody dodatni, tak jak w części (a), dioda zostaje spolaryzowana w kierunku zaporowym. W takim przypadku ma ona bardzo dużą rezystancję, więc w obwodzie płynie prąd o bardzo małym natężeniu, bliskim zero. Podczas wzrostu napięcia przyłożonego do diody prąd się nie zmienia do momentu, gdy napięcie osiągnie wartość napięcia przebicia i dioda zacznie przewodzić prąd, jak pokazano na <link xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" target-id="CNX_UPhysics_26_04_DiodeRead" cmlnle:case="locative"/>. Gdy kierunek prądu i podłączenia baterii zostaną odwrócone, do anody będzie podłączony potencjał dodatni, a do katody ujemny, dioda zostanie spolaryzowana w kierunku przewodzenia. Dioda krzemowa zaczyna przewodzić prąd, gdy napięcie przekroczy <m:math display="inline">
       <m:mn>0,7</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
       </m:math>. Rezystancja diody jest bliska zero (w obwodzie niezbędny jest rezystor, bez niego płynąłby prąd o bardzo dużym natężeniu). Jak widać na <link xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" target-id="CNX_UPhysics_26_04_DiodeRead" cmlnle:case="locative"/> związek między napięciem a natężeniem prądu nie jest liniowy. Oznacza to, że dioda nie jest urządzeniem omowym.</para><figure id="CNX_UPhysics_26_04_DiodeRead"><media id="fs-id1170902199101" alt="Rysunek jest wykresem zależności natężenia prądu od napięcia. Gdy napięcie jest ujemne i małe, przez diodę przepływa prąd o małym natężeniu. Gdy napięcie jest bliskie napięciu przebicia, natężenie prądu drastycznie rośnie. Gdy napięcie w diodzie krzemowej jest dodatnie i większe niż 0,7 V, dioda przewodzi. Przyłożone napięcie wzrasta, natężenie prądu przechodzącego przez diodę wzrasta ale napięcie w diodzie pozostaje w przybliżeniu na poziomie 0,7 V, ">
           <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_26_04_DiodeRead.jpg"/>
         </media>
         
-      <caption>Gdy napięcie przyłożone do diody jest ujemne i ma małą wartość, przez diodę przepływa prąd o bardzo małym natężeniu. Gdy osiągnie ono wartość napięcia przebicia, dioda zaczyna przewodzić. Gdy napięcie na diodzie jest dodatnie oraz większe od pewnej granicznej wartości zależnej od jej rodzaju, zaczyna ona przewodzić. Gdy napięcie się zwiększa, zwiększa się również natężenie prądu, jednak napięcie na diodzie zawsze jest bliskie tej granicznej wartości (dla diody krzemowej to ok. <m:math display="inline"><m:mn>0,7</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">V</m:mi></m:math>).</caption></figure><para id="fs-id1170902345248">Prawo Ohma zwykle przedstawia się jako <m:math display="inline">
+      <caption>Gdy napięcie przyłożone do diody jest ujemne i ma małą wartość, przez diodę przepływa prąd o bardzo małym natężeniu. Gdy osiągnie ono wartość napięcia przebicia, dioda zaczyna przewodzić. Gdy napięcie na diodzie jest dodatnie oraz większe od pewnej granicznej wartości zależnej od jej rodzaju, zaczyna ona przewodzić. Gdy napięcie się zwiększa, zwiększa się również natężenie prądu, jednak napięcie na diodzie zawsze jest bliskie tej granicznej wartości (dla diody krzemowej to ok. <m:math display="inline"><m:mn>0,7</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">V</m:mi></m:math>).</caption></figure><para id="fs-id1170902345248">Prawo Ohma zwykle przedstawia się jako <m:math display="inline">
         <m:mi>U</m:mi>
         <m:mo>=</m:mo>
         <m:mrow>
@@ -488,11 +488,11 @@
     <problem id="fs-id1170903806306">
       <para id="fs-id1170903809897">Rezystor o rezystancji <m:math display="inline">
         <m:mn>2,2</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">kΩ</m:mi>
       </m:math> podłączono do baterii R20 (<m:math display="inline">
       <m:mn>1,5</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
       </m:math>). Jakie natężenie ma prąd płynący przez ten rezystor?</para></problem>
   </exercise>
@@ -500,15 +500,15 @@
     <problem id="fs-id1170902093392">
       <para id="fs-id1170904165079">Rezystor o rezystancji <m:math display="inline">
         <m:mn>250</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">kΩ</m:mi>
       </m:math> połączono szeregowo z dwiema bateriami R20 (<m:math display="inline">
       <m:mn>1,5</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:math> każda), które dają napięcie <m:math display="inline">
     <m:mn>3</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math>. Producent twierdzi, że rezystory mają rezystancję w granicach 5% od wartości znamionowej. Jakie jest możliwe minimalne i maksymalne natężenie prądu płynącego przez rezystor?</para></problem>
 <solution id="fs-id1170902191383">
@@ -527,7 +527,7 @@
             <m:mn>5</m:mn>
           </m:msup>
         </m:mrow>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">Ω</m:mi>
       </m:mrow>
     </m:math>, <m:math display="inline">
@@ -538,7 +538,7 @@
     <m:mo>=</m:mo>
     <m:mrow>
       <m:mn>12,63</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">µA</m:mi>
     </m:mrow>
   </m:math>, <m:math display="inline">
@@ -556,7 +556,7 @@
         <m:mn>5</m:mn>
       </m:msup>
     </m:mrow>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">Ω</m:mi>
   </m:mrow>
 </m:math>, <m:math display="inline">
@@ -567,7 +567,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>11,43</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">µA</m:mi>
 </m:mrow>
 </m:math>.</para></solution>
@@ -576,11 +576,11 @@
   <problem id="fs-id1170902063263">
     <para id="fs-id1170902437990">Rezystor podłączono szeregowo do zasilacza <m:math display="inline">
       <m:mn>20</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">V</m:mi>
     </m:math>. Zmierzone natężenie prądu wyniosło <m:math display="inline">
     <m:mn>0,5</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">A</m:mi>
     </m:math>. Jaką rezystancję ma ten rezystor?</para></problem>
 </exercise>
@@ -595,7 +595,7 @@
         <m:mo>=</m:mo>
         <m:mrow>
           <m:mn>100</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">Ω</m:mi>
         </m:mrow>
         </m:math>.</para></solution>

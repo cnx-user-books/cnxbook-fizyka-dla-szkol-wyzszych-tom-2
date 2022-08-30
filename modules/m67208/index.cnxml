@@ -105,7 +105,7 @@
   </m:msub>
 </m:math> jest <term xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cmlnle:reference="przenikalność magnetyczna próżni">przenikalnością magnetyczną próżni</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">permeability of free space</term></foreign>). Jej wartość w układzie SI wynosi</para>
 <note id="ked-1bl95o8v7_ef" class="equation-callout">
-  <equation id="ked-1bl95oc0q_q48"><m:math display="block"><m:semantics><m:mrow><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi></m:mrow><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-7</m:mn></m:msup></m:mrow><m:mo>⁢</m:mo><m:mrow><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow><m:mo>∕</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \mu_0 = 4\pi \cdot 10^{-7}\si{\tesla\metre\per\ampere} \text{.}</m:annotation></m:semantics></m:math></equation></note>
+  <equation id="ked-1bl95oc0q_q48"><m:math display="block"><m:semantics><m:mrow><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi></m:mrow><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-7</m:mn></m:msup></m:mrow><m:mo>⁢</m:mo><m:mrow><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow><m:mo>∕</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \mu_0 = 4\pi \cdot 10^{-7}\si{\tesla\metre\per\ampere} \text{.}</m:annotation></m:semantics></m:math></equation></note>
 <para id="ked-1bl95seal_b1o">Wektor <m:math display="inline">
   <m:mo rspace="veryverythinmathspace" lspace="verythinmathspace">d</m:mo>
   <m:mover>
@@ -378,7 +378,7 @@
 <example id="ked-1bl96smrm_ta">
   <para id="ked-1bl96smqj_7og"><title>Obliczanie pól magnetycznych krótkich odcinków przewodów z prądem</title>Przez pionowy przewód przepływa prąd o natężeniu <m:math display="inline">
       <m:mn>2</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">A</m:mi>
     </m:math>. Oblicz indukcję pola magnetycznego wytwarzanego przez krótki wycinek tego przewodu o długości <m:math display="inline">
     <m:mn>1</m:mn>
@@ -386,7 +386,7 @@
     <m:mi mathvariant="normal">cm</m:mi>
   </m:math> w punkcie <m:math display="inline"><m:mi>P</m:mi></m:math> położonym w odległości <m:math display="inline">
   <m:mn>1</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">m</m:mi>
   </m:math> od przewodu w kierunku osi <m:math display="inline"><m:mi>x</m:mi></m:math> układu współrzędnych (<link target-id="CNX_UPhysics_29_01_LineSeg2"/>). Należy przyjąć, że pole wytwarzane przez pozostałą część przewodu zostało wyeliminowane dzięki zastosowaniu odpowiedniego ekranu magnetycznego.</para><figure id="CNX_UPhysics_29_01_LineSeg2">
     <media id="ked-1bl96u0ii_koo" alt="Rysunek przedstawia przewód l z krótkim nieekranowanym kawałkiem dl z płynącym prądem. Punkt P jest umieszczony w odległości x od przewodu. Wektor do punktu P z dl tworzy z przewodem kąt theta. Długość wektora jest pierwiastkiem kwadratowym sumy kwadratów x i l.">
@@ -460,7 +460,7 @@
     </m:mrow>
   </m:math>
 </equation>
-<para id="ked-1bl978jm6_p6o">Wartość indukcji pola magnetycznego w punkcie <m:math display="inline"><m:mi>P</m:mi></m:math>, obliczona z prawa Biota-Savarta, wynosi więc</para><equation id="ked-1bl9752mf_nn8" class="unnumbered"><m:math display="block"><m:semantics><m:mrow><m:mi>B</m:mi><m:mo>=</m:mo><m:mrow><m:mfrac><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub><m:mrow><m:mn>4</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi></m:mrow></m:mfrac><m:mo>⋅</m:mo><m:mfrac><m:mrow><m:mi>I</m:mi><m:mo>⁢</m:mo><m:mrow><m:mo>Δ</m:mo><m:mi>l</m:mi></m:mrow><m:mo>⁢</m:mo><m:mrow><m:mo>sin</m:mo><m:mi>θ</m:mi></m:mrow></m:mrow><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup></m:mfrac></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:msup><m:mn>10</m:mn><m:mn>-7</m:mn></m:msup><m:mo>⁢</m:mo><m:mrow><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow><m:mo>∕</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mfrac><m:mrow><m:mrow><m:mn>2</m:mn><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mn>0,01</m:mn><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mo>sin</m:mo><m:mrow><m:mn>89,4</m:mn><m:mo>°</m:mo></m:mrow></m:mrow></m:mrow><m:msup><m:mfenced><m:mrow><m:mn>1</m:mn><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mfenced><m:mn>2</m:mn></m:msup></m:mfrac></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-9</m:mn></m:msup></m:mrow><m:mo lspace="" rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">T</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            B = \frac{\mu_0}{4 \pi} \cdot \frac{I \prefop{\Delta} l \sin \theta}{r^2} = 10^{-7} \si{\tesla\metre\per\ampere} \cdot \frac{\SI{2}{\ampere} \cdot \SI{0,01}{\metre} \cdot \sin \ang{89,4} }{(\SI{1}{\metre})^2} = \SI{2e-9}{\tesla} \text{.}</m:annotation></m:semantics></m:math></equation><para id="ked-1bl975ls1_hu8">Na podstawie reguły prawej dłoni oraz prawa Biota-Savarta stwierdzamy, że wektor indukcji jest zwrócony w głąb rysunku, prostopadle do jego płaszczyzny.</para>
+<para id="ked-1bl978jm6_p6o">Wartość indukcji pola magnetycznego w punkcie <m:math display="inline"><m:mi>P</m:mi></m:math>, obliczona z prawa Biota-Savarta, wynosi więc</para><equation id="ked-1bl9752mf_nn8" class="unnumbered"><m:math display="block"><m:semantics><m:mrow><m:mi>B</m:mi><m:mo>=</m:mo><m:mrow><m:mfrac><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub><m:mrow><m:mn>4</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi></m:mrow></m:mfrac><m:mo>⋅</m:mo><m:mfrac><m:mrow><m:mi>I</m:mi><m:mo>⁢</m:mo><m:mrow><m:mo>Δ</m:mo><m:mi>l</m:mi></m:mrow><m:mo>⁢</m:mo><m:mrow><m:mo>sin</m:mo><m:mi>θ</m:mi></m:mrow></m:mrow><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup></m:mfrac></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:msup><m:mn>10</m:mn><m:mn>-7</m:mn></m:msup><m:mo>⁢</m:mo><m:mrow><m:mrow><m:mi mathvariant="normal">T</m:mi><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow><m:mo>∕</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow></m:mrow><m:mo>⋅</m:mo><m:mfrac><m:mrow><m:mrow><m:mn>2</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mn>0,01</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mo>sin</m:mo><m:mrow><m:mn>89,4</m:mn><m:mo>°</m:mo></m:mrow></m:mrow></m:mrow><m:msup><m:mfenced><m:mrow><m:mn>1</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mfenced><m:mn>2</m:mn></m:msup></m:mfrac></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-9</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">T</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            B = \frac{\mu_0}{4 \pi} \cdot \frac{I \prefop{\Delta} l \sin \theta}{r^2} = 10^{-7} \si{\tesla\metre\per\ampere} \cdot \frac{\SI{2}{\ampere} \cdot \SI{0,01}{\metre} \cdot \sin \ang{89,4} }{(\SI{1}{\metre})^2} = \SI{2e-9}{\tesla} \text{.}</m:annotation></m:semantics></m:math></equation><para id="ked-1bl975ls1_hu8">Na podstawie reguły prawej dłoni oraz prawa Biota-Savarta stwierdzamy, że wektor indukcji jest zwrócony w głąb rysunku, prostopadle do jego płaszczyzny.</para>
 <para id="ked-1bl975raa_r6o"><title>Znaczenie</title>Opisane przybliżenie jest dobre, gdy długość fragmentu przewodu jest mała w porównaniu z jego odległością od punktu, w którym wyznaczamy pole. W przeciwnym wypadku należy wykorzystać całkową postać prawa Biota-Savarta, przy czym całkowanie musi przebiegać po całej długości rozpatrywanego fragmentu przewodu. </para></example>
 <note id="ked-1bl9793tb_9u8" class="check-understanding">
   <exercise id="ked-1bl979fkp_c78">
@@ -469,7 +469,7 @@
       <solution id="ked-1bl979fkm_58g">
         <para id="ked-1bl979fie_49"><m:math display="inline">
             <m:mn>1,41</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">m</m:mi>
             </m:math>.</para></solution>
         </exercise>
@@ -799,7 +799,7 @@
                 <problem id="ked-1bla5bmi0_42g">
                   <para id="ked-1bla5bmhd_4e8">Prąd o natężeniu <m:math display="inline">
                     <m:mn>10</m:mn>
-                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mi mathvariant="normal">A</m:mi>
                   </m:math> płynie przez przewód pokazany na rysunku. Jaka jest wartość indukcji pola magnetycznego wytwarzanego przez zaznaczony na rysunku fragment przewodu o długości <m:math display="inline">
                   <m:mn>0,5</m:mn>
@@ -816,7 +816,7 @@
           <problem id="ked-1bla5bkes_71o">
             <para id="ked-1bla5bkcp_rgo">Prąd o natężeniu <m:math display="inline">
               <m:mn>10</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">A</m:mi>
             </m:math> płynie przez przewód w kształcie kwadratowej ramki o boku równym <m:math display="inline">
             <m:mn>20</m:mn>
@@ -836,7 +836,7 @@
                   <m:mn>10</m:mn>
                   <m:mrow><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow>
                 </m:msup>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">T</m:mi>
               </m:math>. </para></solution>
           </exercise>

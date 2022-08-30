@@ -51,11 +51,11 @@
 <m:mn>0</m:mn>
 </m:math>, entropia układu wzrasta. Przykładem może być gaz o temperaturze <m:math display="inline">
 <m:mn>300</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:mi mathvariant="normal">K</m:mi>
 </m:math>, pobierający ciepło <m:math display="inline">
 <m:mn>10</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">J</m:mi>
 </m:math> w izotermicznym procesie odwracalnym. Korzystając z <link xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" target-id="fs-id1167584952313" cmlnle:case="genitive"/>, wyliczamy zmianę entropii</para><equation id="fs-id1167584857753" class="unnumbered"><label/>
   <m:math display="block">
@@ -67,12 +67,12 @@
     <m:mfrac>
       <m:mrow>
         <m:mn>10</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">J</m:mi>
       </m:mrow>
       <m:mrow>
         <m:mn>300</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">K</m:mi>
       </m:mrow>
     </m:mfrac>
@@ -80,7 +80,7 @@
     <m:mrow>
       <m:mrow>
         <m:mn>0,033</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mrow>
           <m:mi mathvariant="normal">J</m:mi>
           <m:mo>∕</m:mo>
@@ -96,12 +96,12 @@
   <m:mo>=</m:mo>
   <m:mrow>
     <m:mn>200</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">K</m:mi>
   </m:mrow>
 </m:math> oddaje <m:math display="inline">
 <m:mn>5</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:mi mathvariant="normal">J</m:mi>
 </m:math> ciepła, <m:math display="inline">
 <m:mi>Q</m:mi>
@@ -110,7 +110,7 @@
   <m:mo>−</m:mo>
   <m:mrow>
     <m:mn>5</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
     <m:mi mathvariant="normal">J</m:mi>
   </m:mrow>
 </m:mrow>
@@ -126,13 +126,13 @@
         <m:mo>−</m:mo>
         <m:mrow>
           <m:mn>5</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">J</m:mi>
         </m:mrow>
       </m:mrow>
       <m:mrow>
         <m:mn>200</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">K</m:mi>
       </m:mrow>
     </m:mfrac>
@@ -142,7 +142,7 @@
       <m:mrow>
         <m:mrow>
           <m:mn>0,025</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mrow>
             <m:mi mathvariant="normal">J</m:mi>
             <m:mo>∕</m:mo>
@@ -157,11 +157,11 @@
 </equation><example id="fs-id1167585136722">
   <para id="fs-id1167584632913"><title>Zmiana entropii topniejącego lodu</title>Kostka lodu o masie <m:math display="inline">
       <m:mn>50</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
       <m:mi mathvariant="normal">g</m:mi>
     </m:math> i temperaturze <m:math display="inline">
     <m:mn>0</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
     </m:math> jest powoli podgrzewana, co prowadzi do przemiany w wodę o tej samej temperaturze. Jaka jest zmiana entropii tego lodu?</para><para id="fs-id1167583655128">
       <title>Strategia rozwiązania</title>Proces zachodzi powoli, dlatego możemy uznać go za proces odwracalny. Temperatura jest stała, więc możemy użyć wzoru <link xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" target-id="fs-id1167584952313" cmlnle:case="genitive"/> w naszych obliczeniach.</para>
@@ -180,13 +180,13 @@
             <m:mrow>
               <m:mrow>
                 <m:mn>50</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                 <m:mi mathvariant="normal">g</m:mi>
               </m:mrow>
               <m:mo>⋅</m:mo>
               <m:mrow>
                 <m:mn>335</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                 <m:mrow>
                   <m:mi mathvariant="normal">J</m:mi>
                   <m:mo>∕</m:mo>
@@ -198,7 +198,7 @@
             <m:mrow>
               <m:mrow>
                 <m:mn>16,8</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                 <m:mi mathvariant="normal">kJ</m:mi>
               </m:mrow>
               <m:mo>⁢</m:mo>
@@ -207,11 +207,11 @@
           </m:math>
         </equation><para id="eip-950">gdzie <m:math display="inline"><m:semantics><m:mi>m</m:mi><m:annotation encoding="application/vnd.katalysteducation.mathtex">            m</m:annotation></m:semantics></m:math> to masa lodu, a <m:math display="inline"><m:semantics><m:mi>L</m:mi><m:annotation encoding="application/vnd.katalysteducation.mathtex">            L</m:annotation></m:semantics></m:math> – ciepło topnienia.</para><para id="fs-id1167584706515">W tym procesie odwracalnym temperatura mieszaniny lodu i wody jest równa <m:math display="inline">
           <m:mn>0</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
         </m:math> lub <m:math display="inline">
         <m:mn>273</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">K</m:mi>
       </m:math>. Korzystając z <m:math display="inline">
       <m:mrow>
@@ -234,19 +234,19 @@
           <m:mfrac>
             <m:mrow>
               <m:mn>16,8</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">kJ</m:mi>
             </m:mrow>
             <m:mrow>
               <m:mn>273</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">K</m:mi>
             </m:mrow>
           </m:mfrac>
           <m:mo>=</m:mo>
           <m:mrow>
             <m:mn>61,5</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mrow>
               <m:mi mathvariant="normal">J</m:mi>
               <m:mo>∕</m:mo>
@@ -256,7 +256,7 @@
         </m:math>
       </equation><para id="fs-id1167584655498">podczas topnienia w temperaturze <m:math display="inline">
         <m:mn>0</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
         </m:math>.</para><para id="fs-id1167583697282">
           <title>Znaczenie</title>Podczas zmiany stanu skupienia temperatura jest stała, dzięki czemu możemy użyć <link xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" target-id="fs-id1167584952313" cmlnle:case="genitive"/> do rozwiązania tego problemu. To samo równanie mogłoby być również użyte w przypadku zmiany stanu skupienia z ciekłego na gazowy, ponieważ podczas tej przemiany temperatura również nie ulega zmianie.</para>
@@ -631,7 +631,7 @@
   </m:math>
 </equation>
 <para id="fs-id1167585006166">dlatego</para>
-<equation id="fs-id1167583612964" class="unnumbered"><m:math display="block"><m:mrow><m:mo>Δ</m:mo><m:mi>S</m:mi></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo><m:mrow><m:mi mathvariant="normal">J</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">K</m:mi></m:mrow></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:math></equation><para id="fs-id1167584722095">Na początku i na końcu omawianego cyklu entropia silnika Carnota jest taka sama. Zależność tę można uogólnić dla innych przypadków: zmiana entropii układu ulegającego pełnemu cyklowi procesu odwracalnego jest zerowa. Wyrażenie to można zapisać matematycznie jako</para><note id="fs-id1167583647945" class="equation-callout">
+<equation id="fs-id1167583612964" class="unnumbered"><m:math display="block"><m:mrow><m:mo>Δ</m:mo><m:mi>S</m:mi></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace">⁢⁢</m:mo><m:mrow><m:mi mathvariant="normal">J</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">K</m:mi></m:mrow></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:math></equation><para id="fs-id1167584722095">Na początku i na końcu omawianego cyklu entropia silnika Carnota jest taka sama. Zależność tę można uogólnić dla innych przypadków: zmiana entropii układu ulegającego pełnemu cyklowi procesu odwracalnego jest zerowa. Wyrażenie to można zapisać matematycznie jako</para><note id="fs-id1167583647945" class="equation-callout">
   <equation id="fs-id1167584743917">
     <label/>
     <m:math display="block">
@@ -786,7 +786,7 @@
 </m:math> jest taka sama dla I oraz II. Obie drogi są odwracalne i zostały dowolnie wybrane, dlatego zmiana entropii podczas przejścia między dwoma stanami równowagowymi jest taka sama dla wszystkich odwracalnych procesów między tymi stanami. Entropia, podobnie jak energia wewnętrzna, jest więc funkcją stanu.</para>
 <para id="fs-id1167584753200">Co się stanie, jeśli proces będzie nieodwracalny? Oczekujemy wtedy, że entropia zamkniętego układu lub układu i jego otoczenia (w szczególności całego Wszechświata) będzie się zwiększała. Dlatego możemy zapisać to wyrażenie jako</para>
 <note id="fs-id1167583597003" class="equation-callout">
-  <equation id="fs-id1167583681746"><m:math display="block"><m:mrow><m:mo>Δ</m:mo><m:mi>S</m:mi></m:mrow><m:mo>≥</m:mo><m:mrow><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo><m:mrow><m:mi mathvariant="normal">J</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">K</m:mi></m:mrow></m:mrow><m:mo>⁢</m:mo><m:mtext>,</m:mtext></m:mrow></m:math></equation></note>
+  <equation id="fs-id1167583681746"><m:math display="block"><m:mrow><m:mo>Δ</m:mo><m:mi>S</m:mi></m:mrow><m:mo>≥</m:mo><m:mrow><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace">⁢⁢</m:mo><m:mrow><m:mi mathvariant="normal">J</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">K</m:mi></m:mrow></m:mrow><m:mo>⁢</m:mo><m:mtext>,</m:mtext></m:mrow></m:math></equation></note>
 <para id="fs-id1167585015998">gdzie <m:math display="inline">
   <m:mi>S</m:mi>
 </m:math> jest całkowitą entropią układu zamkniętego (całego Wszechświata), a znak równości odnosi się do procesu odwracalnego. Prawdziwe jest <term>sformułowanie drugiej zasady termodynamiki oparte na pojęciu entropii</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">entropy statement of the second law of thermodynamics</term></foreign>):</para>
@@ -987,7 +987,7 @@
     </m:mrow>
   </m:math>
 </equation>
-<para id="fs-id1167584740582">Zauważmy, że <m:math display="inline"><m:mrow><m:mo>Δ</m:mo><m:mi>S</m:mi></m:mrow><m:mo>&lt;</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo><m:mrow><m:mi mathvariant="normal">J</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">K</m:mi></m:mrow></m:mrow></m:math>, ponieważ <m:math display="inline">
+<para id="fs-id1167584740582">Zauważmy, że <m:math display="inline"><m:mrow><m:mo>Δ</m:mo><m:mi>S</m:mi></m:mrow><m:mo>&lt;</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace">⁢⁢</m:mo><m:mrow><m:mi mathvariant="normal">J</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">K</m:mi></m:mrow></m:mrow></m:math>, ponieważ <m:math display="inline">
 <m:msub>
   <m:mi>T</m:mi>
   <m:mtext>z</m:mtext>
@@ -997,18 +997,18 @@
   <m:mi>T</m:mi>
   <m:mtext>c</m:mtext>
 </m:msub>
-</m:math>. Innymi słowy, ciało straciło część entropii. Jednak jeśli policzylibyśmy to, co spowodowało usunięcie ciepła z ciała, uzyskalibyśmy <m:math display="inline"><m:mrow><m:mo>Δ</m:mo><m:msub><m:mi>S</m:mi><m:mtext>Wszechświat</m:mtext></m:msub></m:mrow><m:mo>&gt;</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo><m:mrow><m:mi mathvariant="normal">J</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">K</m:mi></m:mrow></m:mrow></m:math>, ponieważ proces jest nieodwracalny.</para><para id="fs-id1167585159300">
+</m:math>. Innymi słowy, ciało straciło część entropii. Jednak jeśli policzylibyśmy to, co spowodowało usunięcie ciepła z ciała, uzyskalibyśmy <m:math display="inline"><m:mrow><m:mo>Δ</m:mo><m:msub><m:mi>S</m:mi><m:mtext>Wszechświat</m:mtext></m:msub></m:mrow><m:mo>&gt;</m:mo><m:mrow><m:mn>0</m:mn><m:mo rspace="verythinmathspace">⁢⁢</m:mo><m:mrow><m:mi mathvariant="normal">J</m:mi><m:mo>∕</m:mo><m:mi mathvariant="normal">K</m:mi></m:mrow></m:mrow></m:math>, ponieważ proces jest nieodwracalny.</para><para id="fs-id1167585159300">
   <title>Znaczenie</title>Jeśli temperatura zmienia się podczas przepływu ciepła, to w celu obliczenia zmiany entropii należy umieścić temperaturę pod całką. Jeśli jednak temperatura jest stała, wystarczy podzielić ilość wymienionej energii przez temperaturę, aby uzyskać wartość zmiany entropii.</para>
 </example>
 <example id="fs-id1167584727098"><para id="fs-id1167585038742"><title>Silnik Stirlinga</title>Rozwiążmy teraz zadanie z <term xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" class="no-emphasis" cmlnle:reference="silnik Stirlinga">silnikiem Stirlinga</term> (ang. <foreign><term xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" cxlxt:index="foreign" class="no-emphasis">Stirling engine</term></foreign>). W tym zadaniu użyjemy <m:math display="inline">
       <m:mn>0,001</m:mn>
     </m:math> mola gazu jednoatomowego, który na początku ma temperaturę <m:math display="inline">
     <m:mn>133</m:mn>
-    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+    <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
   </m:math> i objętość <m:math display="inline">
   <m:mn>0,1</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:msup>
     <m:mi mathvariant="normal">m</m:mi>
     <m:mn>3</m:mn>
@@ -1021,18 +1021,18 @@
     <m:mi>B</m:mi>
   </m:math>: rozprężanie izotermicznie przy <m:math display="inline">
   <m:mn>133</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
 </m:math> od <m:math display="inline">
 <m:mn>0,1</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:msup>
   <m:mi mathvariant="normal">m</m:mi>
   <m:mn>3</m:mn>
 </m:msup>
 </m:math> do <m:math display="inline">
 <m:mn>0,2</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:msup>
   <m:mi mathvariant="normal">m</m:mi>
   <m:mn>3</m:mn>
@@ -1044,7 +1044,7 @@
   <m:mi>C</m:mi>
 </m:math>: ochładzanie izochoryczne do <m:math display="inline">
 <m:mn>33</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
 </m:math>.</item>
 <item>Etap <m:math display="inline">
@@ -1053,18 +1053,18 @@
   <m:mi>D</m:mi>
 </m:math>: sprężanie izotermiczne przy <m:math display="inline">
 <m:mn>33</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
 </m:math> od <m:math display="inline">
 <m:mn>0,2</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:msup>
   <m:mi mathvariant="normal">m</m:mi>
   <m:mn>3</m:mn>
 </m:msup>
 </m:math> do <m:math display="inline">
 <m:mn>0,1</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:msup>
   <m:mi mathvariant="normal">m</m:mi>
   <m:mn>3</m:mn>
@@ -1076,11 +1076,11 @@
   <m:mi>A</m:mi>
 </m:math>: podgrzewanie izochoryczne do <m:math display="inline">
 <m:mn>133</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
 </m:math> i <m:math display="inline">
 <m:mn>0,1</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢⁢</m:mo>
 <m:msup>
   <m:mi mathvariant="normal">m</m:mi>
   <m:mn>3</m:mn>
@@ -1614,11 +1614,11 @@
       <problem id="fs-id1167584902846">
         <para id="fs-id1167584702418">Z rezerwuaru o temperaturze <m:math display="inline">
           <m:mn>200</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">K</m:mi>
         </m:math> pobrano <m:math display="inline">
         <m:mn>200</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">J</m:mi>
         </m:math> ciepła. Jaka jest zmiana entropii tego rezerwuaru?</para></problem>
       <solution id="fs-id1167585004684">
@@ -1626,7 +1626,7 @@
             <m:mo>−</m:mo>
             <m:mrow>
               <m:mn>1</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mrow>
                 <m:mi mathvariant="normal">J</m:mi>
                 <m:mo>∕</m:mo>
@@ -1639,11 +1639,11 @@
           <problem id="fs-id1167584821848">
             <para id="fs-id1167584759751">Podczas odwracalnego rozprężania izotermicznego przy <m:math display="inline">
               <m:mn>27</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
             </m:math> gaz doskonały wykonuje pracę <m:math display="inline">
             <m:mn>20</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">J</m:mi>
             </m:math>. Jaka jest zmiana entropii tego gazu?</para></problem>
         </exercise>
@@ -1651,21 +1651,21 @@
           <problem id="fs-id1167584980689">
             <para id="fs-id1167584656399">Gaz doskonały o temperaturze <m:math display="inline">
               <m:mn>300</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">K</m:mi>
               </m:math> został izotermicznie sprężony do jednej piątej swojej początkowej objętości. Ustal zmianę entropii na mol tego gazu.</para></problem>
             <solution id="fs-id1167583539274">
-              <para id="fs-id1167583839645"><m:math display="inline"><m:mo>−</m:mo><m:mrow><m:mn>13</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo><m:mrow><m:mi mathvariant="normal">J</m:mi><m:mo>∕</m:mo><m:mfenced><m:mrow><m:mi mathvariant="normal">K</m:mi><m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo><m:mi mathvariant="normal">mol</m:mi></m:mrow></m:mfenced></m:mrow></m:mrow></m:math>.</para></solution>
+              <para id="fs-id1167583839645"><m:math display="inline"><m:mo>−</m:mo><m:mrow><m:mn>13</m:mn><m:mo rspace="verythinmathspace">⁢⁢</m:mo><m:mrow><m:mi mathvariant="normal">J</m:mi><m:mo>∕</m:mo><m:mfenced><m:mrow><m:mi mathvariant="normal">K</m:mi><m:mo rspace="verythinmathspace">⁢⁢</m:mo><m:mi mathvariant="normal">mol</m:mi></m:mrow></m:mfenced></m:mrow></m:mrow></m:math>.</para></solution>
               </exercise>
               <exercise id="fs-id1167583718248">
                 <problem id="fs-id1167583525884">
                   <para id="fs-id1167585017729">Jaka jest zmiana entropii <m:math display="inline">
                     <m:mn>10</m:mn>
-                    <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                    <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                     <m:mi mathvariant="normal">g</m:mi>
                   </m:math> pary wodnej o temperaturze <m:math display="inline">
                   <m:mn>100</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
                   </m:math>, jeśli skropliła się do wody o tej samej temperaturze?</para></problem>
               </exercise>
@@ -1741,15 +1741,15 @@
               <problem id="fs-id1167583902250">
                 <para id="fs-id1167585156347">Ołów o masie <m:math display="inline">
                   <m:mn>5</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                   <m:mi mathvariant="normal">kg</m:mi>
                 </m:math> i temperaturze <m:math display="inline">
                 <m:mn>600</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                 <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
               </m:math> został umieszczony w jeziorze, którego temperatura wynosi <m:math display="inline">
               <m:mn>15</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
               </m:math>. Ustal zmianę entropii dla
 <list id="eip-idm511411264" list-type="enumerated" number-style="lower-alpha">
@@ -1762,7 +1762,7 @@
                 <m:mo>−</m:mo>
                 <m:mrow>
                   <m:mn>540</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
                   <m:mrow>
                     <m:mi mathvariant="normal">J</m:mi>
                     <m:mo>∕</m:mo>
@@ -1771,7 +1771,7 @@
                 </m:mrow>
               </m:math>; b. <m:math display="inline">
               <m:mn>1600</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mrow>
                 <m:mi mathvariant="normal">J</m:mi>
                 <m:mo>∕</m:mo>
@@ -1779,7 +1779,7 @@
               </m:mrow>
             </m:math>; c. <m:math display="inline">
             <m:mn>1100</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mrow>
               <m:mi mathvariant="normal">J</m:mi>
               <m:mo>∕</m:mo>
@@ -1793,7 +1793,7 @@
 <list id="eip-idm655207216" list-type="enumerated" number-style="lower-alpha"><item>Jaka będzie zmiana entropii tego gazu?</item>
 <item>Jeśli ciepło <m:math display="inline">
               <m:mn>1500</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">J</m:mi>
               </m:math> zostanie dostarczone podczas tego procesu, to jaka będzie temperatura gazu?</item>
 </list></para></problem>
@@ -1861,29 +1861,29 @@
             <problem id="fs-id1167585014645">
               <para id="fs-id1167584699942">Kamień o masie <m:math display="inline">
                 <m:mn>5</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">kg</m:mi>
               </m:math> i o temperaturze <m:math display="inline">
               <m:mn>20</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
             </m:math> zostaje wrzucony do płytkiego jeziora również o temperaturze <m:math display="inline">
             <m:mn>20</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
             <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
           </m:math> z wysokości <m:math display="inline">
           <m:msup>
             <m:mn>10</m:mn>
             <m:mn>3</m:mn>
           </m:msup>
-          <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
           <m:mi mathvariant="normal">m</m:mi>
         </m:math>.
 <list id="eip-idm1459405056" list-type="enumerated" number-style="lower-alpha">
 <item>Jaka będzie zmiana entropii dla Wszechświata?</item>
 <item>Jeśli temperatura kamienia wynosiłaby <m:math display="inline">
         <m:mn>100</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
       </m:math>, gdy został on zrzucony, jaka byłaby zmiana entropii dla Wszechświata?</item>
 </list>
@@ -1892,14 +1892,14 @@
       <m:mo>=</m:mo>
       <m:mrow>
         <m:mn>860</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
         <m:mrow>
           <m:mi mathvariant="normal">J</m:mi>
           <m:mo>∕</m:mo>
           <m:mfenced>
             <m:mrow>
               <m:mi mathvariant="normal">kg</m:mi>
-              <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
               <m:mi mathvariant="normal">K</m:mi>
             </m:mrow>
           </m:mfenced>

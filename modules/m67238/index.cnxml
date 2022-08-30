@@ -1192,7 +1192,7 @@
         <m:mtext>,</m:mtext>
       </m:mrow>
     </m:math>
-  </equation><para id="fs-id1171238962292">co jest równe <term class="no-emphasis" cmlnle:reference="prędkość światła">prędkości światła</term> (ang. <foreign><term cxlxt:index="foreign" class="no-emphasis">speed of light</term></foreign>). Wyobraźmy sobie, jak bardzo podekscytowany musiał być Maxwell, gdy wyprowadził to równanie! Odkrył on powiązanie pomiędzy dwoma, zdawałoby się niezwiązanymi ze sobą, zjawiskami: falami elektromagnetycznymi i światłem.</para><equation id="eip-203" class="unnumbered"><m:math/></equation>
+  </equation><para id="fs-id1171238962292">co jest równe <term class="no-emphasis" cmlnle:reference="prędkość światła">prędkości światła</term> (ang. <foreign><term cxlxt:index="foreign" class="no-emphasis">speed of light</term></foreign>). Wyobraźmy sobie, jak bardzo podekscytowany musiał być Maxwell, gdy wyprowadził to równanie! Odkrył on powiązanie pomiędzy dwoma, zdawałoby się niezwiązanymi ze sobą, zjawiskami: falami elektromagnetycznymi i światłem.</para><equation id="eip-203" class="unnumbered"/>
     <note id="fs-id1171241155466" class="check-understanding">
       <exercise id="fs-id1171240991748">
         <problem id="fs-id1171238801254">
@@ -2014,7 +2014,7 @@
       <m:mi>B</m:mi>
       </m:math> jest mniejsza niż jedna dziesiąta natężenia względnie słabego pola magnetycznego Ziemi. Oznacza to, że stosunkowo silnemu polu elektrycznemu towarzyszy stosunkowo słabe pole magnetyczne.</para>
     </example>
-    <para id="fs-id1171240985364">Zmienne pola elektryczne generują stosunkowo słabe pola magnetyczne. Połączone pola elektryczne i magnetyczne można wykryć w postaci fal elektromagnetycznych, jednak wymaga to wykorzystania zjawiska rezonansu, tak jak zrobił to Hertz. Obwód z taką samą naturalną częstotliwością rezonansową co fala elektromagnetyczna może zostać zmuszony do oscylacji. Każde radio i antena telewizyjna wykorzystują tę zasadę do odbierania i wzmacniania słabych fal elektromagnetycznych, jednocześnie ignorując wszystkie fale o częstotliwości innej od częstotliwości rezonansowych odbiorników.</para><equation id="eip-204" class="unnumbered"><m:math/></equation><note id="fs-id1171241133509" class="check-understanding">
+    <para id="fs-id1171240985364">Zmienne pola elektryczne generują stosunkowo słabe pola magnetyczne. Połączone pola elektryczne i magnetyczne można wykryć w postaci fal elektromagnetycznych, jednak wymaga to wykorzystania zjawiska rezonansu, tak jak zrobił to Hertz. Obwód z taką samą naturalną częstotliwością rezonansową co fala elektromagnetyczna może zostać zmuszony do oscylacji. Każde radio i antena telewizyjna wykorzystują tę zasadę do odbierania i wzmacniania słabych fal elektromagnetycznych, jednocześnie ignorując wszystkie fale o częstotliwości innej od częstotliwości rezonansowych odbiorników.</para><equation id="eip-204" class="unnumbered"/><note id="fs-id1171241133509" class="check-understanding">
       <exercise id="fs-id1171238940395">
         <problem id="fs-id1171240969518">
           <para id="fs-id1171241092599"><emphasis effect="bold">Sprawdź, czy rozumiesz.</emphasis> Do jakich wniosków doprowadziła nasza analiza równań Maxwella w odniesieniu do następujących własności płaskich fal elektromagnetycznych:<list id="eip-idm326688384" list-type="enumerated" number-style="lower-alpha"><item>wzajemne relacje pomiędzy kierunkami rozchodzenia się fali i oscylacji pól <m:math display="inline">

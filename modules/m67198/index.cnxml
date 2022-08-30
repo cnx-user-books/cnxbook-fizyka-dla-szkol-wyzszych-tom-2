@@ -920,10 +920,10 @@
                             <m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow>
                           </m:msup>
                           <m:mo rspace="verythinmathspace" lspace="0px">⁢⁢</m:mo>
-                          <m:msup>
-                            <m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi>
-                            <m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow>
-                          </m:msup>
+                          <m:mmultiscripts>
+                            <m:mi mathvariant="normal">°</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow>
+                          <m:mi mathvariant="normal">C</m:mi>
+                            </m:mmultiscripts>
                         </m:mrow>
                       </m:math>, a wyłącznik bezpieczeństwa przerwał dopływ prądu po <m:math display="inline">
                       <m:mn>0,5</m:mn>

@@ -239,25 +239,25 @@
       <m:mn>50</m:mn>
     </m:math> zwojach zmierzono zaindukowaną SEM o wartości <m:math display="inline">
     <m:mn>2</m:mn>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">V</m:mi>
   </m:math>, podczas gdy natężenie prądu zmieniało się jednostajnie od <m:math display="inline">
   <m:mn>0</m:mn>
- <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+ <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">A</m:mi>
 </m:math> do <m:math display="inline">
 <m:mn>5</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">A</m:mi>
 </m:math> w czasie <m:math display="inline">
 <m:mn>0,1</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
 <m:mi mathvariant="normal">s</m:mi>
 </m:math>.<list id="eip-idm521605472" list-type="enumerated" number-style="lower-alpha">
 <item>Ile wynosi indukcyjność własna cewki?</item>
 <item>Ile wynosi strumień na jeden zwój cewki przy natężeniu prądu <m:math display="inline">
   <m:mn>5</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">A</m:mi>
   </m:math>?</item>
 </list>
@@ -288,19 +288,19 @@
           <m:mfrac>
             <m:mrow>
               <m:mn>2</m:mn>
-             <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+             <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">V</m:mi>
             </m:mrow>
             <m:mrow>
               <m:mrow>
                 <m:mn>5</m:mn>
-               <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+               <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">A</m:mi>
               </m:mrow>
               <m:mo>∕</m:mo>
               <m:mrow>
                 <m:mn>0,1</m:mn>
-               <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+               <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">s</m:mi>
               </m:mrow>
             </m:mrow>
@@ -316,7 +316,7 @@
                   <m:mrow><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow>
                 </m:msup>
               </m:mrow>
-             <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+             <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">H</m:mi>
             </m:mrow>
             <m:mo>⁢</m:mo>
@@ -357,17 +357,17 @@
               <m:mrow><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow>
             </m:msup>
           </m:mrow>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">H</m:mi>
         </m:mrow>
         <m:mo>⋅</m:mo>
         <m:mrow>
           <m:mn>5</m:mn>
-        <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+        <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">A</m:mi>
         </m:mrow>
       </m:mrow>
-<m:mrow><m:mn>50</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">zwojów</m:mi></m:mrow>
+<m:mrow><m:mn>50</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">zwojów</m:mi></m:mrow>
     </m:mfrac>
     <m:mo>=</m:mo>
     <m:mrow>
@@ -380,7 +380,7 @@
             <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
           </m:msup>
         </m:mrow>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">Wb</m:mi>
       </m:mrow>
       <m:mo>⁢</m:mo>
@@ -413,11 +413,11 @@
       <para id="fs-id1167132284221">
         <emphasis effect="bold">Sprawdź, czy rozumiesz. </emphasis> Jednostajnie zmienny prąd ładowania indukuje SEM o wartości <m:math display="inline">
           <m:mn>10</m:mn>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">V</m:mi>
         </m:math> w cewce indukcyjnej o indukcyjności własnej <m:math display="inline">
         <m:mn>0,25</m:mn>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">H</m:mi>
         </m:math>. Jaka jest szybkość zmian natężenia prądu?</para>
       </problem>
@@ -425,7 +425,7 @@
         <para id="fs-id1167133871526">
           <m:math display="inline">
             <m:mn>40</m:mn>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mrow>
               <m:mi mathvariant="normal">A</m:mi>
               <m:mo>∕</m:mo>
@@ -732,7 +732,7 @@
           <caption>Obliczanie indukcyjności własnej toroidu o przekroju prostokątnym</caption></figure><para id="fs-id1167132464580">Tak policzony strumień możemy wstawić do <link xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" target-id="fs-id1167132200528" cmlnle:case="genitive"/>, by otrzymać indukcyjność własną naszej cewki</para>
           <note id="fs-id1167132615660" class="equation-callout">
             <equation id="fs-id1167133510385"><m:math display="block"><m:semantics><m:mrow><m:mi>L</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>N</m:mi><m:mo>⁢</m:mo><m:msub><m:mi mathvariant="normal">Φ</m:mi><m:mi>B</m:mi></m:msub></m:mrow><m:mi>i</m:mi></m:mfrac><m:mo>=</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub><m:mo>⁢</m:mo><m:msup><m:mi>N</m:mi><m:mn>2</m:mn></m:msup><m:mo>⁢</m:mo><m:mi>h</m:mi></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi></m:mrow></m:mfrac><m:mo>⁢</m:mo><m:mrow><m:mo>ln</m:mo><m:mrow><m:mfenced><m:mfrac><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:mfrac></m:mfenced><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow></m:mrow></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            L = \frac{N\Phi_B}{I} = \frac{\mu_0 N^2 h}{2\pi} \ln (\frac{R_2}{R_1}) \text{.}</m:annotation></m:semantics></m:math></equation></note>
-          <para id="fs-id1167133824873">Tak jak się spodziewaliśmy, również tym razem indukcyjność własna zależy tylko od fizycznych właściwości cewki.</para><equation id="eip-203" class="unnumbered"><m:math/></equation>
+          <para id="fs-id1167133824873">Tak jak się spodziewaliśmy, również tym razem indukcyjność własna zależy tylko od fizycznych właściwości cewki.</para><equation id="eip-203" class="unnumbered"/>
           <note id="fs-id1167132220801" class="check-understanding">
             <exercise id="fs-id1167132743306">
               <problem id="fs-id1167133562015">
@@ -740,31 +740,31 @@
                   <emphasis effect="bold">Sprawdź, czy rozumiesz. </emphasis>
                   <list id="eip-idm309457968" list-type="enumerated" number-style="lower-alpha"><item>Ciasno nawinięty solenoid z drutu o średnicy <m:math display="inline">
                       <m:mn>0,1</m:mn>
-                      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                      <m:mo rspace="verythinmathspace">⁢</m:mo>
                       <m:mi mathvariant="normal">cm</m:mi>
                     </m:math> ma pole przekroju <m:math display="inline">
                     <m:mn>0,9</m:mn>
-                   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                   <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:msup>
                       <m:mi mathvariant="normal">cm</m:mi>
                       <m:mn>2</m:mn>
                     </m:msup>
                   </m:math> i długość <m:math display="inline">
                   <m:mn>40</m:mn>
-                 <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                 <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">cm</m:mi>
                   </m:math>. Oblicz jego indukcyjność własną;</item>
                   <item>Prąd płynący przez solenoid jednostajnie spada z <m:math display="inline">
                     <m:mn>10</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mi mathvariant="normal">A</m:mi>
                   </m:math> do <m:math display="inline">
                   <m:mn>0</m:mn>
-                 <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                 <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">A</m:mi>
                 </m:math> w czasie <m:math display="inline">
                 <m:mn>0,1</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">s</m:mi>
                 </m:math>. Ile wynosi indukowana SEM pomiędzy końcami cewki?</item>
               </list></para>
@@ -779,7 +779,7 @@
                   <m:mrow><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow>
                 </m:msup>
               </m:mrow>
-           <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+           <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">H</m:mi>
             </m:math>; b. <m:math display="inline">
             <m:mrow>
@@ -790,7 +790,7 @@
                 <m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
               </m:msup>
             </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">V</m:mi>
             </m:math>.</para></solution>
         </exercise>
@@ -809,17 +809,17 @@
                       <m:mrow><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow>
                     </m:msup>
                   </m:mrow>
-               <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+               <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">H</m:mi>
                 </m:math>, gdy płynie przez niego prąd o natężeniu <m:math display="inline">
                 <m:mn>3</m:mn>
-               <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+               <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">A</m:mi>
               </m:math>? Załóż, że solenoid ma <m:math display="inline">
               <m:mn>1000</m:mn>
             </m:math> zwojów i jest zrobiony z drutu o średnicy <m:math display="inline">
             <m:mn>1</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">mm</m:mi>
             </m:math>;</item>
             <item>Ile wynosi pole przekroju poprzecznego tego solenoidu?</item>
@@ -835,7 +835,7 @@
               <m:mrow><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow>
             </m:msup>
           </m:mrow>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">Wb</m:mi>
         </m:math>; b. <m:math display="inline">
         <m:mrow>
@@ -846,7 +846,7 @@
             <m:mrow><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow>
           </m:msup>
         </m:mrow>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:msup>
           <m:mi mathvariant="normal">m</m:mi>
           <m:mn>2</m:mn>
@@ -898,16 +898,16 @@
 </m:math>), <m:math display="inline">
 <m:mrow>
   <m:mn>1</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mi mathvariant="normal">H</m:mi>
 </m:mrow>
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>1</m:mn>
-<m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+<m:mo rspace="verythinmathspace">⁢</m:mo>
   <m:mrow>
     <m:mi mathvariant="normal">Ω</m:mi>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mi mathvariant="normal">s</m:mi>
   </m:mrow>
 </m:mrow>
@@ -962,11 +962,11 @@
                 <m:mrow><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow>
               </m:msup>
             </m:mrow>
-          <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+          <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mrow>
               <m:mrow>
                 <m:mi mathvariant="normal">T</m:mi>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">m</m:mi>
               </m:mrow>
               <m:mo>∕</m:mo>
@@ -1055,11 +1055,11 @@
         <m:mrow><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow>
       </m:msup>
     </m:mrow>
-   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+   <m:mo rspace="verythinmathspace">⁢</m:mo>
     <m:mrow>
       <m:mrow>
         <m:mi mathvariant="normal">T</m:mi>
-      <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+      <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">m</m:mi>
       </m:mrow>
       <m:mo>∕</m:mo>
@@ -1097,7 +1097,7 @@
       <problem id="fs-id1167133611311">
         <para id="fs-id1167132528978">Czy indukcyjność własna ciasno nawiniętego solenoidu o długości <m:math display="inline">
           <m:mn>1</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">m</m:mi>
           </m:math> jest różna od indukcyjności własnej na metr identycznego, ale nieskończonego solenoidu?</para></problem>
       </exercise>
@@ -1128,15 +1128,15 @@
       <exercise id="fs-id1167132333188"><problem id="fs-id1167133766479">
           <para id="fs-id1167133575950">Kiedy natężenie prądu płynącego przez cewkę zmienia się jednostajnie od <m:math display="inline">
             <m:mn>0,1</m:mn>
-           <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+           <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">A</m:mi>
           </m:math> do <m:math display="inline">
           <m:mn>0,6</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">A</m:mi>
         </m:math>, indukowana jest SEM o wartości <m:math display="inline">
         <m:mn>0,4</m:mn>
-     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+     <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">V</m:mi>
         </m:math>. Jaka jest indukcyjność własna cewki?</para>
       </problem>
@@ -1144,7 +1144,7 @@
         <para id="fs-id1167133660431">
           <m:math display="inline">
             <m:mn>0,24</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mi mathvariant="normal">H</m:mi>
             </m:math>.</para>
           </solution>
@@ -1162,11 +1162,11 @@
           <exercise id="fs-id1167133407919"><problem id="fs-id1167133525844">
               <para id="fs-id1167132274652">Jaka jest szybkość zmian natężenia prądu w cewce o indukcyjności <m:math display="inline">
                 <m:mn>0,3</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">H</m:mi>
               </m:math>, jeśli indukowana SEM ma wartość <m:math display="inline">
               <m:mn>0,12</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mi mathvariant="normal">V</m:mi>
               </m:math>?</para>
             </problem>
@@ -1174,7 +1174,7 @@
               <para id="fs-id1167132241605">
                 <m:math display="inline">
                   <m:mn>0,4</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mrow>
                     <m:mi mathvariant="normal">A</m:mi>
                     <m:mo>∕</m:mo>
@@ -1185,15 +1185,15 @@
               </exercise><exercise id="fs-id1167132602184"><problem id="fs-id1167128956190">
                   <para id="fs-id1167132281470">Po wykonaniu zdjęcia z fleszem kondensator w lampie błyskowej rozładowuje się przez cewkę indukcyjną. W jakim czasie prąd o natężeniu <m:math display="inline">
                     <m:mn>0,1</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mi mathvariant="normal">A</m:mi>
                   </m:math> musi zostać włączony lub wyłączony, aby wyindukować SEM o wartości <m:math display="inline">
                   <m:mn>500</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">V</m:mi>
                 </m:math> w cewce o indukcyjności własnej <m:math display="inline">
                 <m:mn>2</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">mH</m:mi>
                 </m:math>?</para>
               </problem>
@@ -1201,21 +1201,21 @@
               <problem id="fs-id1167133694290">
                 <para id="fs-id1167132466244">Natężenie prądu płynącego w cewce o indukcyjności własnej <m:math display="inline">
                   <m:mn>2</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">H</m:mi>
-                </m:math> zmienia się zgodnie z równaniem <m:math display="inline"><m:mrow><m:mi>i</m:mi><m:mo>⁡</m:mo><m:mfenced><m:mi>t</m:mi></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>2</m:mn><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mo>sin</m:mo><m:mfenced><m:mrow><m:mrow><m:mn>120</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow><m:mo>⋅</m:mo><m:mi>t</m:mi></m:mrow></m:mfenced></m:mrow></m:mrow></m:math>. Znajdź wyrażenie na SEM indukowaną w cewce.</para></problem>
+                </m:math> zmienia się zgodnie z równaniem <m:math display="inline"><m:mrow><m:mi>i</m:mi><m:mo>⁡</m:mo><m:mfenced><m:mi>t</m:mi></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>2</m:mn><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mo>sin</m:mo><m:mfenced><m:mrow><m:mrow><m:mn>120</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi><m:mo rspace="verythinmathspace">⁢</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow><m:mo>⋅</m:mo><m:mi>t</m:mi></m:mrow></m:mfenced></m:mrow></m:mrow></m:math>. Znajdź wyrażenie na SEM indukowaną w cewce.</para></problem>
               <solution id="fs-id1167132460816">
-                <para id="fs-id1167132267417"><m:math display="inline"><m:mi>ε</m:mi><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>480</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:mi mathvariant="normal">V</m:mi></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mo>sin</m:mo><m:mfenced><m:mrow><m:mrow><m:mrow><m:mn>120</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi><m:mo rspace="verythinmathspace" lspace="">⁢</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow><m:mo>⋅</m:mo><m:mi>t</m:mi></m:mrow><m:mo>−</m:mo><m:mrow><m:mi>π</m:mi><m:mo>∕</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mfenced></m:mrow></m:mrow></m:math>.</para></solution>
+                <para id="fs-id1167132267417"><m:math display="inline"><m:mi>ε</m:mi><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>480</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi><m:mo rspace="verythinmathspace">⁢</m:mo><m:mi mathvariant="normal">V</m:mi></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mo>sin</m:mo><m:mfenced><m:mrow><m:mrow><m:mrow><m:mn>120</m:mn><m:mo>⁢</m:mo><m:mi>π</m:mi><m:mo rspace="verythinmathspace">⁢</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow><m:mo>⋅</m:mo><m:mi>t</m:mi></m:mrow><m:mo>−</m:mo><m:mrow><m:mi>π</m:mi><m:mo>∕</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mfenced></m:mrow></m:mrow></m:math>.</para></solution>
                 </exercise>
                 <exercise id="fs-id1167132559745">
                   <problem id="fs-id1167132524604">
                     <para id="fs-id1167132753868">Solenoid o długości <m:math display="inline">
                       <m:mn>50</m:mn>
-                     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                     <m:mo rspace="verythinmathspace">⁢</m:mo>
                       <m:mi mathvariant="normal">cm</m:mi>
                     </m:math> zwinięty jest z 500 zwojów drutu. Przekrój poprzeczny cewki wynosi <m:math display="inline">
                   <m:mn>2</m:mn>
-                 <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                 <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:msup>
                     <m:mi mathvariant="normal">cm</m:mi>
                     <m:mn>2</m:mn>
@@ -1225,7 +1225,7 @@
               <exercise id="fs-id1167133845735"><problem id="fs-id1167132422781">
                   <para id="fs-id1167132617434">Natężenie prądu płynącego przez cewkę o indukcyjności własnej <m:math display="inline">
                     <m:mn>3</m:mn>
-                   <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                   <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mi mathvariant="normal">H</m:mi>
                   </m:math> zmienia się jednostajnie z szybkością <m:math display="inline">
                   <m:mrow>
@@ -1244,7 +1244,7 @@
                     <m:mo>−</m:mo>
                     <m:mrow>
                       <m:mn>0,05</m:mn>
-                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                       <m:mrow>
                         <m:mi mathvariant="normal">A</m:mi>
                         <m:mo>∕</m:mo>
@@ -1258,7 +1258,7 @@
                   <para id="fs-id1167132444608">
                     <m:math display="inline">
                       <m:mn>0,15</m:mn>
-                     <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                     <m:mo rspace="verythinmathspace">⁢</m:mo>
                       <m:mi mathvariant="normal">V</m:mi>
                       </m:math>. Kierunek pokrywa się z SEM, która wywołuje przepływ prądu.</para>
                     </solution>
@@ -1272,18 +1272,18 @@
                         </m:mfenced>
                       </m:math> płynącego przez cewkę o indukcyjności własnej <m:math display="inline">
                       <m:mn>5</m:mn>
-                    <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                    <m:mo rspace="verythinmathspace">⁢</m:mo>
                       <m:mi mathvariant="normal">mH</m:mi>
                     </m:math> zmienia się w czasie tak, jak narysowano poniżej. Oporność cewki wynosi <m:math display="inline">
                     <m:mn>5</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mi mathvariant="normal">Ω</m:mi>
                   </m:math>. Oblicz napięcie w cewce w czasie <m:math display="inline">
                   <m:mi>t</m:mi>
                   <m:mo>=</m:mo>
                   <m:mrow>
                     <m:mn>2</m:mn>
-                  <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                  <m:mo rspace="verythinmathspace">⁢</m:mo>
                     <m:mi mathvariant="normal">ms</m:mi>
                   </m:mrow>
                 </m:math>, <m:math display="inline">
@@ -1291,7 +1291,7 @@
                 <m:mo>=</m:mo>
                 <m:mrow>
                   <m:mn>4</m:mn>
-                <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+                <m:mo rspace="verythinmathspace">⁢</m:mo>
                   <m:mi mathvariant="normal">ms</m:mi>
                 </m:mrow>
               </m:math>, oraz <m:math display="inline">
@@ -1299,7 +1299,7 @@
               <m:mo>=</m:mo>
               <m:mrow>
                 <m:mn>8</m:mn>
-              <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+              <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">ms</m:mi>
               </m:mrow>
               </m:math>.
@@ -1311,7 +1311,7 @@
           <exercise id="fs-id1167133775680"><problem id="fs-id1167132444948">
               <para id="fs-id1167132686452">Na centymetr długości cylindrycznego solenoidu o promieniu <m:math display="inline">
                 <m:mn>1,5</m:mn>
-               <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+               <m:mo rspace="verythinmathspace">⁢</m:mo>
                 <m:mi mathvariant="normal">cm</m:mi>
               </m:math> przypada <m:math display="inline">
               <m:mn>100</m:mn>
@@ -1319,7 +1319,7 @@
             <item>Zakładając, że solenoid jest nieskończenie długi, jaka jest jego indukcyjność własna na jednostkę długości?</item>
             <item>Jaka SEM indukowana jest na jednostkę długości, jeśli natężenie prądu płynącego przez solenoid zmienia się z szybkością <m:math display="inline">
               <m:mn>5</m:mn>
-            <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+            <m:mo rspace="verythinmathspace">⁢</m:mo>
               <m:mrow>
                 <m:mi mathvariant="normal">A</m:mi>
                 <m:mo>∕</m:mo>
@@ -1332,7 +1332,7 @@
         <solution id="fs-id1167132276189">
           <para id="fs-id1167132458420">a. <m:math display="inline">
             <m:mn>0,089</m:mn>
-           <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+           <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mrow>
               <m:mi mathvariant="normal">H</m:mi>
               <m:mo>∕</m:mo>
@@ -1340,7 +1340,7 @@
             </m:mrow>
           </m:math>; b. <m:math display="inline">
           <m:mn>0,44</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mrow>
             <m:mi mathvariant="normal">V</m:mi>
             <m:mo>∕</m:mo>
@@ -1352,14 +1352,14 @@
         <problem id="fs-id1167133334227">
           <para id="fs-id1167133711199">Przyjmijmy, że toroidalna cewka o przekroju prostokątnym ma 2000 zwojów i indukcyjność własną <m:math display="inline">
           <m:mn>0,04</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">H</m:mi>
         </m:math>. Ile wynosi stosunek wewnętrznego do zewnętrznego promienia cewki, jeśli <m:math display="inline">
         <m:mi>h</m:mi>
         <m:mo>=</m:mo>
         <m:mrow>
           <m:mn>0,1</m:mn>
-         <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+         <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">m</m:mi>
         </m:mrow>
         </m:math>?
@@ -1371,11 +1371,11 @@
     <exercise id="fs-id1167132540818"><problem id="fs-id1167133828384">
         <para id="fs-id1167133722347">Ile wynosi indukcyjność wzajemna na metr koncentrycznego kabla, którego wewnętrzny promień wynosi <m:math display="inline">
           <m:mn>0,5</m:mn>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
           <m:mi mathvariant="normal">mm</m:mi>
         </m:math>, a zewnętrzny – <m:math display="inline">
         <m:mn>4</m:mn>
-       <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+       <m:mo rspace="verythinmathspace">⁢</m:mo>
         <m:mi mathvariant="normal">mm</m:mi>
         </m:math>?</para>
       </problem>
@@ -1397,7 +1397,7 @@
                 <m:mrow><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow>
               </m:msup>
             </m:mrow>
-           <m:mo rspace="verythinmathspace" lspace="">⁢</m:mo>
+           <m:mo rspace="verythinmathspace">⁢</m:mo>
             <m:mrow>
               <m:mi mathvariant="normal">H</m:mi>
               <m:mo>∕</m:mo>

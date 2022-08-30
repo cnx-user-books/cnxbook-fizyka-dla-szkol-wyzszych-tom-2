@@ -102,7 +102,7 @@
       <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_30_02_Switch.jpg"/>
     </media>
     <caption>(a) Solenoid podłączony do źródła siły elektromotorycznej. (b) Otwarcie wyłącznika W przerywa przepływ prądu, powodując zaindukowanie się SEM w uzwojeniu solenoidu. (c) SEM indukowana w uzwojeniu cewki wytwarza różnicę potencjałów pomiędzy ostrzami prętów widocznych na zdjęciu. Różnica ta jest na tyle duża, że pomiędzy ostrzami powstaje łuk elektryczny.</caption>
-  </figure><equation id="eip-203" class="unnumbered"><m:math/></equation>
+  </figure><equation id="eip-203" class="unnumbered"/>
   <note id="fs-id1171242104175" class="check-understanding">
     <exercise id="fs-id1171242537913">
       <problem id="fs-id1171242609174">

@@ -205,7 +205,7 @@
           </m:math> (<m:math display="inline"><m:mi mathvariant="normal">Ω</m:mi><m:mo rspace="verythinmathspace" lspace="0px">⁢</m:mo><m:mi mathvariant="normal">m</m:mi></m:math>)
         </entry>
         <entry valign="top" align="left">Współczynnik temperaturowy <m:math display="inline">
-          <m:mi>α</m:mi></m:math> (<m:math display="inline"><m:msup><m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)
+          <m:mi>α</m:mi></m:math> (<m:math display="inline"><m:mmultiscripts><m:mi mathvariant="normal">°</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:mi mathvariant="normal">C</m:mi></m:mmultiscripts></m:math>)
       </entry>
     </row>
   </thead>
@@ -1625,7 +1625,7 @@
   <title>Rozwiązanie</title>Rezystancję gorącego żarnika <m:math display="inline">
       <m:mi>R</m:mi>
     </m:math> można obliczyć, wstawiając znane wielkości do powyższego równania</para>
-    <equation id="fs-id1170902069982" class="unnumbered"><m:math display="block"><m:mi>R</m:mi><m:mo>=</m:mo><m:mrow><m:msub><m:mi>R</m:mi><m:mn>0</m:mn></m:msub><m:mo>⁢</m:mo><m:mfenced><m:mrow><m:mn>1</m:mn><m:mo>+</m:mo><m:mrow><m:mi>α</m:mi><m:mo>⁢</m:mo><m:mrow><m:mo>Δ</m:mo><m:mi>T</m:mi></m:mrow></m:mrow></m:mrow></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>0,35</m:mn><m:mo rspace="verythinmathspace" lspace="0px">⁢</m:mo><m:mi mathvariant="normal">Ω</m:mi></m:mrow><m:mo>⋅</m:mo><m:mfenced><m:mrow><m:mn>1</m:mn><m:mo>+</m:mo><m:mrow><m:mrow><m:mrow><m:mn>4,5</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-3</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="0px">⁢</m:mo><m:msup><m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi><m:mn>-1</m:mn></m:msup></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mn>2830</m:mn><m:mo rspace="verythinmathspace" lspace="0px">⁢</m:mo><m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi></m:mrow></m:mrow></m:mrow></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>4,8</m:mn><m:mo rspace="verythinmathspace" lspace="0px">⁢</m:mo><m:mi mathvariant="normal">Ω</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:math></equation><para id="fs-id1170902438152">
+    <equation id="fs-id1170902069982" class="unnumbered"><m:math display="block"><m:mi>R</m:mi><m:mo>=</m:mo><m:mrow><m:msub><m:mi>R</m:mi><m:mn>0</m:mn></m:msub><m:mo>⁢</m:mo><m:mfenced><m:mrow><m:mn>1</m:mn><m:mo>+</m:mo><m:mrow><m:mi>α</m:mi><m:mo>⁢</m:mo><m:mrow><m:mo>Δ</m:mo><m:mi>T</m:mi></m:mrow></m:mrow></m:mrow></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>0,35</m:mn><m:mo rspace="verythinmathspace" lspace="0px">⁢</m:mo><m:mi mathvariant="normal">Ω</m:mi></m:mrow><m:mo>⋅</m:mo><m:mfenced><m:mrow><m:mn>1</m:mn><m:mo>+</m:mo><m:mrow><m:mrow><m:mrow><m:mn>4,5</m:mn><m:mo>⋅</m:mo><m:msup><m:mn>10</m:mn><m:mn>-3</m:mn></m:msup></m:mrow><m:mo rspace="verythinmathspace" lspace="0px">⁢</m:mo><m:mmultiscripts><m:mi mathvariant="normal">°</m:mi><m:mn>-1</m:mn><m:mi mathvariant="normal">C</m:mi></m:mmultiscripts></m:mrow><m:mo>⋅</m:mo><m:mrow><m:mn>2830</m:mn><m:mo rspace="verythinmathspace" lspace="0px">⁢</m:mo><m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi></m:mrow></m:mrow></m:mrow></m:mfenced></m:mrow><m:mo>=</m:mo><m:mrow><m:mrow><m:mn>4,8</m:mn><m:mo rspace="verythinmathspace" lspace="0px">⁢</m:mo><m:mi mathvariant="normal">Ω</m:mi></m:mrow><m:mo>⁢</m:mo><m:mtext>.</m:mtext></m:mrow></m:math></equation><para id="fs-id1170902438152">
       <title>Znaczenie</title>Rezystancja zmienia się o rząd wielkości, gdy żarnik grzeje się do wysokiej temperatury. Pamiętając o tym, że natężenie prądu zależy od rezystancji żarnika oraz przyłożonego napięcia, należy zauważyć, że w żarniku zastosowanym w żarówce początkowo płynący prąd będzie miał większe natężenie niż po nagrzaniu się żarnika do temperatury świecenia.</para>
     </example>
     <note id="fs-id1170902075185" class="check-understanding">
@@ -2130,7 +2130,7 @@
                 </m:mfenced>
               </m:mrow>
             </m:math>, 
-<m:math display="inline"><m:mi>α</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0,006</m:mn><m:mo rspace="verythinmathspace" lspace="0px">⁢</m:mo><m:msup><m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>, żelazo.</para></solution>
+<m:math display="inline"><m:mi>α</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0,006</m:mn><m:mo rspace="verythinmathspace" lspace="0px">⁢</m:mo><m:mmultiscripts><m:mi mathvariant="normal">°</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:mi mathvariant="normal">C</m:mi></m:mmultiscripts></m:mrow></m:math>, żelazo.</para></solution>
         </exercise><exercise id="fs-id1170903763192">
           <problem id="fs-id1170903763194">
             <para id="fs-id1170903763196">Urządzenia elektroniczne zaprojektowane w taki sposób, aby pracowały w przedziale temperatur od <m:math display="inline">
@@ -2292,7 +2292,7 @@
             <m:mo>+</m:mo>
             <m:mrow>
 
-<m:mn>0,0034</m:mn><m:mo rspace="verythinmathspace" lspace="0px">⁢</m:mo><m:msup><m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup>
+<m:mn>0,0034</m:mn><m:mo rspace="verythinmathspace" lspace="0px">⁢</m:mo><m:mmultiscripts><m:mi mathvariant="normal">°</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:mi mathvariant="normal">C</m:mi></m:mmultiscripts>
 
               <m:mo>⁢</m:mo>
               <m:mfenced>
@@ -2387,7 +2387,7 @@
         </m:mrow>
         <m:mo>=</m:mo>
         <m:mrow>
-<m:mn>0,0065</m:mn><m:mo rspace="verythinmathspace" lspace="0px">⁢</m:mo><m:msup><m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup>
+<m:mn>0,0065</m:mn><m:mo rspace="verythinmathspace" lspace="0px">⁢</m:mo><m:mmultiscripts><m:mi mathvariant="normal">°</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:mi mathvariant="normal">C</m:mi></m:mmultiscripts>
 </m:mrow>
 </m:math>, 
 <m:math>
@@ -2399,7 +2399,7 @@
         </m:mrow>
         <m:mo>=</m:mo>
         <m:mrow>
-<m:mn>0,0039</m:mn><m:mo rspace="verythinmathspace" lspace="0px">⁢</m:mo><m:msup><m:mi mathvariant="normal">°</m:mi><m:mi mathvariant="normal">C</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup>
+<m:mn>0,0039</m:mn><m:mo rspace="verythinmathspace" lspace="0px">⁢</m:mo><m:mmultiscripts><m:mi mathvariant="normal">°</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:mi mathvariant="normal">C</m:mi></m:mmultiscripts>
 </m:mrow>
 </m:math>, 
 <m:math>

@@ -109,7 +109,7 @@
 <m:mo>=</m:mo>
 <m:mrow>
   <m:mn>0</m:mn>
-  <m:mo rspace="verythinmathspace" lspace="">⁢⁢</m:mo>
+  <m:mo rspace="verythinmathspace">⁢⁢</m:mo>
   <m:mi mathvariant="normal">J</m:mi>
 </m:mrow>
 </m:math>.</para><para id="fs-id1172097407125">Do tej pory wprowadziliśmy kilka wielkości fizycznych istotnych dla układów termodynamicznych – takich jak objętość, ciśnienie i temperatura układu. Możemy podzielić te wielkości na dwie dość ogólne kategorie. Wielkości zależne od ilości materii to <term class="no-emphasis" cmlnle:reference="wielkość ekstensywna">wielkości ekstensywne</term> (ang. <foreign><term cxlxt:index="foreign" class="no-emphasis">extensive variable</term></foreign>), takie jak objętość czy liczba moli. Wielkości, które nie zależą od ilości materii, np. temperatura lub ciśnienie, są <term class="no-emphasis" cmlnle:reference="wielkość intensywna">wielkościami intensywnymi</term> (ang. <foreign><term cxlxt:index="foreign" class="no-emphasis">intensive variable</term></foreign>). Wartość wielkości ekstensywnej wzrasta dwukrotnie wraz z podwojeniem ilości materii w układzie, pod warunkiem że wszystkie wielkości intensywne pozostaną niezmienione. Przykładowo objętość lub całkowita energia układu wzrastają dwukrotnie, jeśli zwiększymy dwukrotnie ilość materii w układzie, nie zmieniając przy tym temperatury i ciśnienia układu.</para><section id="fs-id1172101903950" class="key-concepts">
